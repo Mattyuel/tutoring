@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 130" width="560" height="130" font-family="Inter, Arial, sans-serif" font-size="14">
+<rect width="560" height="130" fill="#fff"/>
+<text x="30" y="24" font-weight="700" fill="#1f4e8c">Array A</text>
+<text x="350" y="24" font-weight="700" fill="#1f4e8c">Array B</text>
+<g fill="#1f4e8c">
+<circle cx="40" cy="50" r="7"/>
+<circle cx="62" cy="50" r="7"/>
+<circle cx="84" cy="50" r="7"/>
+<circle cx="106" cy="50" r="7"/>
+<circle cx="128" cy="50" r="7"/>
+<circle cx="150" cy="50" r="7"/>
+<circle cx="172" cy="50" r="7"/>
+<circle cx="194" cy="50" r="7"/>
+<circle cx="216" cy="50" r="7"/>
+<circle cx="238" cy="50" r="7"/>
+<circle cx="260" cy="50" r="7"/>
+<circle cx="282" cy="50" r="7"/>
+<circle cx="40" cy="72" r="7"/>
+<circle cx="62" cy="72" r="7"/>
+<circle cx="84" cy="72" r="7"/>
+<circle cx="106" cy="72" r="7"/>
+<circle cx="128" cy="72" r="7"/>
+<circle cx="150" cy="72" r="7"/>
+<circle cx="172" cy="72" r="7"/>
+<circle cx="194" cy="72" r="7"/>
+<circle cx="216" cy="72" r="7"/>
+<circle cx="238" cy="72" r="7"/>
+<circle cx="260" cy="72" r="7"/>
+<circle cx="282" cy="72" r="7"/>
+<circle cx="360" cy="50" r="7"/>
+<circle cx="382" cy="50" r="7"/>
+<circle cx="404" cy="50" r="7"/>
+<circle cx="426" cy="50" r="7"/>
+<circle cx="448" cy="50" r="7"/>
+<circle cx="470" cy="50" r="7"/>
+<circle cx="492" cy="50" r="7"/>
+<circle cx="514" cy="50" r="7"/>
+<circle cx="360" cy="72" r="7"/>
+<circle cx="382" cy="72" r="7"/>
+<circle cx="404" cy="72" r="7"/>
+<circle cx="426" cy="72" r="7"/>
+<circle cx="448" cy="72" r="7"/>
+<circle cx="470" cy="72" r="7"/>
+<circle cx="492" cy="72" r="7"/>
+<circle cx="514" cy="72" r="7"/>
+<circle cx="360" cy="94" r="7"/>
+<circle cx="382" cy="94" r="7"/>
+<circle cx="404" cy="94" r="7"/>
+<circle cx="426" cy="94" r="7"/>
+<circle cx="448" cy="94" r="7"/>
+<circle cx="470" cy="94" r="7"/>
+<circle cx="492" cy="94" r="7"/>
+<circle cx="514" cy="94" r="7"/>
+</g></svg>

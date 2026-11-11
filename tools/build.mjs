@@ -63,7 +63,7 @@ function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(
 
 function toHtml(meta) {
   let body = execFileSync('pandoc', [
-    '-f', 'commonmark_x+hard_line_breaks-gfm_auto_identifiers',
+    '-f', 'commonmark_x+hard_line_breaks-fancy_lists-gfm_auto_identifiers',
     '-t', 'html5', '--mathml', '--wrap=none',
   ], { input: meta.src, encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
 
