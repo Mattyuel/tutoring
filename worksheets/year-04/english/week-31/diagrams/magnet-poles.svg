@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="680" height="240" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="680" height="240" fill="#fff"/>
+  <defs>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#0f6b5c"/></marker>
+  </defs>
+  <!-- cell frames -->
+  <g fill="none" stroke="#cbd5e1" stroke-width="1.5">
+    <rect x="5" y="5" width="330" height="110" rx="8"/><rect x="345" y="5" width="330" height="110" rx="8"/>
+    <rect x="5" y="125" width="330" height="110" rx="8"/><rect x="345" y="125" width="330" height="110" rx="8"/>
+  </g>
+  <g font-weight="800" fill="#0f6b5c" font-size="15">
+    <text x="15" y="26">A</text><text x="355" y="26">B</text><text x="15" y="146">C</text><text x="355" y="146">D</text>
+  </g>
+  <text x="35" y="26" fill="#0f6b5c" font-size="12" font-style="italic">example</text>
+
+  <!-- A: N|S   N|S  (S faces N) -->
+  <g transform="translate(5,5)">
+    <rect x="25" y="40" width="60" height="34" fill="#dc2626"/><rect x="85" y="40" width="60" height="34" fill="#2563eb"/>
+    <rect x="185" y="40" width="60" height="34" fill="#dc2626"/><rect x="245" y="40" width="60" height="34" fill="#2563eb"/>
+    <g fill="#fff" font-weight="800" font-size="15" text-anchor="middle"><text x="55" y="62">N</text><text x="115" y="62">S</text><text x="215" y="62">N</text><text x="275" y="62">S</text></g>
+    <g stroke="#0f6b5c" stroke-width="2.5" marker-end="url(#ar)"><line x1="90" y1="30" x2="135" y2="30"/><line x1="240" y1="30" x2="195" y2="30"/></g>
+    <rect x="105" y="82" width="120" height="22" rx="4" fill="#fff" stroke="#0f6b5c"/>
+    <text x="165" y="98" text-anchor="middle" fill="#0f6b5c" font-weight="700">attract</text>
+  </g>
+  <!-- B: N|S   S|N  -->
+  <g transform="translate(345,5)">
+    <rect x="25" y="40" width="60" height="34" fill="#dc2626"/><rect x="85" y="40" width="60" height="34" fill="#2563eb"/>
+    <rect x="185" y="40" width="60" height="34" fill="#2563eb"/><rect x="245" y="40" width="60" height="34" fill="#dc2626"/>
+    <g fill="#fff" font-weight="800" font-size="15" text-anchor="middle"><text x="55" y="62">N</text><text x="115" y="62">S</text><text x="215" y="62">S</text><text x="275" y="62">N</text></g>
+    <rect x="105" y="82" width="120" height="22" rx="4" fill="#fff" stroke="#94a3b8" stroke-dasharray="4 3"/>
+  </g>
+  <!-- C: S|N   N|S  -->
+  <g transform="translate(5,125)">
+    <rect x="25" y="40" width="60" height="34" fill="#2563eb"/><rect x="85" y="40" width="60" height="34" fill="#dc2626"/>
+    <rect x="185" y="40" width="60" height="34" fill="#dc2626"/><rect x="245" y="40" width="60" height="34" fill="#2563eb"/>
+    <g fill="#fff" font-weight="800" font-size="15" text-anchor="middle"><text x="55" y="62">S</text><text x="115" y="62">N</text><text x="215" y="62">N</text><text x="275" y="62">S</text></g>
+    <rect x="105" y="82" width="120" height="22" rx="4" fill="#fff" stroke="#94a3b8" stroke-dasharray="4 3"/>
+  </g>
+  <!-- D: S|N   S|N  -->
+  <g transform="translate(345,125)">
+    <rect x="25" y="40" width="60" height="34" fill="#2563eb"/><rect x="85" y="40" width="60" height="34" fill="#dc2626"/>
+    <rect x="185" y="40" width="60" height="34" fill="#2563eb"/><rect x="245" y="40" width="60" height="34" fill="#dc2626"/>
+    <g fill="#fff" font-weight="800" font-size="15" text-anchor="middle"><text x="55" y="62">S</text><text x="115" y="62">N</text><text x="215" y="62">S</text><text x="275" y="62">N</text></g>
+    <rect x="105" y="82" width="120" height="22" rx="4" fill="#fff" stroke="#94a3b8" stroke-dasharray="4 3"/>
+  </g>
+</svg>

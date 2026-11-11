@@ -114,7 +114,7 @@ function toHtml(meta) {
   // --- Sized answer space (invisible on GitHub):
   //   <!-- lines:N -->  -> N ruled writing lines
   //   <!-- work:N -->   -> blank working box N lines tall (maths)
-  body = body.replace(/<!--\s*lines:(\d+)\s*-->/g, (_, n) => `<div class="lines" style="--n:${n}">${'<div class="wline"></div>'.repeat(+n)}</div>`);
+  body = body.replace(/<!--\s*lines:(\d+)\s*-->/g, (_, n) => `<div class="lines${+n > 8 ? ' long' : ''}" style="--n:${n}">${'<div class="wline"></div>'.repeat(+n)}</div>`);
   body = body.replace(/<!--\s*work:(\d+)\s*-->/g, (_, n) => `<div class="working" style="min-height:calc(${n} * var(--line))"><span>Working</span></div>`);
   // Checklists: "- [ ] item" -> tick box
   body = body.replace(/<li>\[ \]\s*/g, '<li class="tick"><span class="box"></span>');

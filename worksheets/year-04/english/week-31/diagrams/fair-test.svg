@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 270" width="680" height="270" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="680" height="270" fill="#fff"/>
+  <!-- table -->
+  <rect x="40" y="240" width="420" height="10" fill="#d6d3d1" stroke="#78716c"/>
+  <!-- stand -->
+  <rect x="70" y="228" width="140" height="12" rx="2" fill="#9ca3af" stroke="#374151"/>
+  <rect x="96" y="30" width="8" height="198" fill="#9ca3af" stroke="#374151"/>
+  <rect x="104" y="52" width="96" height="8" fill="#9ca3af" stroke="#374151"/>
+  <rect x="190" y="44" width="16" height="24" rx="2" fill="#6b7280" stroke="#374151"/>
+  <!-- magnet -->
+  <rect x="206" y="45" width="55" height="22" fill="#2563eb"/>
+  <rect x="261" y="45" width="55" height="22" fill="#dc2626"/>
+  <g fill="#fff" font-weight="800" text-anchor="middle"><text x="233" y="61">S</text><text x="288" y="61">N</text></g>
+  <!-- paper-clip chain -->
+  <g fill="none" stroke="#475569" stroke-width="2">
+    <rect x="300" y="64" width="12" height="28" rx="6"/>
+    <rect x="300" y="86" width="12" height="28" rx="6"/>
+    <rect x="300" y="108" width="12" height="28" rx="6"/>
+    <rect x="300" y="130" width="12" height="28" rx="6"/>
+    <rect x="300" y="152" width="12" height="28" rx="6"/>
+  </g>
+  <!-- labels -->
+  <g fill="#b45309">
+    <text x="400" y="40">magnet being tested</text>
+    <text x="400" y="128">chain of paper clips</text>
+    <text x="400" y="148">(count how many hang)</text>
+    <text x="120" y="110">stand and clamp</text>
+    <text x="480" y="249">table</text>
+  </g>
+  <g stroke="#b45309" stroke-width="1.2">
+    <line x1="398" y1="38" x2="300" y2="50"/>
+    <line x1="398" y1="124" x2="316" y2="124"/>
+    <line x1="150" y1="98" x2="160" y2="62"/>
+    <line x1="478" y1="245" x2="462" y2="245"/>
+  </g>
+</svg>

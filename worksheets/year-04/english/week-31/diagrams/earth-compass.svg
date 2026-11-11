@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="680" height="300" fill="#fff"/>
+  <defs>
+    <marker id="up" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#0f6b5c"/></marker>
+  </defs>
+  <!-- field lines -->
+  <g fill="none" stroke="#0f6b5c" stroke-width="1.6" stroke-dasharray="6 4">
+    <path d="M335,238 C150,300 150,0 335,62"/>
+    <path d="M335,238 C40,330 40,-30 335,62"/>
+    <path d="M345,238 C530,300 530,0 345,62"/>
+    <path d="M345,238 C640,330 640,-30 345,62"/>
+  </g>
+  <!-- direction arrowheads at widest points (pointing north/up) -->
+  <g fill="#0f6b5c">
+    <path d="M196,156 l-6,8 h12 z" transform="translate(0,-10)"/>
+    <path d="M114,156 l-6,8 h12 z" transform="translate(0,-10)"/>
+    <path d="M484,156 l-6,8 h12 z" transform="translate(0,-10)"/>
+    <path d="M566,156 l-6,8 h12 z" transform="translate(0,-10)"/>
+  </g>
+  <!-- Earth -->
+  <circle cx="340" cy="150" r="90" fill="#bfdbfe" stroke="#1e3a8a" stroke-width="2"/>
+  <path d="M300,95 q20,-12 38,4 q14,18 -4,34 q-20,8 -30,-8 z M350,150 q22,-6 34,14 q4,26 -18,40 q-18,-6 -16,-26 z M300,170 q14,4 12,22 q-10,10 -20,-4 z" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+  <!-- giant magnet idea -->
+  <rect x="332" y="85" width="16" height="130" rx="3" fill="#9ca3af" fill-opacity="0.85" stroke="#4b5563" transform="rotate(10 340 150)"/>
+  <!-- geographic poles -->
+  <g fill="#1d2330" font-weight="700">
+    <circle cx="340" cy="60" r="3"/><circle cx="340" cy="240" r="3"/>
+    <text x="352" y="20">North Pole</text><text x="352" y="292">South Pole</text>
+  </g>
+  <g stroke="#1d2330" stroke-width="1"><line x1="350" y1="24" x2="341" y2="57"/><line x1="350" y1="280" x2="341" y2="243"/></g>
+  <!-- compass in Perth -->
+  <circle cx="232" cy="220" r="17" fill="#fff" stroke="#1d2330" stroke-width="2"/>
+  <polygon points="224.6,208.1 234.6,218.4 229.4,221.6" fill="#dc2626"/>
+  <polygon points="239.4,231.9 234.6,218.4 229.4,221.6" fill="#2563eb"/>
+  <circle cx="232" cy="220" r="1.8" fill="#1d2330"/>
+  <circle cx="263" cy="198" r="3" fill="#b91c1c"/>
+  <line x1="249" y1="210" x2="261" y2="200" stroke="#1d2330"/>
+  <text x="20" y="252" fill="#1d2330">compass in Perth</text>
+  <text x="20" y="268" fill="#1d2330">(red end = N)</text>
+  <line x1="130" y1="248" x2="214" y2="228" stroke="#1d2330"/>
+  <!-- blank compass X -->
+  <circle cx="455" cy="70" r="17" fill="#fff" stroke="#1d2330" stroke-width="2"/>
+  <circle cx="455" cy="70" r="1.8" fill="#1d2330"/>
+  <circle cx="409" cy="92" r="3" fill="#b91c1c"/>
+  <line x1="438" y1="76" x2="412" y2="90" stroke="#1d2330"/>
+  <text x="482" y="66" fill="#1d2330" font-weight="700">compass X</text>
+  <text x="482" y="82" fill="#1d2330">(draw its needle)</text>
+  <!-- labels -->
+  <text x="20" y="20" fill="#0f6b5c">magnetic field lines</text>
+  <line x1="95" y1="25" x2="118" y2="70" stroke="#0f6b5c"/>
+  <text x="510" y="250" fill="#4b5563">Earth acts like a</text>
+  <text x="510" y="266" fill="#4b5563">giant magnet</text>
+  <line x1="508" y1="250" x2="350" y2="190" stroke="#4b5563"/>
+  <text x="560" y="292" fill="#6b7280" font-size="12" font-style="italic">not to scale</text>
+</svg>

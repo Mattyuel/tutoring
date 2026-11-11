@@ -58,6 +58,7 @@ td:empty::after { content: "\00a0"; display: inline-block; height: 16px; }
 body.year-08 { --line: 8mm; }        /* Year 8 */
 .wline { border-bottom: 1px solid #9ca3af; height: var(--line); }
 .lines { margin: 2px 0 10px; break-inside: avoid; }
+.lines.long { break-inside: auto; }
 .working { border: 1.5px dashed #cbd2dc; border-radius: 6px; min-height: 120px; break-inside: avoid; margin: 8px 0; padding: 4px 8px; }
 .working span { font-size: 7.5pt; text-transform: uppercase; letter-spacing: .08em; color: #9ca3af; font-weight: 700; }
 ul.task-list { list-style: none; padding-left: 4px; }
