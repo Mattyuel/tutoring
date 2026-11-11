@@ -51,7 +51,7 @@ about the world while practising English.
 ## Term 4 — Synthesis & independent research
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
-| 31 | *Magnets Everywhere* — compasses, fridges, maglev trains (Science: Physical) | Adverbs & adverbial phrases (how, when, where) | Explanation with adverbials | ⬜ planned |
+| 31 | *Magnets Everywhere* — compasses, fridges, maglev trains (Science: Physical) | Adverbs & adverbial phrases (how, when, where) | Explanation with adverbials | ✅ written |
 | 32 | *From Seed to Flour* — wattleseed & processing (Chemical + History) | Procedural text: recipes; measurement vocabulary | Write a recipe/procedure | ⬜ planned |
 | 33 | *Saving the Western Swamp Tortoise* — endangered species & breeding programs (Biological) | Objective vs emotive language; text purpose | Report + persuasive appeal | ⬜ planned |
 | 34 | *Lost Among the Pinnacles* — narrative workshop (Literature + Week 1 content) | Sizzling starts; dialogue; paragraphing in narrative | Complete short story | ⬜ planned |

@@ -51,7 +51,7 @@ information-rich; the student learns content and analyses how the text works.
 ## Term 4 — Media, rights & extended response
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
-| 31 | *Fire, Flood and Cyclone* — WA natural hazards (Geography) | News report structure; objectivity | News report | ⬜ planned |
+| 31 | *Fire, Flood and Cyclone* — WA natural hazards (Geography) | News report structure; objectivity | News report | ✅ written |
 | 32 | *Same Event, Different Story* — comparing news coverage (Media literacy + Civics) | Bias, framing, omission | Comparative media analysis | ⬜ planned |
 | 33 | *The Mongol Empire* — conquest, trade and the Silk Road (History) | Reputation & historiography; evaluating claims | Argument: hero or villain? | ⬜ planned |
 | 34 | *The World of Work* — income, enterprise, future jobs (Economics) | Formal letters & emails; job applications | Application letter | ⬜ planned |

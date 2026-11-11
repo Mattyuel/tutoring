@@ -37,7 +37,7 @@
   <rect x="230" y="210" width="133" height="24" rx="2" fill="#7c93b8"/>
   <!-- blank event row for students -->
   <line x1="228" y1="252" x2="768" y2="252" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="10" y="276" font-weight="700" fill="#b91c1c">Events (Q4): write a letter</text>
+  <text x="10" y="276" font-weight="700" fill="#b91c1c">Events (Q3): write a letter</text>
   <text x="10" y="290" font-size="11" fill="#64748b">in the month it happened</text>
   <g fill="none" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 3">
     <rect x="232" y="260" width="37" height="30"/><rect x="277" y="260" width="37" height="30"/><rect x="322" y="260" width="37" height="30"/><rect x="367" y="260" width="37" height="30"/>

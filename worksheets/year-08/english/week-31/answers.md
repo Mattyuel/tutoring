@@ -74,7 +74,7 @@
 | Accuracy and hedging | figures changed or invented | figures correct; few hedges | all figures exactly as in fact file; hedges where needed (*about*, *under investigation*) |
 | Language control | errors impede meaning | mostly accurate; some long sentences unclear | precise, varied sentences; correct quote punctuation; 250–300 words |
 
-/21. Look especially for: whether the student **selected** (a strong report does not use every fact), correct punctuation of quotes, and whether *destroyed* vs *damaged* is kept accurate. Common errors: starting with the time of ignition (chronological), writing "devastating fire", reporting the social-media claim as fact, quoting only the resident.
+**Total: /21** (7 criteria × 3). Look especially for: whether the student **selected** (a strong report does not use every fact), correct punctuation of quotes, and whether *destroyed* vs *damaged* is kept accurate. Common errors: starting with the time of ignition (chronological), writing "devastating fire", reporting the social-media claim as fact, quoting only the resident.
 
 ### Part G
 21. Choices that shape the view: the order puts *No serious injuries* in the lead and ends the official section with the Shire President's positive quote, framing the response as a success; the vivid freight-train simile from Tom Walsh adds drama; official sources outnumber residents; the criticism about storm-surge information is unattributed (*some residents*) and placed after the Shire President. Strong answers conclude that it is still **fair** because claims are attributed, figures are exact, criticism is included and the reader can judge — objectivity is a matter of degree.
@@ -83,7 +83,7 @@
 ---
 
 ## Fast-finisher bank — answers & marking notes
-**F1.** Model (≈70 words): *Tropical Cyclone Harlow crossed the coast near Port Hensley overnight, damaging homes and bringing down power lines. The Bureau of Meteorology recorded a gust of 178 km/h. Resident Kylie Brant, a mother of two, said it was "the worst night of my life" and that she had received little warning. DFES has not yet responded to concerns about the timing of warnings.* Check: neutral verbs (*said*), exact figure, balance/right of reply.
+**F1.** Model (≈70 words): *Tropical Cyclone Harlow crossed the coast near Port Hensley overnight, damaging homes and bringing down power lines. The Bureau of Meteorology recorded a gust of 178 km/h. Resident Kylie Brant, a mother of two, said it was "the worst night of my life" and that she had received little warning. No serious injuries had been reported by Tuesday morning.* Check: neutral verbs (*said*), exact figure, balance (the key safety fact restored).
 
 **F2.** e.g. Neutral: *Wooroloo bushfire destroys more than 80 homes in Perth Hills*. Sensational: *INFERNO! Hills homes reduced to ash*. Question: *Could your street be next?* Clicks: sensational/question (curiosity, fear); trust: neutral (specific, verifiable, no exaggeration).
 

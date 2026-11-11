@@ -45,7 +45,7 @@
 ## Term 4 — Deepening & applying
 | Wk | Focus | Retrieval | Challenge | Status |
 |---|---|---|---|---|
-| 31 | Multiples & factors; number patterns with fractions/decimals | 3, 7, 13 | Prime and composite numbers | ⬜ planned |
+| 31 | Multiples & factors; number patterns with fractions/decimals | 3, 7, 13 | Prime and composite numbers | ✅ written |
 | 32 | Algebraic thinking: equivalent number sentences, unknowns, inverse operations | 7, 16 | Two-step unknowns (3 × □ + 4 = 25) | ⬜ planned |
 | 33 | Time & timetables applied: planning a Transperth trip; calendars | 9 | World time zones | ⬜ planned |
 | 34 | Large numbers & estimation: place value to millions; Fermi problems | 1, 16 | Rounding to estimate products | ⬜ planned |
