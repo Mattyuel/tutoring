@@ -71,7 +71,7 @@
 
 **3.** *(Calendar)* On the hazard calendar, write **S** (Seroja), **W** (Wooroloo) and **F** (Fitzroy River flood) in the month each event happened (or began). Then explain what the calendar suggests about the pressure on WA's emergency services each summer.
 
-<!-- lines:3 -->
+<!-- lines:4 -->
 
 **4.** *(Inferential)* Using ¶1, explain the difference between a *hazard* and a *disaster*. Use Seroja as your example.
 
@@ -103,12 +103,12 @@
 
 **8.** Describe the pattern in **wind** as distance inland increases, then the pattern in **rain**. Use ¶2 to explain **why** the two patterns are different.
 
-<!-- lines:4 -->
+<!-- lines:5 -->
 
 **9.** a) Calculate the **mean** 24-hour rainfall of the four stations. ________ mm
 b) A reporter writes: *"More than 200 mm of rain fell across the region."* Explain why this is misleading, then write an accurate replacement sentence that includes the figures and is attributed to the Bureau of Meteorology.
 
-<!-- lines:4 -->
+<!-- lines:5 -->
 
 **10.** Weather reports at sea often use **knots** (1 knot = 1.852 km/h). Convert Port Hensley's strongest gust to knots, to the nearest whole number. ________ knots
 
@@ -200,19 +200,19 @@ Which of the 5Ws + H is **not** answered, and why is that acceptable in a first 
 
 **15.** *(Selection and omission)* Name **two** important facts in Report A that Report B leaves out. How does leaving them out change the impression of the event?
 
-<!-- lines:4 -->
+<!-- lines:5 -->
 
 **16.** *(Voices and attribution)* List the sources quoted or named in each report. Then explain how vague phrases in Report B such as *"It is understood"* and *"Experts fear"* weaken its reliability.
 
-<!-- lines:5 -->
+<!-- lines:6 -->
 
 **17.** *(Week 2 link: passive voice)* Look at Report B ¶6: *"Questions are now being asked about whether enough was done…"* Who is asking? Who should have done more? Explain how the passive voice lets the writer blame someone without evidence.
 
-<!-- lines:4 -->
+<!-- lines:5 -->
 
 **18.** Report B's ¶3 quote may be completely genuine. Explain why a real, accurate quote can still make a report biased.
 
-<!-- lines:3 -->
+<!-- lines:4 -->
 
 ---
 
