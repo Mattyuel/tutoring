@@ -16,6 +16,8 @@ work pitched *at or above* year level, never below.
 | Formatting / layout / a new worksheet type | `templates/` (all files) | `templates/` |
 | Reading passages, images, reference facts, reusable texts | `materials/README.md` | `materials/` |
 | Homework or answer keys | `templates/style-guide.md` (Homework & Answers sections) | same `week-NN/` folder as the worksheet |
+| Diagrams for a worksheet | `templates/style-guide.md` (Diagrams section), existing `worksheets/**/diagrams/*.svg` for style | `worksheets/year-XX/<subject>/week-NN/diagrams/` |
+| Printing / PDFs / branding / document IDs | `tools/README.md` | run `node tools/build.mjs`, output in `dist/` |
 
 `XX` is the two-digit year level (`04`, `08`). `<subject>` is `maths` or `english`.
 
@@ -25,7 +27,9 @@ work pitched *at or above* year level, never below.
 curriculum/   WA Curriculum (SCSA) summaries per year level, all learning areas
 programs/     40-week full-year scope & sequence per year + subject (the "spine")
 templates/    Style guide + Markdown templates for worksheets, homework, answers, notes
-worksheets/   Finished work: year-XX/<subject>/week-NN/{worksheet,homework,answers}.md
+worksheets/   Finished work: year-XX/<subject>/week-NN/{worksheet,homework,answers}.md + diagrams/
+tools/        Publish pass: build.mjs (Markdown → branded A4 PDF with unique IDs), CSS, brand
+dist/         Generated PDFs (rebuild, don't hand-edit)
 students/     Per-student notes (private — keep this repo private)
 materials/    Shared reading passages, fact sheets, images, data sets
 ```
@@ -51,7 +55,16 @@ materials/    Shared reading passages, fact sheets, images, data sets
 7. **Accuracy matters.** Facts in reading passages must be correct. If unsure of a
    figure, leave it out or round it and phrase cautiously; never invent statistics.
    Record sources for non-obvious facts in `answers.md` under *Teacher notes*.
-8. **Student privacy.** Use first names only in `students/`; never put student
+8. **Connections every week.** Each worksheet has a `Connections` section where the
+   new concept is used *inside* earlier topics (e.g. algebra week → perimeter and area
+   with algebraic side lengths; primes week → side length of a square from its area).
+   Use the program's *Connections plan* and the Retrieval column.
+9. **Diagrams wherever they help.** Hand-written SVGs in the week's `diagrams/` folder,
+   embedded as `![caption](diagrams/name.svg)`. Every diagram must be used by a question.
+10. **Publish.** After writing or changing a week, run `node tools/build.mjs <week folder>`
+    and commit the regenerated PDFs in `dist/`. Render a page to PNG and look at it
+    before committing (check diagrams and layout).
+11. **Student privacy.** Use first names only in `students/`; never put student
    details into worksheets or external services.
 
 ## Conventions

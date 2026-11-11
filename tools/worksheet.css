@@ -1,0 +1,78 @@
+/* Print stylesheet for worksheets. Colours come from tools/brand.json via --accent. */
+@page { size: A4; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body {
+  font-family: Inter, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt; line-height: 1.5; color: #1d2330; margin: 0;
+}
+math { font-size: 1.08em; }
+
+/* ---------- Masthead ---------- */
+.masthead { border-bottom: 3px solid var(--accent); padding-bottom: 10px; margin-bottom: 14px; }
+.brandbar { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.brand { font-weight: 800; letter-spacing: .14em; text-transform: uppercase; font-size: 8.5pt; color: var(--accent); margin-right: 6px; }
+.chip { font-size: 7.5pt; font-weight: 600; padding: 2px 8px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); text-transform: uppercase; letter-spacing: .06em; }
+.chip.doctype { background: var(--accent); color: #fff; }
+.docid { margin-left: auto; font-family: "JetBrains Mono", Consolas, monospace; font-size: 8.5pt; font-weight: 700; border: 1.5px solid var(--accent); color: var(--accent); padding: 3px 8px; border-radius: 4px; }
+.docid .idlabel { font-size: 6.5pt; opacity: .7; margin-right: 2px; }
+.docid .rev { font-weight: 400; font-size: 7pt; opacity: .75; margin-left: 8px; }
+.title { font-size: 20pt; line-height: 1.15; margin: 12px 0 2px; color: #111827; font-weight: 800; letter-spacing: -.01em; }
+.subtitle { margin: 2px 0; font-size: 10.5pt; color: #4b5563; font-weight: 500; }
+.namebox { display: grid; grid-template-columns: 2.2fr 1fr 1fr; gap: 14px; margin-top: 12px; }
+.namebox div { display: flex; align-items: flex-end; gap: 6px; }
+.namebox span { font-size: 8pt; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #6b7280; }
+.namebox i { flex: 1; border-bottom: 1px solid #9ca3af; height: 18px; }
+.teacher-flag { display: inline-block; margin-top: 10px; background: #fff4e5; color: #9a3412; border: 1px solid #fdba74; font-weight: 700; font-size: 8.5pt; padding: 3px 10px; border-radius: 4px; text-transform: uppercase; letter-spacing: .06em; }
+
+/* ---------- Headings ---------- */
+main h2 {
+  font-size: 12.5pt; margin: 20px 0 8px; padding: 5px 10px; color: #fff; background: var(--accent);
+  border-radius: 4px; break-after: avoid; page-break-after: avoid;
+}
+main h2.chal { background: #7c3aed; }
+main h2.conn, main h3.conn { background: #b45309; color: #fff; }
+main h3.conn { padding: 3px 8px; border-radius: 3px; }
+main h2.ff { background: #111827; break-before: page; page-break-before: always; }
+main h3 { font-size: 11pt; margin: 14px 0 6px; color: var(--accent); break-after: avoid; }
+main h4 { font-size: 10.5pt; margin: 10px 0 4px; }
+p { margin: 6px 0; }
+li { margin: 2px 0; }
+ul { padding-left: 20px; }
+ol { padding-left: 30px; }
+strong { color: #111827; }
+
+/* Learning intentions list right after the masthead */
+main > p:first-child + ul, main > p:first-of-type + ul { background: var(--accent-soft); border-radius: 6px; padding: 8px 12px 8px 28px; }
+
+/* ---------- Tables ---------- */
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.8pt; break-inside: avoid; }
+th { background: var(--accent-soft); color: var(--accent); text-align: left; font-weight: 700; }
+th, td { border: 1px solid #cbd2dc; padding: 5px 8px; vertical-align: top; min-height: 22px; }
+td:empty::after { content: "\00a0"; display: inline-block; height: 16px; }
+
+/* ---------- Answer space ---------- */
+.blank { display: inline-block; border-bottom: 1px solid #6b7280; height: 1.1em; vertical-align: baseline; margin: 0 2px; max-width: 100%; }
+.wline { border-bottom: 1px solid #9ca3af; height: 26px; }
+.working { border: 1.5px dashed #cbd2dc; border-radius: 6px; min-height: 120px; margin: 8px 0; padding: 4px 8px; }
+.working span { font-size: 7.5pt; text-transform: uppercase; letter-spacing: .08em; color: #9ca3af; font-weight: 700; }
+ul.task-list { list-style: none; padding-left: 4px; }
+input[type=checkbox] { width: 11px; height: 11px; margin-right: 6px; }
+
+/* ---------- Blockquotes ---------- */
+blockquote { break-inside: avoid; margin: 10px 0; padding: 8px 14px; border-left: 4px solid var(--accent); background: #f8fafc; border-radius: 0 6px 6px 0; }
+blockquote.passage { break-inside: auto;
+  font-family: Charter, "Bitstream Charter", Georgia, "Times New Roman", serif; font-size: 11pt; line-height: 1.6;
+  background: #fffdf7; border: 1px solid #e7e1cf; border-left: 5px solid var(--accent); padding: 12px 18px;
+}
+blockquote.passage h3 { font-family: Inter, Arial, sans-serif; font-size: 13pt; color: #111827; margin-top: 4px; }
+blockquote.passage strong { font-family: Inter, Arial, sans-serif; font-size: .85em; color: var(--accent); }
+
+/* ---------- Figures ---------- */
+figure { margin: 10px auto; text-align: center; break-inside: avoid; }
+figure img, p > img { max-width: 100%; max-height: 300px; }
+figcaption { font-size: 8.5pt; color: #6b7280; margin-top: 4px; font-style: italic; }
+
+/* ---------- Misc ---------- */
+code { font-family: "JetBrains Mono", Consolas, monospace; font-size: .9em; }
+.doc-ak main h2 { background: #374151; }

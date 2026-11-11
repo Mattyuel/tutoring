@@ -16,25 +16,31 @@
 6. Either view, if justified. Strong answers note Virchow publicised and popularised the idea and connected it to medicine, but Remak supplied key evidence and wasn't fully acknowledged — so credit is at least partly unfair. Look for "although/however" balance.
 7. Schleiden believed cells formed spontaneously from fluid; the third idea says all cells come from pre-existing cells, which directly contradicts him.
 
+### Connections
+8. The **cell wall** — it is tough, non-living material that remains after the cell dies; the membrane, cytoplasm, nucleus and other living contents break down and dry out.
+9. **Cell wall** (support/rigidity — no skeleton), **chloroplasts** (photosynthesis — plants make their own food), **large permanent vacuole** (stores water, keeps the cell firm). Animals eat food and have skeletons/other support.
+10. All cells come from pre-existing cells (bacteria divide) — and they are made of a cell / are the basic unit of life. It shows cell theory applies even to organisms without a nucleus, and explains how infections spread (bacteria multiply by division, not spontaneously).
+11. a) 1 cm = 10 mm; 10 ÷ 0.02 = **500 cells** b) 0.02 × 200 = **4 mm** c) Through Hooke's ~50× microscope a 0.02 mm cell would appear only 1 mm wide — too small to see detail; at 200× it appears 4 mm, large enough to see. Bacteria are far smaller than human cells, so only the stronger lens could reveal them. *(Hooke's compound microscope magnification is commonly estimated at ~30–50×.)*
+
 ### Part D
-8.
+12.
 a) [*When he examined a thin slice of cork*], **he saw** [*that it was full of tiny, empty compartments*]. — *When* (and *that*). Main clause: *he saw*.
 b) **Not complex** — it is **compound**: two main clauses joined by the coordinating conjunction *but*. Good discussion point.
 c) **Some members doubted him**, [*since nobody else could see* [*what he claimed to see*]]. — *since* (plus embedded *what* clause).
 d) **Virchow is usually given the credit**, [*although historians now point out* [*that he relied heavily on Remak's evidence*]]. — *although*.
 
-9. Models:
+13. Models:
 a) *After Schwann compared animal and plant tissue, he concluded that animals are made of cells.*
 b) *Scientists could not see fine details inside cells because early microscopes blurred images.*
 c) *Van Leeuwenhoek, who was a cloth merchant, discovered bacteria.*
-10. *Because early microscopes blurred images, scientists could not see…* — fronting the cause emphasises the **reason** (technology) and creates suspense; end position emphasises the **result**. Comma rule must be applied.
+14. *Because early microscopes blurred images, scientists could not see…* — fronting the cause emphasises the **reason** (technology) and creates suspense; end position emphasises the **result**. Comma rule must be applied.
 
-11. Model (26 words): *Self-taught Dutch lens-maker Antonie van Leeuwenhoek used powerful microscopes to discover single-celled organisms, including bacteria; doubted at first, his findings were accepted once Hooke confirmed them.*
-12. Model (34 words): *Although Hooke named cells in 1665, cell theory developed over two centuries as better microscopes allowed scientists such as van Leeuwenhoek, Schleiden, Schwann, Remak and Virchow to gather evidence, showing that science keeps changing.*
+15. Model (26 words): *Self-taught Dutch lens-maker Antonie van Leeuwenhoek used powerful microscopes to discover single-celled organisms, including bacteria; doubted at first, his findings were accepted once Hooke confirmed them.*
+16. Model (34 words): *Although Hooke named cells in 1665, cell theory developed over two centuries as better microscopes allowed scientists such as van Leeuwenhoek, Schleiden, Schwann, Remak and Virchow to gather evidence, showing that science keeps changing.*
 
 ### Part E
-13. a) small drawings / drawings of small things b) the study of cells c) green (pigment) of leaves d) the study of small living things e) a small animal f) white (blood) cell
-14. Any plausible invention with a definition, e.g. *chloroscope* — an instrument for examining green pigments.
+17. a) small drawings / drawings of small things b) the study of cells c) green (pigment) of leaves d) the study of small living things e) a small animal f) white (blood) cell
+18. Any plausible invention with a definition, e.g. *chloroscope* — an instrument for examining green pigments.
 
 ### Part F — marking notes
 A strong paragraph:
@@ -51,14 +57,15 @@ A strong paragraph:
 | Vocabulary | general | precise, includes roots (*microscope, microbiology, cytology*) |
 
 ### Part G
-15. Strong answers: viruses fail idea 1 (not made of cells) and cannot reproduce alone (idea 3 says cells come from cells; viruses rely on cells), so by cell theory they are not alive; *Although* they contain genetic material, reproduce and evolve inside hosts, which are features of life… Reward a reasoned conclusion either way.
-16. *Schleiden believed that cells could form spontaneously from the fluid inside organisms…* followed by *The answer came from careful observation of cells dividing.* — signalled by "There was, however, a gap" and the verb *believed* (vs. evidence-based *observed*). Also accept Hooke's misunderstanding (empty rooms vs living cells).
+19. Strong answers: viruses fail idea 1 (not made of cells) and cannot reproduce alone (idea 3 says cells come from cells; viruses rely on cells), so by cell theory they are not alive; *Although* they contain genetic material, reproduce and evolve inside hosts, which are features of life… Reward a reasoned conclusion either way.
+20. *Schleiden believed that cells could form spontaneously from the fluid inside organisms…* followed by *The answer came from careful observation of cells dividing.* — signalled by "There was, however, a gap" and the verb *believed* (vs. evidence-based *observed*). Also accept Hooke's misunderstanding (empty rooms vs living cells).
 
 ---
 
 ## Homework
 1. Differentiation: the process by which cells change their shape and contents to become specialised for one job as an embryo develops.
 2.
+
 | Cell | Feature | How it helps |
 |---|---|---|
 | Red blood cell | biconcave disc; no nucleus | large surface area to absorb oxygen; more room for haemoglobin |

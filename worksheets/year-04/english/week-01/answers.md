@@ -16,23 +16,29 @@
 7. Any two: it would damage/break the fragile pillars; if every visitor took a rock there would be nothing left; it's the Traditional Custodians' Country; it's the law/rules of the park; future visitors deserve to see it.
 8. They are still changing: wind still uncovers/buries pillars and rain and wind still wear away the limestone.
 
+### Connections
+9. Yes — 1.75 + 1.75 = 3.5 (or 2 × 1.75 = 3.5).
+10. About **2 hours**; return trip about **4 hours** in total driving.
+11. Panel 4 shows both (weathering of limestone + wind erosion of sand); panel 1 also shows weathering-like breaking of shells by waves (accept); panel 2 shows wind carrying (eroding) sand. Reward reasoning.
+12. In the Perth metropolitan area: the **Whadjuk Noongar** people. Check locally for other areas.
+
 ### Part D
-9. Models: ¶2 *made from broken seashells* · ¶3 *rain turned sand into limestone* · ¶5 *still slowly changing today* · ¶6 *people must protect the Pinnacles*
-10. ¶1 — supports the idea that the pillars are many and varied in size / it's a strange landscape.
-11. Main nouns: a) *landscape* b) *shells* c) *sea* d) *town*
-12. e.g. *a huge, jagged limestone rock*; *the tall golden sand dune*; *a fierce, salty coastal wind*
-13. a) jagged b) towering c) ancient d) fragile e) gritty
+13. Models: ¶2 *made from broken seashells* · ¶3 *rain turned sand into limestone* · ¶5 *still slowly changing today* · ¶6 *people must protect the Pinnacles*
+14. ¶1 — supports the idea that the pillars are many and varied in size / it's a strange landscape.
+15. Main nouns: a) *landscape* b) *shells* c) *sea* d) *town*
+16. e.g. *a huge, jagged limestone rock*; *the tall golden sand dune*; *a fierce, salty coastal wind*
+17. a) jagged b) towering c) ancient d) fragile e) gritty
 
 ### Part E
-14. a-2, b-4, c-1, d-5, e-7, f-6 (3 is a distractor)
-15. e.g. *Erosion by waves gradually washed the sand off the beach.*
+18. a-2, b-4, c-1, d-5, e-7, f-6 (3 is a distractor)
+19. e.g. *Erosion by waves gradually washed the sand off the beach.*
 
 ### Part F — marking notes
 Strong paragraph: topic sentence (e.g. *The Pinnacles were formed over thousands of years by the sea, rain and wind.*); correct sequence with time connectives; weathering vs erosion used accurately; underlined noun groups; precise adjectives; concluding sentence (e.g. *…and they are still changing today.*). Check it is in the student's own words.
 
 ### Part G
-16. *like statues being unwrapped*; *looks like the surface of another planet*. Own similes, e.g. *The pillars stood like soldiers guarding the desert.*
-17. It leaves the reader with the most important message — respect and protect the place; it moves from *how it formed* to *how we should behave*. The writer wants visitors to follow the rules and value the land.
+20. *like statues being unwrapped*; *looks like the surface of another planet*. Own similes, e.g. *The pillars stood like soldiers guarding the desert.*
+21. It leaves the reader with the most important message — respect and protect the place; it moves from *how it formed* to *how we should behave*. The writer wants visitors to follow the rules and value the land.
 
 ---
 

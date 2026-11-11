@@ -25,6 +25,7 @@
 ## Part B · Learn ⏱ ~8 min
 
 ### The place-value chart
+
 | Hundred thousands | Ten thousands | Thousands | Hundreds | Tens | Ones |
 |---|---|---|---|---|---|
 | | 4 | 7 | 3 | 0 | 6 |
@@ -108,6 +109,10 @@ d) 15 tens ☐ 1 hundred and 5 tens
 **9. Halfway numbers.** What number is exactly halfway between…
 a) 40 000 and 50 000? ________ b) 46 000 and 47 000? ________ c) 38 500 and 39 000? ________
 
+![Number line from 40 000 to 50 000 with arrows A, B and C](diagrams/number-line-40000-50000.svg)
+
+d) Estimate the numbers the arrows point to. A ________ B ________ C ________
+
 **10. Odd or even?** Predict *without* working out the answer.
 a) 3 457 + 2 891 ________ b) 12 × 37 ________ c) 135 × 77 ________ d) 999 + 1 000 + 1 001 ________
 e) Explain why **odd + odd** is always even. (Hint: think of an odd number as pairs plus one left over.)
@@ -117,7 +122,7 @@ ______________________________________________________________________________
 
 **11. Digit cards.** Use each of these cards **exactly once** to make a 5-digit number.
 
-  **[ 4 ]  [ 0 ]  [ 7 ]  [ 2 ]  [ 9 ]**
+![Digit cards 4, 0, 7, 2, 9](diagrams/digit-cards.svg)
 
 a) the largest number ________
 b) the smallest number (it can't start with 0!) ________
@@ -151,6 +156,9 @@ ______________________________________________________________________________
 c) How many more people would have been needed to make exactly 60 000? ________
 
 **15. The odometer.** A car's odometer (distance counter) shows **49 996 km**.
+
+![Odometer showing 49 996 km](diagrams/odometer.svg)
+
 a) What will it show after the car drives 7 more km? ________
 b) The next time all five digits are the **same** digit, what will the odometer show? ________ How many more km is that from your answer to (a)? ________
 
@@ -161,6 +169,26 @@ b) How many more people live in the largest town than in the smallest? ________
 **17. Counting jumps.**
 a) Start at 96 450 and count on by 1 000 five times. Where do you land? ________
 b) Start at 103 205 and count back by 10 000 three times. Where do you land? ________
+
+### 🔗 Connections — place value meets measurement and money
+*You already know about metres, centimetres, money and perimeter. Place value works there too!*
+
+**X1. Measurement.** There are 100 cm in 1 m and 1 000 m in 1 km.
+a) 4 m 35 cm = ________ cm b) 2 708 cm = ________ m ________ cm c) 12 345 m = ________ km ________ m
+
+**X2. Money.** A school fun run raised **\$23 450**. It is paid in \$100 notes and \$10 notes only, using the **fewest** notes possible. How many of each? ________ × \$100 and ________ × \$10
+
+**X3. Perimeter + rounding.** A farmer's paddock is a rectangle.
+
+![Rectangular paddock 2 450 m long and 1 300 m wide](diagrams/paddock.svg)
+
+a) Round each side to the nearest **thousand** metres and use the rounded numbers to estimate the distance around the paddock (its perimeter). ________
+b) Now round each side to the nearest **hundred** metres and estimate again. ________
+c) The real perimeter is 7 500 m. Which estimate was closer? Why?
+______________________________________________________________________________
+
+**X4. Odd and even in real life.** 37 students line up in pairs for a bus. Will everyone have a partner? Explain using odd and even.
+______________________________________________________________________________
 
 ---
 
@@ -180,6 +208,7 @@ c) What did you notice about where the big digits had to go?
 
 ---
 ### Self-check
+
 | I can… | 😀 | 🙂 | 😕 |
 |---|---|---|---|
 | read and write numbers to 100 000 | | | |

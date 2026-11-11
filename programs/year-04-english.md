@@ -4,6 +4,8 @@ Each week pairs a **literacy focus** with a **content text** from the Year 4 Sci
 HASS curriculum (or a literature text with real-world content), so the student learns
 about the world while practising English.
 
+**Connections:** every English worksheet also has a `Connections` section linking the text to maths (scale, measurement, data), a diagram, and the student's own world.
+
 ## Term 1 — Information texts & sentence foundations
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 230" width="680" height="230" font-family="Inter, Arial, sans-serif" font-size="12">
+  <rect width="680" height="230" fill="#fff"/>
+  <defs>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#0f6b5c"/></marker>
+  </defs>
+  <!-- Panel frames -->
+  <g fill="#f0f9ff" stroke="#94a3b8"><rect x="5" y="25" width="160" height="160" rx="8"/><rect x="175" y="25" width="160" height="160" rx="8"/><rect x="345" y="25" width="160" height="160" rx="8"/><rect x="515" y="25" width="160" height="160" rx="8"/></g>
+  <g font-weight="800" fill="#0f6b5c"><text x="12" y="17">1</text><text x="182" y="17">2</text><text x="352" y="17">3</text><text x="522" y="17">4</text></g>
+  <!-- 1: sea + shells -->
+  <path d="M5,110 Q25,100 45,110 T85,110 T125,110 T165,110 L165,185 L5,185 Z" fill="#7dd3fc"/>
+  <g fill="#fde68a" stroke="#b45309" stroke-width="1">
+    <path d="M30,160 a10,10 0 0,1 20,0 z"/><path d="M70,170 a8,8 0 0,1 16,0 z"/><path d="M110,158 a11,11 0 0,1 22,0 z"/><path d="M95,175 a6,6 0 0,1 12,0 z"/>
+  </g>
+  <path d="M20,90 q20,-25 40,0" fill="none" stroke="#0369a1" stroke-width="2"/>
+  <!-- 2: dunes + wind -->
+  <path d="M175,185 L175,150 Q215,95 255,140 Q290,100 335,150 L335,185 Z" fill="#fcd34d" stroke="#b45309"/>
+  <g stroke="#0f6b5c" stroke-width="2" marker-end="url(#ar)"><line x1="185" y1="60" x2="235" y2="60"/><line x1="200" y1="78" x2="250" y2="78"/></g>
+  <!-- 3: limestone + rain + plants -->
+  <rect x="345" y="120" width="160" height="65" fill="#d6d3d1"/>
+  <path d="M345,120 Q385,80 425,110 Q460,85 505,120 Z" fill="#fcd34d"/>
+  <g stroke="#3b82f6" stroke-width="2"><line x1="370" y1="45" x2="365" y2="60"/><line x1="410" y1="40" x2="405" y2="55"/><line x1="450" y1="48" x2="445" y2="63"/><line x1="485" y1="42" x2="480" y2="57"/></g>
+  <g stroke="#15803d" stroke-width="2" fill="none"><path d="M395,98 l0,-14 m0,6 l-6,-6 m6,3 l6,-6"/><path d="M460,98 l0,-14 m0,6 l-6,-6 m6,3 l6,-6"/><path d="M395,100 l-3,35 m3,-20 l8,25"/><path d="M460,100 l3,40"/></g>
+  <!-- 4: pillars + wind -->
+  <rect x="515" y="160" width="160" height="25" fill="#fcd34d"/>
+  <g fill="#d6d3d1" stroke="#78716c">
+    <path d="M535,160 L540,100 Q545,90 552,100 L556,160 Z"/><path d="M570,160 L573,120 Q578,112 584,120 L587,160 Z"/>
+    <path d="M600,160 L604,85 Q611,74 619,86 L622,160 Z"/><path d="M638,160 L641,128 Q645,120 650,128 L653,160 Z"/>
+  </g>
+  <g stroke="#0f6b5c" stroke-width="2" marker-end="url(#ar)"><line x1="525" y1="50" x2="575" y2="50"/><line x1="560" y1="66" x2="610" y2="66"/></g>
+  <!-- captions -->
+  <g text-anchor="middle" fill="#1d2330">
+    <text x="85" y="203">Waves break shells</text><text x="85" y="218">into lime-rich sand</text>
+    <text x="255" y="203">Wind piles the sand</text><text x="255" y="218">into dunes</text>
+    <text x="425" y="203">Rain glues lower sand</text><text x="425" y="218">into limestone; roots crack it</text>
+    <text x="595" y="203">Weathering + erosion</text><text x="595" y="218">uncover the pillars</text>
+  </g>
+</svg>

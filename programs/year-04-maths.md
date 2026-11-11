@@ -56,6 +56,50 @@
 | 39 | Cumulative revision | All | — | ⬜ planned |
 | 40 | **End-of-year assessment & reflection** | All | Preview of Year 5 | ⬜ planned |
 
+## Connections plan
+Each week's `Connections` section applies the new concept inside earlier topics (or Year 3 knowledge early in the year).
+
+| Wk | Connection task idea |
+|---|---|
+| 01 | Place value → metres/centimetres, money notes, rounding sides to estimate perimeter ✅ |
+| 02 | Addition/subtraction → perimeter of shapes; change from a purchase; years between historical events |
+| 03 | Multiplication → arrays as area of rectangles; cost of several items |
+| 04 | Division → sharing money; cutting lengths; minutes into hours |
+| 05 | Fractions → fractions of shapes and areas; quarter/half past on clocks |
+| 06 | Decimals → money; measurements like 1.25 m |
+| 07 | Patterns → matchstick shape patterns and their perimeters |
+| 08 | Measurement → place-value conversions (Week 1); decimals (Week 6) |
+| 09 | Time → adding/subtracting durations (Week 2); fractions of an hour (Week 5) |
+| 10 | Review — mixed multi-topic problems |
+| 11 | Written multiplication → area of rectangles; money totals |
+| 12 | Division → remainders in measurement and time problems |
+| 13 | Fractions of quantities → measurement and money |
+| 14 | Decimals → reading scales; money |
+| 15 | Money → decimals and multiplication |
+| 16 | Multi-step → combine all Term 1–2 topics |
+| 17 | Area → multiplication arrays (Week 3) |
+| 18 | Perimeter vs area → **missing side lengths from a given perimeter (early algebraic thinking)** |
+| 19 | Mass & capacity → fractions and decimals (half a litre = 500 mL) |
+| 20 | Review — mixed multi-topic problems |
+| 21 | 2D shapes → perimeter; fractions of shapes |
+| 22 | 3D objects → counting patterns (faces/edges); multiplication |
+| 23 | Angles → fractions of a turn; clock hands (Week 9) |
+| 24 | Symmetry → fractions; patterns |
+| 25 | Maps → scale as multiplication; quarter/half turns (Week 23) |
+| 26 | Chance → fractions (Week 5) |
+| 27 | Independent events → multiplication to count outcomes |
+| 28 | Data → tallies and place value |
+| 29 | Graphs → scales as skip counting; decimals |
+| 30 | Review — mixed multi-topic problems |
+| 31 | Factors → all rectangles with a given area |
+| 32 | Unknowns → **perimeter with a missing side written as □ (pre-algebra)** |
+| 33 | Timetables → 24-hour time and durations |
+| 34 | Large numbers → rounding and estimating products |
+| 35 | Percentages → money discounts; fractions and decimals |
+| 36 | Negative numbers → temperature differences on a number line |
+| 37 | Budget project → all money, decimal and multiplication skills |
+| 38–40 | Problem solving & review — blend three or more topics |
+
 ## Curriculum coverage check (WA Year 4 Mathematics)
 | Content area | Weeks |
 |---|---|

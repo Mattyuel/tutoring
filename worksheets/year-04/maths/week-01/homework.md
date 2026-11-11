@@ -40,6 +40,7 @@ c) the number closest to 40 000 ________
 ## 3 · At home
 
 **9.** Find **three** large numbers at home (in a newspaper, on a website, on food packaging or a car's odometer).
+
 | Where I found it | The number | In words | Rounded to nearest 1 000 |
 |---|---|---|---|
 | | | | |

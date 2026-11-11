@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 210" width="380" height="210" font-family="Inter, Arial, sans-serif" font-size="14">
+  <rect width="380" height="210" fill="#fff"/>
+  <rect x="50" y="25" width="280" height="150" fill="#ecfccb" stroke="#4d7c0f" stroke-width="3" stroke-dasharray="10 4"/>
+  <text x="190" y="105" text-anchor="middle" fill="#3f6212" font-weight="600">wheat paddock (not to scale)</text>
+  <text x="190" y="198" text-anchor="middle" font-weight="700">2 450 m</text>
+  <text x="28" y="100" text-anchor="middle" font-weight="700" transform="rotate(-90 28 100)">1 300 m</text>
+</svg>

@@ -26,6 +26,7 @@
 ## Part B · Learn ⏱ ~8 min
 
 ### 1. Integer rules
+
 | Operation | Rule | Example |
 |---|---|---|
 | Adding a negative | same as subtracting | $5 + (-8) = 5 - 8 = -3$ |
@@ -48,6 +49,8 @@ Every whole number greater than 1 can be written as a product of primes in exact
 
 > **Worked example 2:** $360 = 36 \times 10 = (2^2 \times 3^2) \times (2 \times 5) = 2^3 \times 3^2 \times 5$
 
+![Factor tree for 360: keep splitting until every branch ends in a prime](diagrams/factor-tree-360.svg)
+
 ### 4. HCF and LCM from prime factors
 - **HCF** (highest common factor): take the primes the numbers **share**, each to the **lowest** power.
 - **LCM** (lowest common multiple): take **every** prime that appears, each to the **highest** power.
@@ -55,6 +58,8 @@ Every whole number greater than 1 can be written as a product of primes in exact
 > **Worked example 3:** $84 = 2^2 \times 3 \times 7$ and $120 = 2^3 \times 3 \times 5$
 > HCF $= 2^2 \times 3 = 12$  LCM $= 2^3 \times 3 \times 5 \times 7 = 840$
 > *Check:* HCF × LCM $= 12 \times 840 = 10\,080 = 84 \times 120$ ✔ (true for any two numbers — can you see why?)
+
+![Venn diagram of prime factors: shared primes in the overlap give the HCF; all primes together give the LCM](diagrams/venn-84-120.svg)
 
 ### 5. Squares, cubes and roots
 A number is a **perfect square** when every index in its prime factorisation is even, and a **perfect cube** when every index is a multiple of 3.
@@ -127,6 +132,8 @@ a) What is the temperature at 2 pm? ______________
 b) What is the temperature at 9 pm? ______________
 c) What is the difference between the highest and lowest temperatures recorded that day (6 am – 9 pm)? ______________
 
+![Number line from −40 °C to 10 °C](diagrams/temperature-line.svg)
+
 ### C3 ⭐⭐⭐ Reasoning
 
 **9.** Use prime factorisation (not a calculator!) to decide whether each number is a perfect square, a perfect cube, both, or neither. Give the root where it exists.
@@ -140,6 +147,29 @@ b) …to make a perfect cube? ______
 **11.** Find the smallest positive integer $n$ such that $168n$ is a perfect square. What is $\sqrt{168n}$?
 ______________________________________________________________________________
 
+### C4 🔗 Connections — this week's tools meet earlier topics
+*Prime factors, HCF and LCM aren't just for number puzzles. Use them inside topics you already know (area, volume, fractions, substitution).*
+
+![Three shapes: A a square of area 1764 m², B a cube of volume 5832 cm³, C a rectangle of area 2⁵ × 3² cm² and length 2⁴ cm](diagrams/connections.svg)
+
+**X1. Shape A (area & perimeter).** The square courtyard has an area of 1764 m². Use its prime factorisation (Q9) to find the side length without a calculator, then find its perimeter.
+______________________________________________________________________________
+
+**X2. Shape B (volume & surface area).** The cube-shaped box has a volume of 5832 cm³. Find the length of each edge, then the box's total surface area.
+______________________________________________________________________________
+
+**X3. Shape C (area & index form).** The rectangle has area $2^5 \times 3^2$ cm² and length $2^4$ cm. Find the width in index form *and* as an ordinary number. Then find the perimeter.
+______________________________________________________________________________
+
+**X4. Fractions.** Simplify $\dfrac{84}{120}$ in **one step** using the HCF from Worked example 3.
+______________________________________________________________________________
+
+**X5. Fractions.** Use the LCM as the lowest common denominator.
+a) $\dfrac{5}{12} + \dfrac{7}{18}$ ______ b) $\dfrac{1}{24} - \dfrac{1}{40}$ ______
+
+**X6. Substitution (algebra preview).** If $a = -3$ and $b = 4$, evaluate:
+a) $a^2 - 2ab$ ______ b) $(a - b)^3$ ______ c) $\dfrac{b^2 - a}{a + b}$ ______
+
 ---
 
 ## Part D · Problem Solving ⏱ ~12 min
@@ -149,6 +179,9 @@ a) When do they next leave together? ______________
 b) How many times do they leave together from 7:00 am to 10:00 am (inclusive)? ______________
 
 **13. Tiling.** A rectangular courtyard measures 4.2 m by 3.6 m. It is to be covered with identical square tiles with **no cutting**. What is the largest tile size possible, and how many tiles are needed?
+
+![A 4.2 m by 3.6 m courtyard with one square tile of unknown size in the corner](diagrams/courtyard.svg)
+
 ______________________________________________________________________________
 
 **14. Packing.** A school fundraiser has 84 muesli bars, 126 juice boxes and 210 apples. They are packed into identical bags with nothing left over. What is the greatest number of bags possible, and what goes in each bag?
@@ -174,6 +207,7 @@ c) Find the **smallest** whole number with exactly 12 factors.
 
 ---
 ### Self-check
+
 | I can… | 😀 | 🙂 | 😕 |
 |---|---|---|---|
 | use integer rules and the order of operations without errors | | | |

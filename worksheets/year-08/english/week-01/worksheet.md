@@ -50,6 +50,8 @@
 > **Glossary**
 > **botanist** — scientist who studies plants · **physiologist** — scientist who studies how living bodies function · **tissue** — a group of similar cells working together · **spontaneously** — happening by itself, without an outside cause · **mitochondria** (sing. *mitochondrion*) — structures in cells that release energy from food
 
+![Simplified animal cell and plant cell with labelled structures](diagrams/plant-animal-cells.svg)
+
 ---
 
 ## Part C · Understanding the content ⏱ ~10 min
@@ -86,6 +88,25 @@ ______________________________________________________________________________
 **7.** *(Connection)* Explain how the third idea of cell theory proved Schleiden partly wrong.
 ______________________________________________________________________________
 
+### 🔗 Connections — linking the history to the science (and maths)
+*Use the cell diagrams above, the text, and what you learnt about living things in Year 7 science.*
+
+**8.** Hooke's cork was **dead plant tissue**. Which **one** labelled structure in the plant cell could he still see? Why would the others have disappeared?
+______________________________________________________________________________
+
+**9.** List **three** structures found in plant cells but not animal cells. For each, suggest why a plant needs it and an animal doesn't. *(Hint: plants make their own food and do not have skeletons.)*
+______________________________________________________________________________
+______________________________________________________________________________
+
+**10.** Bacteria — van Leeuwenhoek's "animalcules" — are single cells with **no nucleus**. Which idea of cell theory do bacteria still obey, and why does that matter?
+______________________________________________________________________________
+
+**11. Maths link.** A typical human cell is about 0.02 mm across.
+a) How many such cells would fit side by side across 1 cm? ________
+b) Van Leeuwenhoek's best lenses magnified about 200 times. How wide would a 0.02 mm cell appear through them? ________
+c) Hooke saw cork cells with a microscope magnifying about 50 times. Use your answers to explain why van Leeuwenhoek could see things Hooke missed.
+______________________________________________________________________________
+
 ---
 
 ## Part D · How the text works ⏱ ~13 min
@@ -104,14 +125,14 @@ A **clause** is a group of words with a verb and its subject.
 A **relative clause** can be *embedded* in the middle of a main clause:
 > **Robert Remak,** *[who observed cell division in animal tissue,]* **is less famous than Virchow.**
 
-**8.** For each sentence from the text, **underline the main clause** and put [square brackets] around each subordinate clause. Then write the conjunction or relative pronoun that begins the subordinate clause.
+**12.** For each sentence from the text, **underline the main clause** and put [square brackets] around each subordinate clause. Then write the conjunction or relative pronoun that begins the subordinate clause.
 
 a) *When he examined a thin slice of cork, he saw that it was full of tiny, empty compartments.* ________
 b) *Van Leeuwenhoek had no university training, but he was extraordinarily skilled at grinding tiny glass lenses.* ________ *(Careful — is this sentence complex?)*
 c) *Some members doubted him, since nobody else could see what he claimed to see.* ________
 d) *Virchow is usually given the credit, although historians now point out that he relied heavily on Remak's evidence.* ________
 
-**9.** Combine each set of simple sentences into **one** complex sentence. Use a different conjunction or relative pronoun each time. Do not just use *and*.
+**13.** Combine each set of simple sentences into **one** complex sentence. Use a different conjunction or relative pronoun each time. Do not just use *and*.
 
 a) Schwann compared animal and plant tissue. He concluded that animals are made of cells.
 ______________________________________________________________________________
@@ -120,18 +141,18 @@ ______________________________________________________________________________
 c) Van Leeuwenhoek was a cloth merchant. He discovered bacteria.
 ______________________________________________________________________________
 
-**10.** Rewrite your answer to 9(b) so the subordinate clause is in a **different position**. How does moving the clause change the emphasis?
+**14.** Rewrite your answer to 13(b) so the subordinate clause is in a **different position**. How does moving the clause change the emphasis?
 ______________________________________________________________________________
 ______________________________________________________________________________
 
 ### Summarising
 A good summary keeps the **main idea** and the **essential supporting points**, removes examples and detail, and uses **your own words**.
 
-**11.** Summarise ¶3 in **no more than 30 words**.
+**15.** Summarise ¶3 in **no more than 30 words**.
 ______________________________________________________________________________
 ______________________________________________________________________________
 
-**12.** Summarise the **whole text** in **one sentence of no more than 35 words**. (Hint: a complex sentence is useful here.)
+**16.** Summarise the **whole text** in **one sentence of no more than 35 words**. (Hint: a complex sentence is useful here.)
 ______________________________________________________________________________
 ______________________________________________________________________________
 
@@ -151,7 +172,7 @@ ______________________________________________________________________________
 | *-phyll* | Greek | leaf |
 | *-cule* | Latin | small (a diminutive ending) |
 
-**13.** Use the roots to define each word.
+**17.** Use the roots to define each word.
 a) *Micrographia* ______________________________
 b) *cytology* ______________________________
 c) *chlorophyll* ______________________________
@@ -159,7 +180,7 @@ d) *microbiology* ______________________________
 e) *animalcule* ______________________________
 f) *leucocyte* (*leuco-* = white) ______________________________
 
-**14.** Invent a word using at least two roots from the table for something that doesn't exist yet. Give its definition.
+**18.** Invent a word using at least two roots from the table for something that doesn't exist yet. Give its definition.
 ______________________________________________________________________________
 
 ---
@@ -197,12 +218,13 @@ ______________________________________________________________________________
 
 ## Part G · Challenge ⏱ extra
 
-**15.** Viruses can only reproduce by entering a host cell, and they are not made of cells. Using the three ideas of cell theory, write a short argument (80–120 words) on whether viruses should be considered alive. Acknowledge the opposing view in a sentence beginning with *Although…*.
+**19.** Viruses can only reproduce by entering a host cell, and they are not made of cells. Using the three ideas of cell theory, write a short argument (80–120 words) on whether viruses should be considered alive. Acknowledge the opposing view in a sentence beginning with *Although…*.
 
-**16.** The text says knowledge "sometimes changes direction". Find **one** sentence in the text that is evidence of science being *wrong* and later corrected. Explain how the text signals this.
+**20.** The text says knowledge "sometimes changes direction". Find **one** sentence in the text that is evidence of science being *wrong* and later corrected. Explain how the text signals this.
 
 ---
 ### Self-check
+
 | I can… | 😀 | 🙂 | 😕 |
 |---|---|---|---|
 | explain the three ideas of cell theory | | | |

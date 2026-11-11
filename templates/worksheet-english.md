@@ -18,6 +18,9 @@
 ## Part C · Understanding the content ⏱ ~10 min
 <!-- Literal → inferential → evaluative -->
 
+### 🔗 Connections
+<!-- link the text to maths / science / HASS; use a diagram -->
+
 ## Part D · How the text works (literacy focus) ⏱ ~12 min
 <!-- Mini-lesson + targeted exercises using sentences from the text -->
 

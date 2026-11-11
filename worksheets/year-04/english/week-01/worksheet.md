@@ -53,6 +53,8 @@
 > **Glossary**
 > **landscape** — the shape and appearance of an area of land · **limestone** — a rock made mostly of lime, often from old shells · **dissolve** — to mix into a liquid and disappear · **fragile** — easily broken · **Traditional Custodians** — the Aboriginal people who have cared for an area of Country for many generations
 
+![Four stages: 1 waves break shells into lime-rich sand; 2 wind piles the sand into dunes; 3 rain glues lower sand into limestone and roots crack it; 4 weathering and erosion uncover the pillars](diagrams/pinnacles-formation.svg)
+
 ---
 
 ## Part C · Understanding the content ⏱ ~10 min
@@ -91,6 +93,17 @@ ______________________________________________________________________________
 **8.** *(Think about it)* The writer says the Pinnacles "are not finished". What does this mean? What evidence does ¶5 give?
 ______________________________________________________________________________
 
+### 🔗 Connections — English meets maths and HASS
+**9.** The text says the tallest Pinnacles are about 3.5 metres, "twice as tall as an adult". If an adult is about 1.75 m tall, is the writer correct? Show how you know.
+______________________________________________________________________________
+
+**10.** The Pinnacles are about 200 km from Perth. If a car travels about 100 km each hour, about how long is the drive? ________ How long is the return trip? ________
+
+**11.** Look at the diagram. Which panel shows **weathering**? Which shows **erosion**? (Hint: one panel shows both!)
+______________________________________________________________________________
+
+**12.** The Yued people are the Traditional Custodians of the Pinnacles area. Find out the name of the Traditional Custodians of the land where **you** live. ________________________
+
 ---
 
 ## Part D · How the text works ⏱ ~13 min
@@ -98,13 +111,13 @@ ______________________________________________________________________________
 ### D1 Main idea and detail
 Each paragraph has **one main idea**. The other sentences give **details** that support it. Often the main idea is in the first sentence — the **topic sentence**.
 
-**9.** Write the main idea of each paragraph in **five words or fewer**. (Don't just copy the heading!)
+**13.** Write the main idea of each paragraph in **five words or fewer**. (Don't just copy the heading!)
 - ¶2 ______________________________
 - ¶3 ______________________________
 - ¶5 ______________________________
 - ¶6 ______________________________
 
-**10.** Here is a detail: *"Some are no bigger than a pencil."* Which paragraph is it from, and which main idea does it support?
+**14.** Here is a detail: *"Some are no bigger than a pencil."* Which paragraph is it from, and which main idea does it support?
 ______________________________________________________________________________
 
 ### D2 Noun groups
@@ -113,13 +126,13 @@ A **noun group** is a group of words built around a noun. It can include an **ar
 > pillars → limestone pillars → thousands of tall limestone pillars
 > wind → winds → strong coastal winds
 
-**11.** Underline the **noun group** and circle the **main noun** in each.
+**15.** Underline the **noun group** and circle the **main noun** in each.
 a) *the strangest landscape in Australia*
 b) *the shells of countless sea creatures*
 c) *a sea of golden sand*
 d) *the small fishing town of Cervantes*
 
-**12.** Build each noun into a noun group with **at least three** words in front of it.
+**16.** Build each noun into a noun group with **at least three** words in front of it.
 a) rock → ________________________________
 b) dune → ________________________________
 c) wind → ________________________________
@@ -127,7 +140,7 @@ c) wind → ________________________________
 ### D3 Precise adjectives
 Writers choose **precise** adjectives instead of general ones like *big*, *nice* or *good*.
 
-**13.** Replace the underlined general word with a more precise adjective from the box. Use each once.
+**17.** Replace the underlined general word with a more precise adjective from the box. Use each once.
 
 *towering · fragile · jagged · ancient · gritty*
 
@@ -141,7 +154,7 @@ e) The wind blew **rough** sand into our eyes. → ________
 
 ## Part E · Vocabulary ⏱ ~5 min
 
-**14.** Match each word to its meaning.
+**18.** Match each word to its meaning.
 
 | Word | | Meaning |
 |---|---|---|
@@ -155,7 +168,7 @@ e) The wind blew **rough** sand into our eyes. → ________
 
 a) ___ b) ___ c) ___ d) ___ e) ___ f) ___
 
-**15.** Use **erosion** and **gradually** in one sentence of your own about a beach.
+**19.** Use **erosion** and **gradually** in one sentence of your own about a beach.
 ______________________________________________________________________________
 
 ---
@@ -165,6 +178,7 @@ ______________________________________________________________________________
 **Task:** Write one paragraph that explains **how the Pinnacles were formed** to someone who has never heard of them.
 
 **Plan first:**
+
 | Topic sentence (main idea) | |
 |---|---|
 | Detail 1 | |
@@ -194,15 +208,16 @@ ______________________________________________________________________________
 
 ## Part G · Challenge ⏱ ~10 min
 
-**16.** The text says rain "acted like cement". Find **one more** comparison (simile) in the text. Then write **two** of your own similes about the Pinnacles.
+**20.** The text says rain "acted like cement". Find **one more** comparison (simile) in the text. Then write **two** of your own similes about the Pinnacles.
 ______________________________________________________________________________
 ______________________________________________________________________________
 
-**17.** Why do you think the writer put ¶6 (*Caring for Country*) **last**? What does the writer want readers to think or do?
+**21.** Why do you think the writer put ¶6 (*Caring for Country*) **last**? What does the writer want readers to think or do?
 ______________________________________________________________________________
 
 ---
 ### Self-check
+
 | I can… | 😀 | 🙂 | 😕 |
 |---|---|---|---|
 | explain the difference between weathering and erosion | | | |

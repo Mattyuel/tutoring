@@ -17,6 +17,7 @@ a) 56 b) 54 c) 83 d) 63 e) 72 f) 45 g) 625 h) 80
 **6.** 40 959, 45 099, 45 909, 45 990, 49 059
 **7.** a) < (30 400 < 34 000) b) = (6 000 + 1 200 = 7 200) c) < d) = (150 = 150)
 **8.**
+
 | Number | 10 | 100 | 1 000 | 10 000 |
 |---|---|---|---|---|
 | 38 462 | 38 460 | 38 500 | 38 000 | 40 000 |
@@ -34,6 +35,14 @@ e) Each odd number is "pairs + 1 left over". Two odd numbers have two leftovers,
 e) **6 numbers:** 70 249, 70 294, 70 429, 70 492, 70 924, 70 942
 **12.** **40 962.** Only one answer: the ones digit must be even and not 0 (else the ten thousands digit would be 0); if it were 4, the ten thousands digit would be 8 and the tens digit 12 — impossible. So ones = 2.
 **13.** a) True — the smallest 5-digit number (10 000) is bigger than the largest 4-digit number (9 999). b) False — 65 000 vs 60 000.
+
+**9 d)** A ≈ 42 000, B ≈ 47 500, C ≈ 49 800 (accept close estimates; C is just before the end).
+
+### Connections
+**X1.** a) 435 cm b) 27 m 8 cm c) 12 km 345 m
+**X2.** 234 × \$100 and 5 × \$10 (\$23 450 = 234 hundreds + 5 tens)
+**X3.** a) 2 000 + 1 000 + 2 000 + 1 000 = **6 000 m** b) 2 500 + 1 300 + 2 500 + 1 300 = **7 600 m** c) Nearest hundred — rounding to thousands changed each side by a lot (450 m and 300 m), and the error is counted twice because each side appears twice.
+**X4.** No — 37 is odd, so after making 18 pairs one student is left over.
 
 ### Part D
 **14.** a) 58 000; 58 400 b) Fair — to the nearest ten thousand it is 60 000, and "almost" tells readers it was a bit less. (Strong answer: nearer to 60 000 than 50 000.) c) 1 563

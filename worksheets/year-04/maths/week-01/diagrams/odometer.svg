@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 90" width="300" height="90" font-family="'JetBrains Mono', Consolas, monospace" font-size="30">
+  <rect width="300" height="90" fill="#fff"/>
+  <rect x="10" y="10" width="280" height="70" rx="10" fill="#1d2330"/>
+  <g fill="#f8fafc" stroke="#475569">
+    <rect x="25" y="22" width="38" height="46" rx="4"/><rect x="68" y="22" width="38" height="46" rx="4"/><rect x="111" y="22" width="38" height="46" rx="4"/><rect x="154" y="22" width="38" height="46" rx="4"/><rect x="197" y="22" width="38" height="46" rx="4"/>
+  </g>
+  <g text-anchor="middle" font-weight="700" fill="#1d2330">
+    <text x="44" y="56">4</text><text x="87" y="56">9</text><text x="130" y="56">9</text><text x="173" y="56">9</text><text x="216" y="56">6</text>
+  </g>
+  <text x="262" y="54" text-anchor="middle" font-family="Inter, Arial" font-size="16" fill="#f8fafc" font-weight="700">km</text>
+</svg>

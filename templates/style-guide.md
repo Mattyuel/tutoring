@@ -53,6 +53,26 @@ Most questions should be ⭐⭐ or ⭐⭐⭐ for these students.
 - The writing task reuses the content so the student consolidates knowledge while writing.
 - Include a short glossary box for genuinely technical words.
 
+## Connections (required)
+- A `### 🔗 Connections` section (inside Practice for maths; after Part C for English),
+  3–6 questions, ~10 min.
+- The new concept must be **applied inside an earlier topic**, not just revised next to it:
+  - algebra week → perimeter/area of shapes with algebraic sides; equations from angle sums
+  - percentages week → % increase in area when sides grow; GST on a measurement problem
+  - English text on cells → maths (scale, magnification), science diagram interpretation
+- Draw on the program's *Connections plan* and earlier weeks' content (or the previous
+  year level's content in Week 1).
+
+## Diagrams
+- Hand-written SVG in the week's `diagrams/` folder; embed with
+  `![Descriptive caption that also works as alt text](diagrams/name.svg)`.
+- Style: white background, Inter/Arial text 12–15 px, subject colour (maths `#1f4e8c`,
+  English `#0f6b5c`, connections `#b45309`), 1.5–2.5 px strokes, labels outside shapes
+  with straight leader lines, "not to scale" where relevant.
+- Never let a diagram give away an answer; every diagram must be referenced by a question.
+- Good uses: factor trees, Venn diagrams, number lines, labelled shapes with unknowns,
+  timelines, process diagrams (formation stages), labelled science diagrams, maps.
+
 ## Homework (~20–30 min)
 - Maths: mixed practice + one rich problem; includes spaced revision.
 - English: a short related text, extension research, or vocabulary + sentence work; often
@@ -62,6 +82,14 @@ Most questions should be ⭐⭐ or ⭐⭐⭐ for these students.
 - Full worked solutions for maths (show method, not just the answer).
 - Model answers for English, plus *marking notes*: what a strong response includes.
 - *Teacher notes*: common misconceptions, how to extend, sources for facts.
+
+## Publishing
+Run `node tools/build.mjs worksheets/year-XX/<subject>/week-NN` → branded PDFs in `dist/`
+with unique IDs (`Y08-MA-W01-WS rev xxxxxx`). See `tools/README.md`.
+Markdown conventions the build relies on:
+- `# Year … — Week …` then `## Topic: …` (or `## Content text: …`) then `**Name:** …` line.
+- `> Working:` (alone in a blockquote) → working box. Reading passages = blockquote starting with `###`.
+- Headings containing *Challenge*, *Connections*, *Fast-finisher* get special styling.
 
 ## Formatting
 - Title block: Year, Subject, Week, Topic, Name/Date lines.

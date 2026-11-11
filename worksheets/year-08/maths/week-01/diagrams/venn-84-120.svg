@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 0 500 225" width="500" height="225" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect x="-40" width="500" height="225" fill="#fff"/>
+  <circle cx="160" cy="115" r="85" fill="#1f4e8c" fill-opacity=".10" stroke="#1f4e8c" stroke-width="2"/>
+  <circle cx="260" cy="115" r="85" fill="#0f6b5c" fill-opacity=".10" stroke="#0f6b5c" stroke-width="2"/>
+  <text x="110" y="22" font-weight="700" fill="#1f4e8c" text-anchor="middle">84 = 2² × 3 × 7</text>
+  <text x="310" y="22" font-weight="700" fill="#0f6b5c" text-anchor="middle">120 = 2³ × 3 × 5</text>
+  <g font-size="20" font-weight="700" text-anchor="middle" fill="#1d2330">
+    <text x="115" y="122">7</text>
+    <text x="210" y="100">2</text><text x="210" y="125">2</text><text x="210" y="150">3</text>
+    <text x="300" y="108">2</text><text x="300" y="138">5</text>
+  </g>
+  <text x="210" y="216" text-anchor="middle" font-size="13" fill="#475569">overlap → HCF = 2 × 2 × 3 = 12     all numbers → LCM = 2·2·3·7·2·5 = 840</text>
+</svg>

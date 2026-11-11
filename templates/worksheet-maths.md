@@ -19,6 +19,8 @@
 ### C1 ⭐ Fluency
 ### C2 ⭐⭐ Understanding
 ### C3 ⭐⭐⭐ Reasoning
+### C4 🔗 Connections
+<!-- new concept applied inside earlier topics; diagram(s) in diagrams/ -->
 
 ## Part D · Problem Solving ⏱ ~12 min
 <!-- 2–3 multi-step contextual problems -->

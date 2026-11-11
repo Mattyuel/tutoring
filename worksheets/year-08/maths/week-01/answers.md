@@ -25,6 +25,7 @@ j) $[18 - 3(-5)] \div (-11) = 33 \div (-11) = -3$
 
 ### C2
 **4.**
+
 | Numbers | Prime factorisations | HCF | LCM |
 |---|---|---|---|
 | 36, 60 | $2^2 \cdot 3^2$; $2^2 \cdot 3 \cdot 5$ | 12 | 180 |
@@ -55,6 +56,14 @@ c) $2700 = 2^2 \times 3^3 \times 5^2$ → **neither**.
 **10.** a) Multiply by **3** → $2^2 \cdot 3^4 \cdot 5^2 = 8100 = 90^2$. b) Multiply by $2 \times 5 =$ **10** → $2^3 \cdot 3^3 \cdot 5^3 = 27\,000 = 30^3$.
 
 **11.** $168 = 2^3 \times 3 \times 7$. Need every index even → $n = 2 \times 3 \times 7 =$ **42**. $168 \times 42 = 7056 = 84^2$, so $\sqrt{168n} = 84$.
+
+### C4 Connections
+**X1.** $1764 = 2^2 \cdot 3^2 \cdot 7^2$ → side $= 2 \cdot 3 \cdot 7 = 42$ m; perimeter $= 4 \times 42 = 168$ m.
+**X2.** $5832 = 2^3 \cdot 3^6$ → edge $= 2 \cdot 3^2 = 18$ cm; surface area $= 6 \times 18^2 = 6 \times 324 = 1944$ cm².
+**X3.** Width $= \dfrac{2^5 \times 3^2}{2^4} = 2 \times 3^2 = 18$ cm (previews the quotient law, Week 2); perimeter $= 2(16 + 18) = 68$ cm.
+**X4.** HCF(84, 120) = 12 → $\dfrac{7}{10}$.
+**X5.** a) LCM 36: $\dfrac{15}{36} + \dfrac{14}{36} = \dfrac{29}{36}$ b) LCM 120: $\dfrac{5}{120} - \dfrac{3}{120} = \dfrac{2}{120} = \dfrac{1}{60}$
+**X6.** a) $9 - 2(-3)(4) = 9 + 24 = 33$ b) $(-7)^3 = -343$ c) $\dfrac{16 - (-3)}{1} = 19$
 
 ### Part D
 **12.** a) LCM(12, 18) = 36 → **7:36 am**. b) 7:00, 7:36, 8:12, 8:48, 9:24, 10:00 → **6 times**.

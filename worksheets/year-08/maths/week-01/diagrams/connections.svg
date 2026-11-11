@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" width="640" height="200" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="640" height="200" fill="#fff"/>
+  <!-- A: square -->
+  <text x="10" y="18" font-weight="800" fill="#b45309">A</text>
+  <rect x="30" y="35" width="130" height="130" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+  <text x="95" y="98" text-anchor="middle" font-weight="700">Area</text>
+  <text x="95" y="116" text-anchor="middle" font-weight="700">1764 m²</text>
+  <text x="95" y="185" text-anchor="middle">side = ?</text>
+  <!-- B: cube -->
+  <text x="220" y="18" font-weight="800" fill="#b45309">B</text>
+  <g stroke="#b45309" stroke-width="2" stroke-linejoin="round">
+    <polygon points="250,70 350,70 350,170 250,170" fill="#fef3c7"/>
+    <polygon points="250,70 285,40 385,40 350,70" fill="#fde68a"/>
+    <polygon points="350,70 385,40 385,140 350,170" fill="#fcd34d"/>
+  </g>
+  <text x="300" y="115" text-anchor="middle" font-weight="700">V = 5832 cm³</text>
+  <text x="300" y="190" text-anchor="middle">edge = ?</text>
+  <!-- C: rectangle -->
+  <text x="420" y="18" font-weight="800" fill="#b45309">C</text>
+  <rect x="440" y="55" width="180" height="100" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+  <text x="530" y="100" text-anchor="middle" font-weight="700">Area = 2⁵ × 3² cm²</text>
+  <text x="530" y="175" text-anchor="middle">length = 2⁴ cm</text>
+  <text x="628" y="108" text-anchor="middle" transform="rotate(90 628 108)">width = ?</text>
+</svg>
