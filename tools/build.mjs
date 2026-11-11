@@ -101,7 +101,7 @@ function toHtml(meta) {
       <span class="brand">${esc(BRAND.name)}</span>
       <span class="chip year">Year ${Number(meta.year)}</span>
       <span class="chip subject">${meta.subject.label}</span>
-      <span class="chip week">Week ${Number(meta.week)}</span>
+      <span class="chip week">Term ${Math.ceil(Number(meta.week) / 10)} · Week ${(Number(meta.week) - 1) % 10 + 1}</span>
       <span class="chip doctype">${meta.doc.label}</span>
       <span class="docid"><span class="idlabel">ID</span> ${meta.id}<span class="rev">rev ${meta.rev}</span></span>
     </div>

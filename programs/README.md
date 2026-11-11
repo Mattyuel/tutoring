@@ -17,3 +17,7 @@ week, keep the coverage check accurate — every content area must stay covered.
 
 Week 10 of each term is a review + assessment week; week 40 is the end-of-year
 assessment and reflection.
+
+## Current position
+Tutoring started at **Week 31 (Term 4 · Week 1)**. Weeks 1–30 are assumed mastered; Week 1
+materials exist as format exemplars. Continue from Week 32.

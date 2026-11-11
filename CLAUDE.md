@@ -5,6 +5,13 @@ It holds curriculum references, term programs (scope & sequence), templates, stu
 notes and finished worksheets. Students are **advanced and well-behaved** — default to
 work pitched *at or above* year level, never below.
 
+## Where the students are up to
+- Lessons began in **Term 4, 2026 at program Week 31** (Term 4 · Week 1). Weeks 1–30 are
+  treated as already mastered: warm-ups, Connections and homework may draw on any of them.
+- Week numbers run 1–40 across the school year: Term = ceil(week/10); week-in-term = (week−1) % 10 + 1.
+- `week-01` folders are exemplars of the format (kept for reference, also usable as revision).
+- Next to write: Week 32 for each year + subject (see the programs' status columns).
+
 ## Route the request → read these docs first
 
 | If the request is about… | Read first | Then write to |
