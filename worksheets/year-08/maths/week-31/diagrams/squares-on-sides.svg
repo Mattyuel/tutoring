@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" width="480" height="420" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="480" height="420" fill="#fff"/>
+  <g stroke="#1f4e8c" stroke-width="2" stroke-linejoin="round">
+    <!-- squares on the three sides -->
+    <polygon points="120,160 200,160 200,240 120,240" fill="#dbe7f6"/>
+    <polygon points="200,240 350,240 350,390 200,390" fill="#e8eff9"/>
+    <polygon points="200,160 350,240 430,90 280,10" fill="#f1f5f9"/>
+    <!-- the right-angled triangle -->
+    <polygon points="200,160 200,240 350,240" fill="#fde68a" stroke-width="2.5"/>
+  </g>
+  <path d="M200,228 L212,228 L212,240" fill="none" stroke="#1f4e8c" stroke-width="1.5"/>
+  <g font-weight="700" fill="#1d2330" text-anchor="middle">
+    <text x="160" y="205">64 cm²</text>
+    <text x="275" y="320">? cm²</text>
+    <text x="315" y="130">289 cm²</text>
+  </g>
+  <g fill="#1f4e8c" font-weight="700">
+    <text x="182" y="40" text-anchor="end">square on the</text>
+    <text x="182" y="58" text-anchor="end">hypotenuse</text>
+    <line x1="186" y1="50" x2="270" y2="90" stroke="#1f4e8c" stroke-width="1.2"/>
+  </g>
+  <text x="240" y="412" text-anchor="middle" font-size="13" fill="#64748b">The shaded triangle is right-angled · not to scale</text>
+</svg>

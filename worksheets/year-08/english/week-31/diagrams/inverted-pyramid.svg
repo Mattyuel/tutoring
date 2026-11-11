@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="760" height="360" fill="#fff"/>
+  <text x="380" y="22" text-anchor="middle" font-weight="800" font-size="15" fill="#0f6b5c">The inverted pyramid: how a news report is ordered</text>
+  <!-- headline bar -->
+  <rect x="110" y="40" width="340" height="30" rx="4" fill="#0f6b5c"/>
+  <text x="280" y="60" text-anchor="middle" fill="#fff" font-weight="700">HEADLINE</text>
+  <!-- pyramid: top width 340 at y=80, apex at y=330 (x=280) -->
+  <!-- tier boundaries at y=80,140,200,265,330; half-width = 170*(330-y)/250 -->
+  <polygon points="110,80 450,80 409.2,140 150.8,140" fill="#0f6b5c" fill-opacity="0.85" stroke="#fff" stroke-width="2"/>
+  <polygon points="150.8,140 409.2,140 368.4,200 191.6,200" fill="#0f6b5c" fill-opacity="0.6" stroke="#fff" stroke-width="2"/>
+  <polygon points="191.6,200 368.4,200 324.2,265 235.8,265" fill="#0f6b5c" fill-opacity="0.38" stroke="#fff" stroke-width="2"/>
+  <polygon points="235.8,265 324.2,265 280,330" fill="#0f6b5c" fill-opacity="0.18" stroke="#0f6b5c" stroke-width="1"/>
+  <g font-weight="800" font-size="16" text-anchor="middle">
+    <text x="280" y="116" fill="#fff">1</text>
+    <text x="280" y="176" fill="#fff">2</text>
+    <text x="280" y="238" fill="#0f6b5c">3</text>
+    <text x="280" y="306" fill="#0f6b5c">4</text>
+  </g>
+  <!-- importance arrow (left) -->
+  <g stroke="#475569" stroke-width="2" fill="#475569">
+    <line x1="60" y1="84" x2="60" y2="312"/>
+    <polygon points="60,324 53,308 67,308" stroke="none"/>
+  </g>
+  <text x="60" y="76" text-anchor="middle" font-size="12" fill="#475569">most essential</text>
+  <text x="60" y="342" text-anchor="middle" font-size="12" fill="#475569">least essential</text>
+  <text x="38" y="200" font-size="12" fill="#475569" transform="rotate(-90 38 200)" text-anchor="middle">order of importance</text>
+  <!-- leader lines to write-in boxes -->
+  <g stroke="#64748b" stroke-width="1">
+    <line x1="430" y1="110" x2="500" y2="110"/>
+    <line x1="389" y1="170" x2="500" y2="170"/>
+    <line x1="346" y1="232" x2="500" y2="232"/>
+    <line x1="302" y1="297" x2="500" y2="297"/>
+  </g>
+  <g fill="none" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 3">
+    <rect x="502" y="88" width="245" height="44" rx="4"/>
+    <rect x="502" y="148" width="245" height="44" rx="4"/>
+    <rect x="502" y="210" width="245" height="44" rx="4"/>
+    <rect x="502" y="275" width="245" height="44" rx="4"/>
+  </g>
+  <g font-size="11" fill="#94a3b8">
+    <text x="508" y="102">Part: …</text><text x="508" y="124">Report A ¶ …</text>
+    <text x="508" y="162">Part: …</text><text x="508" y="184">Report A ¶ …</text>
+    <text x="508" y="224">Part: …</text><text x="508" y="246">Report A ¶ …</text>
+    <text x="508" y="289">Part: …</text><text x="508" y="311">Report A ¶ …</text>
+  </g>
+</svg>

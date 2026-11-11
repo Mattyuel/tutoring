@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 245" width="660" height="245" font-family="Inter, Arial, sans-serif" font-size="14">
+  <rect width="660" height="245" fill="#fff"/>
+  <g font-weight="800" fill="#b45309" font-size="15">
+    <text x="8" y="22">A</text><text x="218" y="22">B</text><text x="420" y="22">C</text>
+  </g>
+  <!-- A: right trapezium -->
+  <polygon points="30,190 198,190 102,110 30,110" fill="#fef3c7" stroke="#b45309" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="none" stroke="#b45309" stroke-width="1.5">
+    <path d="M30,178 L42,178 L42,190"/><path d="M30,122 L42,122 L42,110"/>
+  </g>
+  <g font-weight="700" fill="#1d2330" text-anchor="middle">
+    <text x="66" y="101">9 cm</text>
+    <text x="114" y="212">21 cm</text>
+    <text x="18" y="155" font-style="italic">h</text>
+  </g>
+  <text x="158" y="140" font-weight="700" fill="#1d2330">13 cm</text>
+  <!-- B: triangle with algebraic sides -->
+  <polygon points="250,190 250,70 390,190" fill="#fef3c7" stroke="#b45309" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M250,178 L262,178 L262,190" fill="none" stroke="#b45309" stroke-width="1.5"/>
+  <g font-weight="700" fill="#1d2330" font-style="italic">
+    <text x="240" y="135" text-anchor="end">x</text>
+    <text x="320" y="212" text-anchor="middle">x + 7</text>
+    <text x="328" y="122">x + 8</text>
+  </g>
+  <text x="320" y="236" text-anchor="middle" font-size="12" fill="#64748b">lengths in cm</text>
+  <!-- C: triangular prism (tent) -->
+  <g fill="none" stroke="#b45309" stroke-width="1.5" stroke-dasharray="5 4">
+    <line x1="440" y1="200" x2="530" y2="150"/>
+    <line x1="530" y1="150" x2="630" y2="150"/>
+    <line x1="530" y1="150" x2="580" y2="112"/>
+  </g>
+  <polygon points="490,162 580,112 630,150 540,200" fill="#fde68a" stroke="#b45309" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="440,200 540,200 490,162" fill="#fef3c7" stroke="#b45309" stroke-width="2" stroke-linejoin="round"/>
+  <g stroke="#b45309" stroke-width="1.5">
+    <line x1="462" y1="177" x2="468" y2="185"/><line x1="518" y1="177" x2="512" y2="185"/>
+  </g>
+  <g font-weight="700" fill="#1d2330">
+    <text x="490" y="222" text-anchor="middle">3.2 m</text>
+    <text x="456" y="172" text-anchor="end">2 m</text>
+    <text x="598" y="194">5 m</text>
+  </g>
+  <text x="535" y="236" text-anchor="middle" font-size="12" fill="#64748b">tent: isosceles cross-section</text>
+  <text x="652" y="20" text-anchor="end" font-size="12" fill="#64748b">not to scale</text>
+</svg>

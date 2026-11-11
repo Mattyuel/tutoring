@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 330" width="400" height="330" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="400" height="330" fill="#fff"/>
+  <!-- ground -->
+  <line x1="30" y1="270" x2="330" y2="270" stroke="#1d2330" stroke-width="2"/>
+  <g stroke="#94a3b8" stroke-width="1.2">
+    <line x1="40" y1="270" x2="30" y2="282"/><line x1="70" y1="270" x2="60" y2="282"/><line x1="100" y1="270" x2="90" y2="282"/>
+    <line x1="130" y1="270" x2="120" y2="282"/><line x1="160" y1="270" x2="150" y2="282"/><line x1="190" y1="270" x2="180" y2="282"/>
+    <line x1="220" y1="270" x2="210" y2="282"/><line x1="250" y1="270" x2="240" y2="282"/>
+  </g>
+  <!-- wall -->
+  <rect x="260" y="20" width="50" height="250" fill="#f1f5f9" stroke="#1d2330" stroke-width="2"/>
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="260" y1="60" x2="310" y2="60"/><line x1="260" y1="100" x2="310" y2="100"/><line x1="260" y1="140" x2="310" y2="140"/>
+    <line x1="260" y1="180" x2="310" y2="180"/><line x1="260" y1="220" x2="310" y2="220"/>
+  </g>
+  <!-- ladder: foot (160,270), top (260,40) -->
+  <line x1="160" y1="270" x2="260" y2="40" stroke="#1f4e8c" stroke-width="5" stroke-linecap="round"/>
+  <!-- right-angle marker -->
+  <path d="M248,270 L248,258 L260,258" fill="none" stroke="#1f4e8c" stroke-width="1.5"/>
+  <!-- dimension: base -->
+  <g stroke="#1f4e8c" stroke-width="1.2">
+    <line x1="160" y1="296" x2="260" y2="296"/>
+    <line x1="160" y1="290" x2="160" y2="302"/><line x1="260" y1="290" x2="260" y2="302"/>
+  </g>
+  <text x="210" y="318" text-anchor="middle" font-weight="700">2.5 m</text>
+  <!-- dimension: height -->
+  <g stroke="#1f4e8c" stroke-width="1.2">
+    <line x1="335" y1="40" x2="335" y2="270"/>
+    <line x1="329" y1="40" x2="341" y2="40"/><line x1="329" y1="270" x2="341" y2="270"/>
+    <line x1="310" y1="40" x2="341" y2="40" stroke-dasharray="3 3"/>
+  </g>
+  <text x="352" y="160" font-weight="700" font-style="italic">h</text>
+  <!-- ladder label -->
+  <text x="190" y="145" text-anchor="end" font-weight="700" fill="#1f4e8c">ladder 6.5 m</text>
+  <text x="285" y="14" text-anchor="middle" font-size="13" fill="#64748b">wall</text>
+  <text x="20" y="20" font-size="13" fill="#64748b">not to scale</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 345" width="780" height="345" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="780" height="345" fill="#fff"/>
+  <text x="390" y="22" text-anchor="middle" font-weight="800" font-size="15" fill="#0f6b5c">WA hazard calendar (simplified): July to June</text>
+  <!-- month header: columns start x=228, width 45 -->
+  <g font-size="12" font-weight="700" fill="#1d2330" text-anchor="middle">
+    <text x="250.5" y="50">Jul</text><text x="295.5" y="50">Aug</text><text x="340.5" y="50">Sep</text><text x="385.5" y="50">Oct</text>
+    <text x="430.5" y="50">Nov</text><text x="475.5" y="50">Dec</text><text x="520.5" y="50">Jan</text><text x="565.5" y="50">Feb</text>
+    <text x="610.5" y="50">Mar</text><text x="655.5" y="50">Apr</text><text x="700.5" y="50">May</text><text x="745.5" y="50">Jun</text>
+  </g>
+  <!-- grid -->
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="228" y1="58" x2="768" y2="58"/>
+    <line x1="228" y1="58" x2="228" y2="252"/><line x1="273" y1="58" x2="273" y2="252"/><line x1="318" y1="58" x2="318" y2="252"/><line x1="363" y1="58" x2="363" y2="252"/>
+    <line x1="408" y1="58" x2="408" y2="252"/><line x1="453" y1="58" x2="453" y2="252"/><line x1="498" y1="58" x2="498" y2="252"/><line x1="543" y1="58" x2="543" y2="252"/>
+    <line x1="588" y1="58" x2="588" y2="252"/><line x1="633" y1="58" x2="633" y2="252"/><line x1="678" y1="58" x2="678" y2="252"/><line x1="723" y1="58" x2="723" y2="252"/><line x1="768" y1="58" x2="768" y2="252"/>
+  </g>
+  <!-- row labels -->
+  <g fill="#1d2330" font-size="12.5">
+    <text x="10" y="82">Tropical cyclone season</text>
+    <text x="10" y="96" font-size="11" fill="#64748b">(official: 1 Nov – 30 Apr)</text>
+    <text x="10" y="128">Kimberley wet season</text>
+    <text x="10" y="142" font-size="11" fill="#64748b">(approximate)</text>
+    <text x="10" y="174">South-west bushfire risk</text>
+    <text x="10" y="188" font-size="11" fill="#64748b">(typical; varies by year)</text>
+    <text x="10" y="220">South-west rainy season</text>
+    <text x="10" y="234" font-size="11" fill="#64748b">(cold fronts, storms)</text>
+  </g>
+  <!-- bars -->
+  <rect x="410" y="72" width="268" height="24" rx="4" fill="#0f6b5c"/>
+  <rect x="410" y="118" width="43" height="24" rx="4" fill="#9fd3c7"/>
+  <rect x="455" y="118" width="178" height="24" rx="2" fill="#0f6b5c"/>
+  <rect x="635" y="118" width="43" height="24" rx="4" fill="#9fd3c7"/>
+  <rect x="365" y="164" width="88" height="24" rx="4" fill="#fcd9b0"/>
+  <rect x="455" y="164" width="178" height="24" rx="2" fill="#b45309"/>
+  <rect x="635" y="164" width="43" height="24" rx="4" fill="#fcd9b0"/>
+  <rect x="680" y="210" width="88" height="24" rx="2" fill="#7c93b8"/>
+  <rect x="230" y="210" width="133" height="24" rx="2" fill="#7c93b8"/>
+  <!-- blank event row for students -->
+  <line x1="228" y1="252" x2="768" y2="252" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="10" y="276" font-weight="700" fill="#b91c1c">Events (Q4): write a letter</text>
+  <text x="10" y="290" font-size="11" fill="#64748b">in the month it happened</text>
+  <g fill="none" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 3">
+    <rect x="232" y="260" width="37" height="30"/><rect x="277" y="260" width="37" height="30"/><rect x="322" y="260" width="37" height="30"/><rect x="367" y="260" width="37" height="30"/>
+    <rect x="412" y="260" width="37" height="30"/><rect x="457" y="260" width="37" height="30"/><rect x="502" y="260" width="37" height="30"/><rect x="547" y="260" width="37" height="30"/>
+    <rect x="592" y="260" width="37" height="30"/><rect x="637" y="260" width="37" height="30"/><rect x="682" y="260" width="37" height="30"/><rect x="727" y="260" width="37" height="30"/>
+  </g>
+  <!-- key -->
+  <g font-size="11.5" fill="#1d2330">
+    <rect x="228" y="304" width="22" height="12" fill="#0f6b5c"/><rect x="252" y="304" width="22" height="12" fill="#b45309"/>
+    <text x="280" y="314">main period</text>
+    <rect x="370" y="304" width="22" height="12" fill="#9fd3c7"/><rect x="394" y="304" width="22" height="12" fill="#fcd9b0"/>
+    <text x="422" y="314">possible / shoulder months</text>
+  </g>
+  <text x="390" y="336" text-anchor="middle" font-size="11" fill="#64748b">Simplified. Real seasons start and finish at different times in different years and places.</text>
+</svg>

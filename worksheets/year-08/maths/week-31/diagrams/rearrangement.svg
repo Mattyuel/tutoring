@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 300" width="620" height="300" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="620" height="300" fill="#fff"/>
+  <!-- Arrangement 1 -->
+  <rect x="50" y="40" width="200" height="200" fill="#fff" stroke="#1f4e8c" stroke-width="2.5"/>
+  <g fill="#dbe7f6" stroke="#1f4e8c" stroke-width="1.8" stroke-linejoin="round">
+    <polygon points="50,40 125,40 50,165"/>
+    <polygon points="250,40 250,115 125,40"/>
+    <polygon points="250,240 175,240 250,115"/>
+    <polygon points="50,240 50,165 175,240"/>
+  </g>
+  <g font-weight="700" font-style="italic" fill="#1d2330" text-anchor="middle">
+    <text x="87.5" y="32">a</text><text x="187.5" y="32">b</text>
+    <text x="263" y="82">a</text><text x="263" y="182">b</text>
+    <text x="112.5" y="258">b</text><text x="212.5" y="258">a</text>
+    <text x="37" y="107">b</text><text x="37" y="207">a</text>
+    <text x="178" y="98">c</text><text x="197" y="173">c</text>
+    <text x="122" y="192">c</text><text x="103" y="117">c</text>
+  </g>
+  <!-- Arrangement 2 -->
+  <rect x="370" y="40" width="200" height="200" fill="#fff" stroke="#1f4e8c" stroke-width="2.5"/>
+  <g fill="#dbe7f6" stroke="#1f4e8c" stroke-width="1.8" stroke-linejoin="round">
+    <polygon points="445,40 570,40 445,115"/>
+    <polygon points="570,40 570,115 445,115"/>
+    <polygon points="370,115 445,115 370,240"/>
+    <polygon points="445,115 445,240 370,240"/>
+  </g>
+  <rect x="370" y="40" width="75" height="75" fill="none" stroke="#1f4e8c" stroke-width="1.8"/>
+  <rect x="445" y="115" width="125" height="125" fill="none" stroke="#1f4e8c" stroke-width="1.8"/>
+  <g font-weight="700" font-style="italic" fill="#1d2330" text-anchor="middle">
+    <text x="407.5" y="32">a</text><text x="507.5" y="32">b</text>
+    <text x="357" y="82">a</text><text x="357" y="182">b</text>
+    <text x="583" y="82">a</text><text x="583" y="182">b</text>
+    <text x="407.5" y="258">a</text><text x="507.5" y="258">b</text>
+  </g>
+  <g font-weight="700" fill="#1f4e8c" text-anchor="middle" font-size="14">
+    <text x="150" y="288">Arrangement 1</text><text x="470" y="288">Arrangement 2</text>
+  </g>
+  <text x="310" y="145" text-anchor="middle" font-size="12" fill="#64748b">same</text>
+  <text x="310" y="160" text-anchor="middle" font-size="12" fill="#64748b">big square</text>
+</svg>
