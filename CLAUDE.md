@@ -71,6 +71,7 @@ materials/    Shared reading passages, fact sheets, images, data sets
 
 - Markdown only (renders on GitHub, converts cleanly to PDF/Word with pandoc).
 - Week folders are zero-padded: `week-01`, `week-02` …
-- Answer lines: use `______________________` ; working space: a blank fenced block or
-  `> Working:` followed by blank lines.
+- Answer space is **sized to the expected answer** (see style guide → *Answer space*):
+  `<!-- lines:N -->` = N ruled lines, `<!-- work:N -->` = maths working box N lines tall,
+  short inline `________` blanks only for one-word/one-number answers.
 - After writing a new week, tick it off in the program file's status column.

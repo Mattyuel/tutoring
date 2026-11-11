@@ -48,13 +48,17 @@ main > p:first-child + ul, main > p:first-of-type + ul { background: var(--accen
 /* ---------- Tables ---------- */
 table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 9.8pt; break-inside: avoid; }
 th { background: var(--accent-soft); color: var(--accent); text-align: left; font-weight: 700; }
-th, td { border: 1px solid #cbd2dc; padding: 5px 8px; vertical-align: top; min-height: 22px; }
+th, td { border: 1px solid #cbd2dc; padding: 5px 8px; vertical-align: top; }
+td { height: var(--line); }
 td:empty::after { content: "\00a0"; display: inline-block; height: 16px; }
 
 /* ---------- Answer space ---------- */
 .blank { display: inline-block; border-bottom: 1px solid #6b7280; height: 1.1em; vertical-align: baseline; margin: 0 2px; max-width: 100%; }
-.wline { border-bottom: 1px solid #9ca3af; height: 26px; }
-.working { border: 1.5px dashed #cbd2dc; border-radius: 6px; min-height: 120px; margin: 8px 0; padding: 4px 8px; }
+:root { --line: 9mm; }              /* Year 4: wide-ruled for younger handwriting */
+body.year-08 { --line: 8mm; }        /* Year 8 */
+.wline { border-bottom: 1px solid #9ca3af; height: var(--line); }
+.lines { margin: 2px 0 10px; break-inside: avoid; }
+.working { border: 1.5px dashed #cbd2dc; border-radius: 6px; min-height: 120px; break-inside: avoid; margin: 8px 0; padding: 4px 8px; }
 .working span { font-size: 7.5pt; text-transform: uppercase; letter-spacing: .08em; color: #9ca3af; font-weight: 700; }
 ul.task-list { list-style: none; padding-left: 4px; }
 input[type=checkbox] { width: 11px; height: 11px; margin-right: 6px; }
@@ -76,3 +80,5 @@ figcaption { font-size: 8.5pt; color: #6b7280; margin-top: 4px; font-style: ital
 /* ---------- Misc ---------- */
 code { font-family: "JetBrains Mono", Consolas, monospace; font-size: .9em; }
 .doc-ak main h2 { background: #374151; }
+li.tick { list-style: none; margin-left: -16px; }
+li.tick .box { display: inline-block; width: 11px; height: 11px; border: 1.5px solid #6b7280; border-radius: 2px; margin-right: 7px; vertical-align: -1px; }

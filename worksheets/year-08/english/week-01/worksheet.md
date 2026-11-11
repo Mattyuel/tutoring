@@ -21,11 +21,13 @@
 
 2. Rewrite the sentence correctly (there are **five** errors):
    *their are many different type's of cell's in the human body, each has it's own job.*
-   ______________________________________________________________________________
+
+<!-- lines:2 -->
 
 3. Join these two sentences into one using the word **which**:
    *Hooke published a book in 1665. The book contained detailed drawings of insects.*
-   ______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ---
 
@@ -57,8 +59,8 @@
 ## Part C · Understanding the content ⏱ ~10 min
 
 **1.** *(Literal)* Why did Hooke choose the word *cell*? What had he really been looking at?
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **2.** *(Literal)* Number these events in the order they happened (1–6).
 - ___ Schwann argues that animals are made of cells
@@ -69,43 +71,52 @@ ______________________________________________________________________________
 - ___ Schleiden concludes that plants are made of cells
 
 **3.** *(Literal)* State the three ideas of cell theory **in your own words**.
-1. ____________________________________________________________________________
-2. ____________________________________________________________________________
-3. ____________________________________________________________________________
+*Idea 1:*
+<!-- lines:2 -->
+
+*Idea 2:*
+<!-- lines:2 -->
+
+*Idea 3:*
+<!-- lines:2 -->
 
 **4.** *(Inferential)* Why do you think some members of the Royal Society doubted van Leeuwenhoek? Give **two** possible reasons, at least one of which is not directly stated in the text.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **5.** *(Inferential)* Hooke named cells in 1665, but cell theory was not complete until the 1850s. Using evidence from ¶3–¶5, explain why it took so long.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:5 -->
 
 **6.** *(Evaluative)* Is it fair that Virchow is usually given credit for *omnis cellula e cellula*? Give your opinion and justify it with evidence from ¶5.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:5 -->
 
 **7.** *(Connection)* Explain how the third idea of cell theory proved Schleiden partly wrong.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ### 🔗 Connections — linking the history to the science (and maths)
 *Use the cell diagrams above, the text, and what you learnt about living things in Year 7 science.*
 
 **8.** Hooke's cork was **dead plant tissue**. Which **one** labelled structure in the plant cell could he still see? Why would the others have disappeared?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **9.** List **three** structures found in plant cells but not animal cells. For each, suggest why a plant needs it and an animal doesn't. *(Hint: plants make their own food and do not have skeletons.)*
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:6 -->
 
 **10.** Bacteria — van Leeuwenhoek's "animalcules" — are single cells with **no nucleus**. Which idea of cell theory do bacteria still obey, and why does that matter?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **11. Maths link.** A typical human cell is about 0.02 mm across.
 a) How many such cells would fit side by side across 1 cm? ________
 b) Van Leeuwenhoek's best lenses magnified about 200 times. How wide would a 0.02 mm cell appear through them? ________
 c) Hooke saw cork cells with a microscope magnifying about 50 times. Use your answers to explain why van Leeuwenhoek could see things Hooke missed.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ---
 
@@ -135,26 +146,29 @@ d) *Virchow is usually given the credit, although historians now point out that 
 **13.** Combine each set of simple sentences into **one** complex sentence. Use a different conjunction or relative pronoun each time. Do not just use *and*.
 
 a) Schwann compared animal and plant tissue. He concluded that animals are made of cells.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 b) Early microscopes blurred images. Scientists could not see fine details inside cells.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 c) Van Leeuwenhoek was a cloth merchant. He discovered bacteria.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **14.** Rewrite your answer to 13(b) so the subordinate clause is in a **different position**. How does moving the clause change the emphasis?
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 ### Summarising
 A good summary keeps the **main idea** and the **essential supporting points**, removes examples and detail, and uses **your own words**.
 
 **15.** Summarise ¶3 in **no more than 30 words**.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **16.** Summarise the **whole text** in **one sentence of no more than 35 words**. (Hint: a complex sentence is useful here.)
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ---
 
@@ -181,7 +195,8 @@ e) *animalcule* ______________________________
 f) *leucocyte* (*leuco-* = white) ______________________________
 
 **18.** Invent a word using at least two roots from the table for something that doesn't exist yet. Give its definition.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ---
 
@@ -203,16 +218,7 @@ Write one **TEEL** paragraph (150–200 words):
 - [ ] own words — no copied sentences longer than five words
 - [ ] linking sentence that refers back to the prompt
 
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+<!-- lines:20 -->
 
 ---
 
@@ -220,7 +226,11 @@ ______________________________________________________________________________
 
 **19.** Viruses can only reproduce by entering a host cell, and they are not made of cells. Using the three ideas of cell theory, write a short argument (80–120 words) on whether viruses should be considered alive. Acknowledge the opposing view in a sentence beginning with *Although…*.
 
+<!-- lines:11 -->
+
 **20.** The text says knowledge "sometimes changes direction". Find **one** sentence in the text that is evidence of science being *wrong* and later corrected. Explain how the text signals this.
+
+<!-- lines:4 -->
 
 ---
 ### Self-check
@@ -240,39 +250,58 @@ ______________________________________________________________________________
 *Work through in order. ⭐⭐⭐⭐ = Year 9–10 level.*
 
 **F1 ⭐⭐ Openings.** Why does the writer open ¶1 with a list of very different living things (*a gum tree, a dolphin, the mould on old bread, your own hand*)? What effect do the dashes have?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **F2 ⭐⭐ Careful language.** Find **three** words or phrases where the writer avoids claiming too much (e.g. *usually*). Why would a writer about the history of science be careful in this way?
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **F3 ⭐⭐⭐ A primary source.** Here is part of what Hooke himself wrote in *Micrographia* (1665), in his original spelling:
 
 > *"I could exceedingly plainly perceive it to be all perforated and porous, much like a Honey-comb, but that the pores of it were not regular."*
 
 a) What does *perforated* mean? Use the context and the root *per-* ("through").
+
+<!-- lines:1 -->
 b) List **two** features of the language that show this was written over 350 years ago.
+
+<!-- lines:2 -->
 c) What does this source give a historian that the article in Part B does not? What does the article give that this source does not?
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **F4 ⭐⭐⭐ Sentence craft.** Write four sentences about microscopes or cells. Each must begin with a different kind of subordinate clause:
-a) time (*When…, After…, Until…*) ______________________________________________
-b) reason (*Because…, Since…*) ______________________________________________
-c) concession (*Although…, Even though…*) ______________________________________________
-d) condition (*If…, Unless…*) ______________________________________________
+a) time (*When…, After…, Until…*)
+
+<!-- lines:2 -->
+b) reason (*Because…, Since…*)
+
+<!-- lines:2 -->
+c) concession (*Although…, Even though…*)
+
+<!-- lines:2 -->
+d) condition (*If…, Unless…*)
+
+<!-- lines:2 -->
 e) Now write one sentence with a relative clause **embedded** in the middle, punctuated with commas.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **F5 ⭐⭐⭐ Change the audience.** Rewrite ¶4 for a Year 4 student in **no more than 60 words**. Then name three specific changes you made and why.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:9 -->
 
 **F6 ⭐⭐⭐ Timeline.** Draw a timeline from 1650 to 1950 to scale (e.g. 1 cm = 25 years). Mark the six events from Part C Q2, each with a caption of **no more than 10 words**. What does the scale make visible that a list does not?
+
+<!-- work:9 -->
 
 **F7 ⭐⭐⭐⭐ Historical voice.** Write a diary entry (≈250 words) as Antonie van Leeuwenhoek on the night he first sees animalcules in a drop of water. Include:
 - accurate details from the text (Delft, lenses, magnification, the Royal Society)
 - at least three complex sentences and one embedded relative clause
 - a sense of his excitement *and* his worry that he will not be believed
+
+<!-- lines:24 -->
 
 **F8 ⭐⭐⭐⭐ Argue both sides.** *"Credit in science should go to whoever publishes first."* Plan a debate: three points **for** and three points **against**, each supported by an example (Virchow and Remak is one; you may know others).
 
@@ -283,3 +312,5 @@ ______________________________________________________________________________
 | 3. | 3. |
 
 **F9 ⭐⭐⭐⭐ Research (needs a book or internet).** Find out one thing scientists have discovered about cells since 1950 (e.g. DNA's double helix, 1953; stem cells; seeing proteins with cryo-electron microscopy). Write a 100-word explanation in your own words that names your source and the technology that made the discovery possible.
+
+<!-- lines:10 -->

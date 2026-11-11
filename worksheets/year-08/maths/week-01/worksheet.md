@@ -90,6 +90,8 @@ $\sqrt{2^4 \times 3^2} = 2^2 \times 3 = 12$ (halve the indices)  $\sqrt[3]{2^6 \
 a) 72 ______________ b) 150 ______________ c) 196 ______________
 d) 1001 ______________ e) 2024 ______________ f) 3600 ______________
 
+<!-- work:6 -->
+
 **3. Evaluate.**
 
 a) $2^5$ ______ b) $3^4$ ______ c) $10^6$ ______ d) $\sqrt{169}$ ______
@@ -105,7 +107,11 @@ e) $\sqrt{2^4 \times 3^2}$ ______ f) $\sqrt[3]{343}$ ______ g) $4^3 - 3^4$ _____
 | 45 and 98 | | | |
 | 24, 40 and 90 | | | |
 
-What is special about 45 and 98? ______________________________________________
+<!-- work:5 -->
+
+What is special about 45 and 98?
+
+<!-- lines:2 -->
 
 **5. Insert brackets so each statement is true.**
 
@@ -116,21 +122,32 @@ d) $-2 \times 5 - 8 \div 2 = 3$
 
 **6. True or false? Justify each answer with a reason or a counter-example.**
 
-a) The product of two negative integers is always greater than their sum. ______________________________
-b) Every prime number is odd. ______________________________
-c) $(-1)^n = -1$ for every odd whole number $n$. ______________________________
-d) The LCM of two numbers is always their product. ______________________________
+a) The product of two negative integers is always greater than their sum.
+
+<!-- lines:2 -->
+b) Every prime number is odd.
+
+<!-- lines:2 -->
+c) $(-1)^n = -1$ for every odd whole number $n$.
+
+<!-- lines:2 -->
+d) The LCM of two numbers is always their product.
+
+<!-- lines:2 -->
 
 **7. Find the error.** Sam's working:
 $20 - 12 \div 4 \times (-3) = 8 \div 4 \times (-3) = 2 \times (-3) = -6$
 
 Explain Sam's mistake and give the correct answer.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **8.** At an Australian research station in Antarctica the temperature at 6 am is $-27\,^\circ\text{C}$. It rises by $3\,^\circ\text{C}$ every hour until 2 pm, then falls by $5\,^\circ\text{C}$ every hour until 9 pm.
 a) What is the temperature at 2 pm? ______________
 b) What is the temperature at 9 pm? ______________
 c) What is the difference between the highest and lowest temperatures recorded that day (6 am – 9 pm)? ______________
+
+<!-- work:3 -->
 
 ![Number line from −40 °C to 10 °C](diagrams/temperature-line.svg)
 
@@ -138,14 +155,19 @@ c) What is the difference between the highest and lowest temperatures recorded t
 
 **9.** Use prime factorisation (not a calculator!) to decide whether each number is a perfect square, a perfect cube, both, or neither. Give the root where it exists.
 
-a) 1764 ______________________ b) 5832 ______________________ c) 2700 ______________________
+a) 1764 ______________________ b) 5832 ______________________ c) 2700
+
+<!-- work:8 -->
 
 **10.** For 2700 in Q9:
 a) What is the smallest whole number you could multiply it by to make a perfect square? ______
 b) …to make a perfect cube? ______
 
+<!-- work:3 -->
+
 **11.** Find the smallest positive integer $n$ such that $168n$ is a perfect square. What is $\sqrt{168n}$?
-______________________________________________________________________________
+
+<!-- work:5 -->
 
 ### C4 🔗 Connections — this week's tools meet earlier topics
 *Prime factors, HCF and LCM aren't just for number puzzles. Use them inside topics you already know (area, volume, fractions, substitution).*
@@ -153,22 +175,30 @@ ______________________________________________________________________________
 ![Three shapes: A a square of area 1764 m², B a cube of volume 5832 cm³, C a rectangle of area 2⁵ × 3² cm² and length 2⁴ cm](diagrams/connections.svg)
 
 **X1. Shape A (area & perimeter).** The square courtyard has an area of 1764 m². Use its prime factorisation (Q9) to find the side length without a calculator, then find its perimeter.
-______________________________________________________________________________
+
+<!-- work:4 -->
 
 **X2. Shape B (volume & surface area).** The cube-shaped box has a volume of 5832 cm³. Find the length of each edge, then the box's total surface area.
-______________________________________________________________________________
+
+<!-- work:4 -->
 
 **X3. Shape C (area & index form).** The rectangle has area $2^5 \times 3^2$ cm² and length $2^4$ cm. Find the width in index form *and* as an ordinary number. Then find the perimeter.
-______________________________________________________________________________
+
+<!-- work:4 -->
 
 **X4. Fractions.** Simplify $\dfrac{84}{120}$ in **one step** using the HCF from Worked example 3.
-______________________________________________________________________________
+
+<!-- work:2 -->
 
 **X5. Fractions.** Use the LCM as the lowest common denominator.
 a) $\dfrac{5}{12} + \dfrac{7}{18}$ ______ b) $\dfrac{1}{24} - \dfrac{1}{40}$ ______
 
+<!-- work:3 -->
+
 **X6. Substitution (algebra preview).** If $a = -3$ and $b = 4$, evaluate:
 a) $a^2 - 2ab$ ______ b) $(a - b)^3$ ______ c) $\dfrac{b^2 - a}{a + b}$ ______
+
+<!-- work:3 -->
 
 ---
 
@@ -178,19 +208,25 @@ a) $a^2 - 2ab$ ______ b) $(a - b)^3$ ______ c) $\dfrac{b^2 - a}{a + b}$ ______
 a) When do they next leave together? ______________
 b) How many times do they leave together from 7:00 am to 10:00 am (inclusive)? ______________
 
+<!-- work:3 -->
+
 **13. Tiling.** A rectangular courtyard measures 4.2 m by 3.6 m. It is to be covered with identical square tiles with **no cutting**. What is the largest tile size possible, and how many tiles are needed?
 
 ![A 4.2 m by 3.6 m courtyard with one square tile of unknown size in the corner](diagrams/courtyard.svg)
 
-______________________________________________________________________________
+<!-- work:5 -->
 
 **14. Packing.** A school fundraiser has 84 muesli bars, 126 juice boxes and 210 apples. They are packed into identical bags with nothing left over. What is the greatest number of bags possible, and what goes in each bag?
-______________________________________________________________________________
+
+<!-- work:5 -->
 
 **15. Quiz scoring.** In a 25-question quiz, a correct answer scores $+4$ and an incorrect answer scores $-2$.
 a) Amira answered every question and scored 46. How many did she get correct? ______________
+
+<!-- work:3 -->
 b) Leaving a question blank scores 0. Is it possible for anyone to score exactly 47? Explain using odd/even reasoning.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ---
 
@@ -198,12 +234,22 @@ ______________________________________________________________________________
 
 **16. Counting factors.** $72 = 2^3 \times 3^2$ has 12 factors.
 a) List them all to check.
+
+<!-- lines:2 -->
 b) Explain why the number of factors of $2^a \times 3^b$ is $(a+1)(b+1)$.
+
+<!-- lines:4 -->
 c) Find the **smallest** whole number with exactly 12 factors.
+
+<!-- work:4 -->
 
 **17.** What is the last digit of $7^{2026}$? Explain the pattern you used.
 
+<!-- lines:4 -->
+
 **18.** Explain why the product of any three consecutive integers is always divisible by 6.
+
+<!-- lines:4 -->
 
 ---
 ### Self-check
@@ -225,39 +271,60 @@ c) Find the **smallest** whole number with exactly 12 factors.
 a) $(-2)^5 - (-3)^3$ ______ b) $[(-6)^2 - 4 \times (-3) \times 2] \div (-2)^2$ ______
 c) $-2^4 + (-2)^4$ ______ d) $3 - 4 \times [\,5 - (-2)^3\,] \div 13$ ______
 
+<!-- work:4 -->
+
 **F2 ⭐⭐** Write 9450 and 13 860 as products of primes, then find their HCF and LCM. Check your answer with HCF × LCM.
-______________________________________________________________________________
+
+<!-- work:7 -->
 
 **F3 ⭐⭐⭐** Two numbers have HCF 12 and LCM 360. One of them is 72. Find the other, and check it.
-______________________________________________________________________________
+
+<!-- work:3 -->
 
 **F4 ⭐⭐⭐** Find **all** pairs of positive integers whose HCF is 6 and whose LCM is 72.
-______________________________________________________________________________
+
+<!-- work:5 -->
 
 **F5 ⭐⭐⭐ Gears.** A gear with 24 teeth meshes with a gear with 36 teeth. A tooth on each gear is marked where they touch. How many full turns must each gear make before the two marked teeth touch again?
-______________________________________________________________________________
+
+<!-- work:3 -->
 
 **F6 ⭐⭐⭐** What is the smallest perfect square that is divisible by 2, 3, 4, 5 and 6?
-______________________________________________________________________________
+
+<!-- work:3 -->
 
 **F7 ⭐⭐⭐** $25! = 25 \times 24 \times 23 \times \dots \times 2 \times 1$. Without calculating it, how many zeros are on the end of $25!$? Explain using prime factors. *(Hint: each zero needs one 2 and one 5.)*
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **F8 ⭐⭐⭐** If $2^a \times 3^b = 6^4 \times 12$, find $a$ and $b$.
-______________________________________________________________________________
+
+<!-- work:3 -->
 
 **F9 ⭐⭐⭐⭐ Sum of factors.** The sum of all factors of $360 = 2^3 \times 3^2 \times 5$ can be found by calculating
 $(1 + 2 + 4 + 8)(1 + 3 + 9)(1 + 5)$.
 a) Calculate it.
+
+<!-- work:2 -->
 b) Explain why this works. *(Think about what you get when you expand the brackets.)*
+
+<!-- lines:4 -->
 c) Use the same method to find the sum of the factors of 72.
+
+<!-- work:3 -->
 
 **F10 ⭐⭐⭐⭐ The locker problem.** A corridor has 100 closed lockers numbered 1–100. Student 1 opens every locker. Student 2 changes every 2nd locker (closes it if open, opens it if closed). Student 3 changes every 3rd locker, and so on, up to Student 100.
 a) Which lockers are open at the end? b) Explain why, using what you know about factors.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:6 -->
 
 **F11 ⭐⭐⭐⭐ Investigation — an unsolved problem.** In 1742 Christian Goldbach suggested that every even number greater than 2 is the sum of two primes. Nobody has ever proved it.
 a) Check it for every even number from 4 to 30.
+
+<!-- lines:5 -->
 b) In how many different ways can 50 be written as the sum of two primes? (3 + 47 and 47 + 3 count as the same way.)
+
+<!-- lines:3 -->
 c) Why does the conjecture say *even* numbers? What goes wrong for odd numbers like 27?
+
+<!-- lines:4 -->

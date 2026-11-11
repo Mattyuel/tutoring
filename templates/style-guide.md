@@ -83,6 +83,26 @@ Most questions should be ⭐⭐ or ⭐⭐⭐ for these students.
 - Model answers for English, plus *marking notes*: what a strong response includes.
 - *Teacher notes*: common misconceptions, how to extend, sources for facts.
 
+## Answer space
+Size every answer space from the model answer in `answers.md` — never one generic line.
+- `<!-- lines:N -->` on its own line after the question → N ruled lines (invisible on GitHub).
+- `<!-- work:N -->` → a dashed working box N lines tall (maths calculations, factor trees, drawings).
+- Inline `________` only for one word / one number answers.
+
+| Answer type | Year 4 (≈7 words/line) | Year 8 (≈10 words/line) |
+|---|---|---|
+| Single word / number | inline blank | inline blank |
+| One sentence | 2 lines | 1–2 lines |
+| Explain / justify (2–3 sentences) | 3–4 lines | 3 lines |
+| Inference / evaluation with evidence | 4–5 lines | 4–5 lines |
+| Paragraph (≈100 words) | ~16 lines | ~11 lines |
+| Paragraph (150–200 words) | — | ~20 lines |
+| Extended piece (250 words) | ~35 lines | ~24 lines |
+| Maths: 1–2 step calculation | work:2–3 | work:2–3 |
+| Maths: multi-step / factor trees / proofs | work:5–8 | work:4–8 |
+
+Rule of thumb: word target ÷ words-per-line, + 10–20 % spare. Rule lines are 9 mm apart for Year 4 and 8 mm for Year 8.
+
 ## Publishing
 Run `node tools/build.mjs worksheets/year-XX/<subject>/week-NN` → branded PDFs in `dist/`
 with unique IDs (`Y08-MA-W01-WS rev xxxxxx`). See `tools/README.md`.

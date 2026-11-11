@@ -18,23 +18,31 @@
 ## 2 · Questions
 
 **1.** What is Nature's Window, and where is it?
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **2.** Why did a hole form in the rock instead of the whole rock wearing away evenly?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **3.** Find **one** example of weathering and **one** example of erosion in the text.
-Weathering: ________________________________________________________________
-Erosion: __________________________________________________________________
+Weathering:
+
+<!-- lines:2 -->
+Erosion:
+
+<!-- lines:2 -->
 
 **4.** Write the main idea of the last paragraph in **five words or fewer**.
-______________________________________________________________________________
+
+<!-- lines:1 -->
 
 **5.** Underline the noun groups:
 a) *a deep, winding gorge* b) *layers of red and white sandstone* c) *the fast-moving water*
 
 **6.** Write **two** noun groups of your own to describe the river. Use a precise adjective in each.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ## 3 · Compare
 
@@ -49,5 +57,5 @@ ______________________________________________________________________________
 ## 4 · At home
 
 **8.** Explain to someone at home the difference between **weathering** and **erosion**. Then look around your home, garden or street for **one** example of weathering or erosion (e.g. a worn step, a crack in a path, soil washed onto a footpath). Draw or describe it in two sentences.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:5 -->

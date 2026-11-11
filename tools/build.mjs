@@ -111,6 +111,13 @@ function toHtml(meta) {
       `<div class="namebox"><div><span>Name</span><i></i></div><div><span>${dueLabel}</span><i></i></div><div class="score"><span>Score / effort</span><i></i></div></div>`}
   </header>`;
 
+  // --- Sized answer space (invisible on GitHub):
+  //   <!-- lines:N -->  -> N ruled writing lines
+  //   <!-- work:N -->   -> blank working box N lines tall (maths)
+  body = body.replace(/<!--\s*lines:(\d+)\s*-->/g, (_, n) => `<div class="lines" style="--n:${n}">${'<div class="wline"></div>'.repeat(+n)}</div>`);
+  body = body.replace(/<!--\s*work:(\d+)\s*-->/g, (_, n) => `<div class="working" style="min-height:calc(${n} * var(--line))"><span>Working</span></div>`);
+  // Checklists: "- [ ] item" -> tick box
+  body = body.replace(/<li>\[ \]\s*/g, '<li class="tick"><span class="box"></span>');
   // --- Answer lines: paragraphs of only underscores -> full-width writing lines
   body = body.replace(/<p>(?:\s*_{6,}\s*)+<\/p>/g, '<div class="wline"></div>');
   // inline underscore runs -> inline answer blanks sized to the run
@@ -132,7 +139,7 @@ function toHtml(meta) {
 <base href="${base}"><title>${meta.id} — ${esc(title.replace(/<[^>]+>/g, ''))}</title>
 <style>:root{--accent:${BRAND.colours[meta.subject.code]};--accent-soft:${BRAND.colours[meta.subject.code + '_soft']};}</style>
 <style>${CSS}</style></head>
-<body class="doc-${meta.doc.code.toLowerCase()}">${header}<main>${body}</main></body></html>`;
+<body class="doc-${meta.doc.code.toLowerCase()} year-${meta.year}">${header}<main>${body}</main></body></html>`;
 }
 
 // createRequire so a globally installed playwright also resolves

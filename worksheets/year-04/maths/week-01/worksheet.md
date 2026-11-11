@@ -66,9 +66,15 @@ c) sixty thousand, six hundred and six ______________
 d) one hundred and four thousand, five hundred ______________
 
 **2. Write in words.**
-a) 38 215 ________________________________________________
-b) 70 408 ________________________________________________
-c) 15 050 ________________________________________________
+a) 38 215
+
+<!-- lines:1 -->
+b) 70 408
+
+<!-- lines:1 -->
+c) 15 050
+
+<!-- lines:1 -->
 
 **3. What is the value of the digit 7 in each number?**
 a) 27 315 ________ b) 73 102 ________ c) 50 172 ________ d) 714 000 ________
@@ -90,7 +96,8 @@ d) 52 316 = 4 ten thousands + ________ thousands + 316
 
 **6. Order from smallest to largest.**
 45 099 · 45 909 · 45 990 · 49 059 · 40 959
-________________________________________________
+
+<!-- lines:1 -->
 
 **7. Write <, > or = in each box.**
 a) 30 000 + 400 ☐ 34 000
@@ -116,7 +123,8 @@ d) Estimate the numbers the arrows point to. A ________ B ________ C ________
 **10. Odd or even?** Predict *without* working out the answer.
 a) 3 457 + 2 891 ________ b) 12 × 37 ________ c) 135 × 77 ________ d) 999 + 1 000 + 1 001 ________
 e) Explain why **odd + odd** is always even. (Hint: think of an odd number as pairs plus one left over.)
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ### C3 ⭐⭐⭐ Reasoning
 
@@ -129,7 +137,8 @@ b) the smallest number (it can't start with 0!) ________
 c) the smallest **odd** number ________
 d) the number closest to 50 000 ________
 e) How many different numbers between 70 000 and 71 000 can you make? List them.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **12. Who am I?**
 - I am a 5-digit **even** number.
@@ -139,11 +148,16 @@ ______________________________________________________________________________
 - My tens digit is my ten thousands digit plus my ones digit.
 
 I am ________. Is there more than one answer? How do you know?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **13. True or false? Explain.**
-a) A 5-digit number is always bigger than a 4-digit number. ________________________________
-b) If you round 64 999 to the nearest thousand and to the nearest ten thousand, you get the same answer. ________________________________
+a) A 5-digit number is always bigger than a 4-digit number.
+
+<!-- lines:2 -->
+b) If you round 64 999 to the nearest thousand and to the nearest ten thousand, you get the same answer.
+
+<!-- lines:2 -->
 
 ---
 
@@ -152,7 +166,8 @@ b) If you round 64 999 to the nearest thousand and to the nearest ten thousand, 
 **14. Footy crowd.** A crowd of **58 437** people watched a football match in Perth.
 a) Round the crowd to the nearest thousand: ________ and nearest hundred: ________
 b) A newspaper headline said "ALMOST 60 000 FANS!" Is that fair? Explain.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 c) How many more people would have been needed to make exactly 60 000? ________
 
 **15. The odometer.** A car's odometer (distance counter) shows **49 996 km**.
@@ -162,9 +177,13 @@ c) How many more people would have been needed to make exactly 60 000? ________
 a) What will it show after the car drives 7 more km? ________
 b) The next time all five digits are the **same** digit, what will the odometer show? ________ How many more km is that from your answer to (a)? ________
 
+<!-- work:3 -->
+
 **16. Three towns.** Town A has 34 782 people, Town B has 34 827 people and Town C has 34 278 people.
 a) Order the towns from largest to smallest population. ________________________
 b) How many more people live in the largest town than in the smallest? ________
+
+<!-- work:2 -->
 
 **17. Counting jumps.**
 a) Start at 96 450 and count on by 1 000 five times. Where do you land? ________
@@ -184,27 +203,34 @@ a) 4 m 35 cm = ________ cm b) 2 708 cm = ________ m ________ cm c) 12 345 m = __
 
 a) Round each side to the nearest **thousand** metres and use the rounded numbers to estimate the distance around the paddock (its perimeter). ________
 b) Now round each side to the nearest **hundred** metres and estimate again. ________
+
+<!-- work:3 -->
 c) The real perimeter is 7 500 m. Which estimate was closer? Why?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **X4. Odd and even in real life.** 37 students line up in pairs for a bus. Will everyone have a partner? Explain using odd and even.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ---
 
 ## Part E · Challenge ⏱ ~10 min
 
 **18. Into the millions.** Write 4 503 060 in words. What is the value of the 5?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **19.** How many 3-digit numbers have digits that add up to 5? (*Example: 203.*) Find them **all** — be systematic!
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **20.** Use the digits 1, 2, 3, 4, 5 and 6 once each to make **two 3-digit numbers**.
 a) Make their **sum** as large as possible. ________ + ________ = ________
 b) Make their **sum** as small as possible. ________ + ________ = ________
 c) What did you notice about where the big digits had to go?
+
+<!-- lines:2 -->
 
 ---
 ### Self-check
@@ -232,10 +258,12 @@ c) 100 more than 39 950? ________ d) 10 less than 70 005? ________
 **F3 ⭐⭐** A whole number rounds to 6 000 (to the nearest thousand). What is the smallest it could be? ________ The largest? ________
 
 **F4 ⭐⭐⭐** A whole number rounds to 3 450 (nearest 10) **and** to 3 400 (nearest 100). List every number it could be.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **F5 ⭐⭐⭐** If you write out every whole number from 1 to 100, how many times do you write the digit **7**? ________ Explain how you counted.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **F6 ⭐⭐⭐ Palindromes** read the same forwards and backwards (e.g. 12 321).
 a) How many 5-digit palindromes are there between 40 000 and 41 000? ________
@@ -243,15 +271,18 @@ b) What is the largest **even** 5-digit palindrome? ________
 
 **F7 ⭐⭐⭐ Counters.** A place-value chart has four columns: Thousands, Hundreds, Tens, Ones. Each counter you place is worth 1 in its column (so a counter in the hundreds column is worth 100).
 Using **exactly 3 counters**, list every number you can make. How many are there? How many are odd?
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:5 -->
 
 **F8 ⭐⭐⭐⭐** Can you choose **five** numbers from this list (you may use a number more than once) that add up to exactly **30**?
   1  3  5  7  9  11  13  15
 Explain your answer.
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **F9 ⭐⭐⭐⭐** On a number line, A is at 24 000 and B is at 36 000. C is halfway between A and B. D is halfway between A and C. Where is D? ________
+
+<!-- work:3 -->
 
 **F10 ⭐⭐⭐⭐ Investigation — Egyptian numbers.** About 5 000 years ago, Ancient Egyptians wrote numbers with picture symbols:
 
@@ -269,5 +300,5 @@ They repeated a symbol as many times as needed, so 23 was ∩∩|||.
 a) How many symbols would an Egyptian need to write **23 145**? ________
 b) Which number less than 100 000 needs the **most** symbols? ________
 c) Our system uses only ten digits (0–9). Explain why the **position** of a digit and the digit **0** make our system so much quicker.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->

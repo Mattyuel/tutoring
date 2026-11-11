@@ -20,7 +20,8 @@
 ## 2 · Questions
 
 **1.** In your own words, what is *differentiation*?
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **2.** Complete the table.
 
@@ -32,24 +33,31 @@ ______________________________________________________________________________
 | Guard cell | | |
 
 **3.** Explain the **trade-off** (advantage and disadvantage) of red blood cells having no nucleus.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **4.** Find **two** complex sentences in the text. Copy them, underline the main clause and bracket the subordinate clause(s).
-a) ____________________________________________________________________________
-b) ____________________________________________________________________________
+a)
+
+<!-- lines:2 -->
+b)
+
+<!-- lines:2 -->
 
 **5.** Summarise the whole text in **one sentence of no more than 25 words**.
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ## 3 · Roots
 
 **6.** *Haem-* / *hem-* is Greek for "blood"; *neuro-* is Greek for "nerve"; *stoma* is Greek for "mouth".
+
 Use these and the roots from class to define: *haematology*, *neurology*, *stomata*, *erythrocyte* (*erythro-* = red).
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 ## 4 · At home
 
 **7.** Teach someone at home the three ideas of cell theory **without looking at your notes**. Then write down one question they asked and your answer.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->

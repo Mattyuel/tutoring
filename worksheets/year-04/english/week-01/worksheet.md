@@ -24,7 +24,8 @@
 
 2. Fix the sentence (there are **three** mistakes):
    *the wind blowed the sand across the beach and into the dunes*
-   ______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ---
 
@@ -60,10 +61,12 @@
 ## Part C · Understanding the content ⏱ ~10 min
 
 **1.** *(Find it)* Where are the Pinnacles? Give **two** details.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **2.** *(Find it)* What are the Pinnacles made of, and where did that material first come from?
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **3.** *(Order it)* Number the steps in the order they happened (1–6).
 - ___ Rain dissolved lime and glued the sand into limestone.
@@ -74,8 +77,12 @@ ______________________________________________________________________________
 - ___ Plants grew on top and their roots pushed into cracks.
 
 **4.** *(Explain it)* In your own words, what is the difference between **weathering** and **erosion**?
-Weathering: ________________________________________________________________
-Erosion: __________________________________________________________________
+Weathering:
+
+<!-- lines:2 -->
+Erosion:
+
+<!-- lines:2 -->
 
 **5.** *(Sort it)* Write **W** for weathering or **E** for erosion.
 - ___ A river carries pebbles downstream.
@@ -84,23 +91,27 @@ Erosion: __________________________________________________________________
 - ___ Tree roots split a rock apart.
 
 **6.** *(Think about it)* The writer says the pillars were uncovered "like statues being unwrapped". Why is this a good comparison?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **7.** *(Think about it)* Why do you think the rules say visitors must not take any rocks away, even small ones? Give **two** reasons.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **8.** *(Think about it)* The writer says the Pinnacles "are not finished". What does this mean? What evidence does ¶5 give?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ### 🔗 Connections — English meets maths and HASS
 **9.** The text says the tallest Pinnacles are about 3.5 metres, "twice as tall as an adult". If an adult is about 1.75 m tall, is the writer correct? Show how you know.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **10.** The Pinnacles are about 200 km from Perth. If a car travels about 100 km each hour, about how long is the drive? ________ How long is the return trip? ________
 
 **11.** Look at the diagram. Which panel shows **weathering**? Which shows **erosion**? (Hint: one panel shows both!)
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 **12.** The Yued people are the Traditional Custodians of the Pinnacles area. Find out the name of the Traditional Custodians of the land where **you** live. ________________________
 
@@ -118,7 +129,8 @@ Each paragraph has **one main idea**. The other sentences give **details** that 
 - ¶6 ______________________________
 
 **14.** Here is a detail: *"Some are no bigger than a pencil."* Which paragraph is it from, and which main idea does it support?
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ### D2 Noun groups
 A **noun group** is a group of words built around a noun. It can include an **article** (a, the), **numbers**, **adjectives** and other describing words. Noun groups help writers give more information in fewer words.
@@ -169,7 +181,8 @@ e) The wind blew **rough** sand into our eyes. → ________
 a) ___ b) ___ c) ___ d) ___ e) ___ f) ___
 
 **19.** Use **erosion** and **gradually** in one sentence of your own about a beach.
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 ---
 
@@ -195,25 +208,19 @@ ______________________________________________________________________________
 - [ ] ends with a concluding sentence
 - [ ] 80–120 words, in my own words
 
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+<!-- lines:16 -->
 
 ---
 
 ## Part G · Challenge ⏱ ~10 min
 
 **20.** The text says rain "acted like cement". Find **one more** comparison (simile) in the text. Then write **two** of your own similes about the Pinnacles.
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **21.** Why do you think the writer put ¶6 (*Caring for Country*) **last**? What does the writer want readers to think or do?
-______________________________________________________________________________
+
+<!-- lines:3 -->
 
 ---
 ### Self-check
@@ -233,7 +240,8 @@ ______________________________________________________________________________
 *Keep going! ⭐⭐⭐⭐ = very challenging.*
 
 **F1 ⭐⭐** Find **five** noun groups in the text that are **not** in Part D. Order them from shortest to longest.
-______________________________________________________________________________
+
+<!-- lines:4 -->
 
 **F2 ⭐⭐ More sorting.** Weathering (**W**) or erosion (**E**)?
 - ___ Ocean waves drag pebbles along the beach.
@@ -247,32 +255,40 @@ ______________________________________________________________________________
 > Near the town of Hyden, in the Wheatbelt of Western Australia, stands a huge granite cliff shaped like an ocean wave about to break. It is about fifteen metres high and more than one hundred metres long. The granite is extremely old — around 2.7 billion years. Scientists think the wave shape began **underground**: moisture in the soil slowly weathered the rock at its base, wearing it into a curve. Later, the soil around it was eroded away, revealing the curved cliff. Rain has since painted dark and light stripes down its face.
 
 a) List **two** ways Wave Rock and the Pinnacles are **similar**.
+
+<!-- lines:2 -->
 b) List **two** ways they are **different**.
+
+<!-- lines:2 -->
 c) Which happened first at Wave Rock — weathering or erosion? How do you know?
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **F4 ⭐⭐⭐ Upgrade the sentence.** Rewrite each sentence using a noun group and a precise adjective.
-a) *The rock was big.* ______________________________________________
-b) *We saw a nice view.* ______________________________________________
-c) *The wind was strong.* ______________________________________________
+a) *The rock was big.*
+
+<!-- lines:1 -->
+b) *We saw a nice view.*
+
+<!-- lines:1 -->
+c) *The wind was strong.*
+
+<!-- lines:1 -->
 
 **F5 ⭐⭐⭐ Sign-writer (civics).** Design a sign for the entrance to the Pinnacles. Include:
 - a heading that grabs attention
 - **three** rules, each with a **reason** (use *because* or *so that*)
 - a sentence that respects the Traditional Custodians
 
+<!-- work:10 -->
+
 **F6 ⭐⭐⭐⭐ Be the Pinnacle.** Write 120–150 words in the voice of one Pinnacle telling its life story, from shell to statue. Use the correct order of events, at least two noun groups, and **personification** (giving human feelings to things — e.g. *the wind tickled my sides*).
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:20 -->
 
 **F7 ⭐⭐⭐⭐ Scientist's plan.** Plan an experiment to show wind erosion using a tray of sand, a few small stones and a drinking straw.
 - What will you do? (3–4 numbered steps)
 - What do you **predict** will happen to the sand around the stones?
 - How does this model the Pinnacles?
-______________________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+
+<!-- lines:8 -->

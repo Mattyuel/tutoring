@@ -6,21 +6,25 @@
 ## 1 · This week
 
 **1.** Write the numeral for *eighty-two thousand and forty*: ________
-Write 60 317 in words: ________________________________________________
+Write 60 317 in words:
+
+<!-- lines:1 -->
 
 **2.** Write 91 604 in expanded form: ________________________________
 
 **3.** 38 600 = ________ hundreds  38 600 = ________ tens
 
 **4.** Order from **largest to smallest**: 72 450 · 74 250 · 72 540 · 70 452 · 74 205
-________________________________________________
+
+<!-- lines:1 -->
 
 **5.** Round 56 849 to the nearest:
 10 ________ 100 ________ 1 000 ________ 10 000 ________
 
 **6.** Odd or even? Don't calculate — explain how you know.
 a) 2 345 + 6 781 ________ b) 49 × 51 ________
-______________________________________________________________________________
+
+<!-- lines:2 -->
 
 **7. Digit cards.** Use **[ 3 ] [ 8 ] [ 1 ] [ 6 ] [ 5 ]** once each.
 a) the largest odd number ________
@@ -28,7 +32,10 @@ b) the smallest even number ________
 c) the number closest to 40 000 ________
 
 **8. ⭐⭐⭐ Who am I?** I am a 5-digit number. All my digits are different. My digits add up to 10. I am the **largest** number that fits these clues. ________
+
 *(Hint: start with the biggest possible ten thousands digit.)*
+
+<!-- work:3 -->
 
 ## 2 · Spaced revision (number facts)
 
@@ -48,4 +55,5 @@ c) the number closest to 40 000 ________
 | | | | |
 
 Explain to someone at home the difference between a **digit** and its **value**, using one of your numbers. Write what you said:
-______________________________________________________________________________
+
+<!-- lines:3 -->
