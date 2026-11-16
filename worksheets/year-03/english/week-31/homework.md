@@ -11,7 +11,7 @@ Adult's initials: ________  How did the reading go? (adult to circle) **smooth**
 
 ## 2 · Try it at home: the orange and the torch (5 min)
 
-![A torch shines on an orange on a skewer. A yellow sticker on the orange stands for Perth.](diagrams/torch-ball.svg)
+![A torch shines on an orange on a skewer. A square sticker on the orange stands for Perth.](diagrams/torch-ball.svg)
 
 **You need:** an orange, a skewer or pencil, a sticker, a torch, a dark room, and an adult to help.
 

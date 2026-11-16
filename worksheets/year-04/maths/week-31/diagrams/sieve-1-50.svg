@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250" font-family="Inter, Arial, sans-serif" font-size="15">
-<rect width="480" height="250" fill="#fff"/>
-<g fill="#f5f3ff" stroke="#1f4e8c" stroke-width="1.5">
+<rect width="480" height="250" fill="#ffffff"/>
+<g fill="#f4f4f4" stroke="#484848" stroke-width="1.5">
 <rect x="20" y="15" width="44" height="44"/>
 <rect x="64" y="15" width="44" height="44"/>
 <rect x="108" y="15" width="44" height="44"/>
@@ -51,7 +51,7 @@
 <rect x="328" y="191" width="44" height="44"/>
 <rect x="372" y="191" width="44" height="44"/>
 <rect x="416" y="191" width="44" height="44"/>
-</g><g text-anchor="middle" fill="#1d2330" font-weight="600">
+</g><g text-anchor="middle" fill="#232323" font-weight="600">
 <text x="42" y="42">1</text>
 <text x="86" y="42">2</text>
 <text x="130" y="42">3</text>

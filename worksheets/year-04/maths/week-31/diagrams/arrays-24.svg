@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 130" width="560" height="130" font-family="Inter, Arial, sans-serif" font-size="14">
-<rect width="560" height="130" fill="#fff"/>
-<text x="30" y="24" font-weight="700" fill="#1f4e8c">Array A</text>
-<text x="350" y="24" font-weight="700" fill="#1f4e8c">Array B</text>
-<g fill="#1f4e8c">
+<rect width="560" height="130" fill="#ffffff"/>
+<text x="30" y="24" font-weight="700" fill="#464646">Array A</text>
+<text x="350" y="24" font-weight="700" fill="#464646">Array B</text>
+<g fill="#484848">
 <circle cx="40" cy="50" r="7"/>
 <circle cx="62" cy="50" r="7"/>
 <circle cx="84" cy="50" r="7"/>

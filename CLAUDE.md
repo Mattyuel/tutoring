@@ -74,6 +74,8 @@ materials/    Shared reading passages, fact sheets, images, data sets
    Use the program's *Connections plan* and the Retrieval column.
 9. **Diagrams wherever they help.** Hand-written SVGs in the week's `diagrams/` folder,
    embedded as `![caption](diagrams/name.svg)`. Every diagram must be used by a question.
+   Diagrams are **greyscale only** (dark/light shading, hatching) and text never refers to
+   colours — see the style guide's Diagrams section.
 10. **Publish.** After writing or changing a week, run `node tools/build.mjs <week folder>`
     and commit the regenerated PDFs in `dist/`. Render a page to PNG and look at it
     before committing (check diagrams and layout).

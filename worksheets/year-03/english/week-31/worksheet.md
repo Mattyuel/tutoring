@@ -199,7 +199,7 @@ a) Why does the writer give each chunk a **heading**?
 
 <!-- lines:2 -->
 
-b) Read the small grey writing at the bottom of the picture after Chunk 3. What does it warn you about?
+b) Read the small writing at the bottom of the picture after Chunk 3. What does it warn you about?
 
 <!-- lines:2 -->
 
@@ -395,7 +395,7 @@ d) The stars come out at ______________. (**night** / **knight**)
 
 **K2 ⭐ Spin the children.** Four children (A, B, C and D) are standing on the Earth.
 
-![Looking down on the Earth with the Sun on the left. Four red dots, A, B, C and D, are children standing on the Earth. An arrow shows which way the Earth spins.](diagrams/spin-positions.svg)
+![Looking down on the Earth with the Sun on the left. Four black dots, A, B, C and D, are children standing on the Earth. An arrow shows which way the Earth spins.](diagrams/spin-positions.svg)
 
 a) Which child is facing **straight towards** the Sun, in the middle of the day? ______
 b) Which child is in the **middle of the night**? ______

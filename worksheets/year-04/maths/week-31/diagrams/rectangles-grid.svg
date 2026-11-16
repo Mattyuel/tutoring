@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 280" width="540" height="280" font-family="Inter, Arial, sans-serif" font-size="13">
-<rect width="540" height="280" fill="#fff"/>
-<text x="20" y="22" font-weight="700" fill="#b45309">Each small square = 1 cm² (not to scale)</text>
-<g stroke="#d6d3d1" stroke-width="1">
+<rect width="540" height="280" fill="#ffffff"/>
+<text x="20" y="22" font-weight="700" fill="#464646">Each small square = 1 cm² (not to scale)</text>
+<g stroke="#d3d3d3" stroke-width="1">
 <line x1="20" y1="40" x2="20" y2="240"/>
 <line x1="40" y1="40" x2="40" y2="240"/>
 <line x1="60" y1="40" x2="60" y2="240"/>
@@ -40,7 +40,7 @@
 <line x1="20" y1="220" x2="520" y2="220"/>
 <line x1="20" y1="240" x2="520" y2="240"/>
 </g>
-<rect x="40" y="60" width="240" height="40" fill="#fde68a" fill-opacity="0.7" stroke="#b45309" stroke-width="2.5"/>
-<text x="160" y="85.0" text-anchor="middle" font-weight="700" fill="#7c2d12">example: 12 cm by 2 cm</text>
-<text x="270.0" y="266" text-anchor="middle" fill="#4b5563">Draw the other rectangles with an area of 24 cm² on the grid.</text>
+<rect x="40" y="60" width="240" height="40" fill="#e4e4e4" fill-opacity="0.7" stroke="#626262" stroke-width="2.5"/>
+<text x="160" y="85.0" text-anchor="middle" font-weight="700" fill="#3c3c3c">example: 12 cm by 2 cm</text>
+<text x="270.0" y="266" text-anchor="middle" fill="#464646">Draw the other rectangles with an area of 24 cm² on the grid.</text>
 </svg>

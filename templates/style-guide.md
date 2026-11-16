@@ -66,9 +66,16 @@ Most questions should be ⭐⭐ or ⭐⭐⭐ for these students.
 ## Diagrams
 - Hand-written SVG in the week's `diagrams/` folder; embed with
   `![Descriptive caption that also works as alt text](diagrams/name.svg)`.
-- Style: white background, Inter/Arial text 12–15 px, subject colour (maths `#1f4e8c`,
-  English `#0f6b5c`, connections `#b45309`), 1.5–2.5 px strokes, labels outside shapes
-  with straight leader lines, "not to scale" where relevant.
+- Style: **greyscale only — dark and light shading, no colours** (worksheets are often printed in black and white).
+  White background; black or near-black (`#1a1a1a`–`#333`) text and outlines; fills in a few
+  clearly different shades: dark `#262626`, mid `#9a9a9a`, light `#e6e6e6`, plus white. Where two
+  areas must be told apart, use **dark vs light** (or a hatch pattern), never two similar greys.
+  Inter/Arial text 12–15 px, 1.5–2.5 px strokes, labels outside shapes with leader lines,
+  "not to scale" where relevant.
+- Questions, captions and labels must refer to **shading, patterns, letters or labels**, never to
+  colours ("the dark end of the magnet", "the black dots", "the shaded triangle").
+- `python3 tools/greyscale-svg.py <files>` converts any coloured SVG to greyscale by brightness;
+  always re-check the render afterwards for areas that ended up as similar greys.
 - Never let a diagram give away an answer; every diagram must be referenced by a question.
 - Good uses: factor trees, Venn diagrams, number lines, labelled shapes with unknowns,
   timelines, process diagrams (formation stages), labelled science diagrams, maps.

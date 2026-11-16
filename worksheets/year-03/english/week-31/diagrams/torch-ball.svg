@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220" font-family="Inter, Arial, sans-serif" font-size="15">
-  <rect width="640" height="220" fill="#fff"/>
+  <rect width="640" height="220" fill="#ffffff"/>
   <defs><clipPath id="o"><circle cx="400" cy="110" r="70"/></clipPath>
-    <marker id="s" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f6b5c"/></marker></defs>
+    <marker id="s" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#565656"/></marker></defs>
   <!-- torch -->
-  <rect x="30" y="92" width="110" height="36" rx="6" fill="#475569"/>
-  <polygon points="140,82 175,72 175,148 140,138" fill="#64748b"/>
-  <polygon points="175,72 330,40 330,180 175,148" fill="#fef08a" opacity=".7"/>
+  <rect x="30" y="92" width="110" height="36" rx="6" fill="#535353"/>
+  <polygon points="140,82 175,72 175,148 140,138" fill="#727272"/>
+  <polygon points="175,72 330,40 330,180 175,148" fill="#ececec" opacity=".7"/>
   <text x="85" y="150" text-anchor="middle">torch (the Sun)</text>
-  <!-- orange -->
-  <g clip-path="url(#o)"><rect x="330" y="40" width="70" height="140" fill="#fb923c"/><rect x="400" y="40" width="70" height="140" fill="#9a3412"/></g>
-  <circle cx="400" cy="110" r="70" fill="none" stroke="#7c2d12" stroke-width="2.5"/>
-  <line x1="400" y1="30" x2="400" y2="190" stroke="#334155" stroke-width="3"/>
-  <rect x="336" y="104" width="14" height="14" fill="#facc15" stroke="#854d0e"/>
+  <!-- orange (the fruit) -->
+  <g clip-path="url(#o)"><rect x="330" y="40" width="70" height="140" fill="#a2a2a2"/><rect x="400" y="40" width="70" height="140" fill="#474747"/></g>
+  <circle cx="400" cy="110" r="70" fill="none" stroke="#3c3c3c" stroke-width="2.5"/>
+  <line x1="400" y1="30" x2="400" y2="190" stroke="#3f3f3f" stroke-width="3"/>
+  <rect x="334" y="102" width="16" height="16" fill="#ffffff" stroke="#111111" stroke-width="2"/>
   <text x="482" y="100">orange (the Earth)</text>
-  <text x="482" y="120" font-size="13" fill="#475569">on a skewer</text>
-  <text x="300" y="206" text-anchor="middle" font-size="13" fill="#475569">yellow sticker = Perth</text>
-  <path d="M455,30 A70,70 0 0 0 345,30" fill="none" stroke="#0f6b5c" stroke-width="2.5" marker-end="url(#s)"/>
-  <text x="462" y="22" font-size="13" fill="#0f6b5c">turn it slowly</text>
+  <text x="482" y="120" font-size="13" fill="#464646">on a skewer</text>
+  <text x="300" y="206" text-anchor="middle" font-size="13" fill="#464646">square sticker = Perth</text>
+  <path d="M455,30 A70,70 0 0 0 345,30" fill="none" stroke="#565656" stroke-width="2.5" marker-end="url(#s)"/>
+  <text x="462" y="22" font-size="13" fill="#464646">turn it slowly</text>
 </svg>

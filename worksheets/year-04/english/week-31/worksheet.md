@@ -81,15 +81,15 @@ iron nail ___ · aluminium foil ___ · steel spoon ___ · copper wire ___ · nic
 
 **4.** *(Use the diagram)* Example **A** shows two magnets that attract. For **B**, **C** and **D**, write **attract** or **repel** in each dashed box, then draw arrows to show which way each magnet would move.
 
-![Four pairs of bar magnets, labelled A to D, with red north poles and blue south poles; pair A is an example marked "attract" with arrows pointing towards each other](diagrams/magnet-poles.svg)
+![Four pairs of bar magnets, labelled A to D, with dark-shaded north poles and light-shaded south poles; pair A is an example marked "attract" with arrows pointing towards each other](diagrams/magnet-poles.svg)
 
 **5.** *(Explain it)* Write a rule that tells you when two magnets will **repel**. Use the words *like poles*.
 
 <!-- lines:2 -->
 
-**6.** *(Use the diagram)* Look at the Earth diagram. Draw the needle on **compass X** (colour the north end red). Then explain why the needle points that way.
+**6.** *(Use the diagram)* Look at the Earth diagram. Draw the needle on **compass X** (shade the north end dark). Then explain why the needle points that way.
 
-![Earth drawn as a giant magnet with dashed magnetic field lines looping from the South Pole to the North Pole; a compass in Perth has its red end pointing along the field lines, and an empty compass X sits in the northern half](diagrams/earth-compass.svg)
+![Earth drawn as a giant magnet with dashed magnetic field lines looping from the South Pole to the North Pole; a compass in Perth has its dark (north) end pointing along the field lines, and an empty compass X sits in the northern half](diagrams/earth-compass.svg)
 
 <!-- lines:4 -->
 

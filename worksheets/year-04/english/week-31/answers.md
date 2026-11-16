@@ -13,7 +13,7 @@
 3. Magnets only attract some metals — iron, nickel, cobalt and most steel. Other metals such as aluminium and copper are not attracted, e.g. a magnet does nothing to most drink cans because they are aluminium.
 4. B **repel** (S faces S) — arrows pointing away from each other. C **repel** (N faces N) — arrows apart. D **attract** (N faces S) — arrows towards each other.
 5. *Like poles (north and north, or south and south) repel each other.*
-6. The needle should be drawn along the dashed field line at X, red end pointing towards the North Pole (up-left, roughly towards the top of the Earth). Explanation: the needle is a small magnet that lines up with Earth's magnetic field, so its north end points roughly north wherever it is held flat and still.
+6. The needle should be drawn along the dashed field line at X, dark (north) end pointing towards the North Pole (up-left, roughly towards the top of the Earth). Explanation: the needle is a small magnet that lines up with Earth's magnetic field, so its north end points roughly north wherever it is held flat and still.
 7. On a cloudy night sailors cannot see the stars (or the Sun) to find direction, but a compass works in any weather because it uses Earth's magnetic field, not the sky.
 8. The crane driver can switch it off to drop the load exactly where they want; an ordinary magnet would stay stuck to the metal and the load would be hard to pull off.
 9. Scientists are not completely sure yet — "researchers are still working out exactly how". The writer uses cautious words (*think, may*) so they don't state something as fact when it isn't fully proven (links to Week 2 modal verbs and fact vs opinion).

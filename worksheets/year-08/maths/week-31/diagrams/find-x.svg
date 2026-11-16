@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 375" width="650" height="375" font-family="Inter, Arial, sans-serif" font-size="14">
-  <rect width="650" height="375" fill="#fff"/>
-  <g stroke="#1f4e8c" stroke-width="2" stroke-linejoin="round" fill="#e8eff9">
+  <rect width="650" height="375" fill="#ffffff"/>
+  <g stroke="#484848" stroke-width="2" stroke-linejoin="round" fill="#eeeeee">
     <!-- a -->
     <polygon points="40,140 40,30 122,140"/>
     <!-- b -->
@@ -15,7 +15,7 @@
     <polygon transform="translate(430,180)" points="30,60 190,60 190,96"/>
   </g>
   <!-- right-angle markers -->
-  <g stroke="#1f4e8c" stroke-width="1.5" fill="none">
+  <g stroke="#484848" stroke-width="1.5" fill="none">
     <path d="M40,130 L50,130 L50,140"/>
     <path transform="translate(215,0)" d="M170,145 L170,135 L180,135"/>
     <path transform="translate(430,0)" d="M46.35,88.83 L55.58,92.68 L59.43,83.45"/>
@@ -23,11 +23,11 @@
     <path transform="translate(215,180)" d="M160,140 L160,130 L170,130"/>
     <path transform="translate(430,180)" d="M180,60 L180,70 L190,70"/>
   </g>
-  <g font-weight="800" fill="#1f4e8c">
+  <g font-weight="800" fill="#484848">
     <text x="6" y="18">a)</text><text x="221" y="18">b)</text><text x="436" y="18">c)</text>
     <text x="6" y="198">d)</text><text x="221" y="198">e)</text><text x="436" y="198">f)</text>
   </g>
-  <g font-weight="700" fill="#1d2330" text-anchor="middle">
+  <g font-weight="700" fill="#232323" text-anchor="middle">
     <!-- a -->
     <text x="24" y="90">12</text><text x="81" y="160">9</text><text x="92" y="80" font-style="italic">x</text>
     <!-- b -->
@@ -41,5 +41,5 @@
     <!-- f -->
     <g transform="translate(430,180)"><text x="110" y="50" font-style="italic">x</text><text x="202" y="83">9</text><text x="110" y="100">41</text></g>
   </g>
-  <text x="325" y="368" text-anchor="middle" font-size="13" fill="#64748b">Lengths in cm unless marked · not to scale</text>
+  <text x="325" y="368" text-anchor="middle" font-size="13" fill="#464646">Lengths in cm unless marked · not to scale</text>
 </svg>
