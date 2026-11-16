@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="640" height="300" fill="#fff"/>
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker>
+    <marker id="s" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f6b5c"/></marker>
+    <clipPath id="earth"><circle cx="460" cy="150" r="95"/></clipPath>
+  </defs>
+  <!-- Sun -->
+  <g stroke="#f59e0b" stroke-width="3">
+    <line x1="80" y1="40" x2="80" y2="60"/><line x1="80" y1="240" x2="80" y2="260"/><line x1="0" y1="150" x2="18" y2="150"/>
+    <line x1="25" y1="95" x2="38" y2="108"/><line x1="25" y1="205" x2="38" y2="192"/>
+  </g>
+  <circle cx="80" cy="150" r="70" fill="#fde047" stroke="#f59e0b" stroke-width="3"/>
+  <text x="80" y="156" text-anchor="middle" font-weight="800" font-size="18">Sun</text>
+  <!-- light -->
+  <g stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#a)">
+    <line x1="160" y1="90" x2="355" y2="90"/><line x1="160" y1="150" x2="355" y2="150"/><line x1="160" y1="210" x2="355" y2="210"/>
+  </g>
+  <text x="258" y="78" text-anchor="middle" fill="#92400e">sunlight</text>
+  <!-- Earth: lit half (left) and dark half (right) -->
+  <g clip-path="url(#earth)">
+    <rect x="365" y="55" width="95" height="190" fill="#7dd3fc"/>
+    <rect x="460" y="55" width="95" height="190" fill="#1e3a8a"/>
+    <path d="M400,95 q25,-15 45,5 q10,25 -15,35 q-30,5 -30,-40z" fill="#86efac"/>
+    <path d="M480,170 q30,-10 45,10 q5,25 -25,30 q-25,-5 -20,-40z" fill="#166534"/>
+  </g>
+  <circle cx="460" cy="150" r="95" fill="none" stroke="#0f172a" stroke-width="2.5"/>
+  <text x="412" y="155" text-anchor="middle" font-weight="800">DAY</text>
+  <text x="508" y="155" text-anchor="middle" font-weight="800" fill="#fff">NIGHT</text>
+  <!-- spin arrow -->
+  <path d="M545,62 A120,120 0 0 0 380,60" fill="none" stroke="#0f6b5c" stroke-width="3" marker-end="url(#s)"/>
+  <text x="632" y="34" text-anchor="end" font-weight="700" fill="#0f6b5c">the Earth spins</text>
+  <text x="460" y="275" text-anchor="middle" font-weight="800" font-size="18">Earth</text>
+  <text x="320" y="296" text-anchor="middle" font-size="12" fill="#64748b">Looking down on the Earth from above. Not to scale — the real Sun is much bigger and much further away.</text>
+</svg>

@@ -11,6 +11,11 @@ work pitched *at or above* year level, never below.
 - Week numbers run 1–40 across the school year: Term = ceil(week/10); week-in-term = (week−1) % 10 + 1.
 - `week-01` folders are exemplars of the format (kept for reference, also usable as revision).
 - Next to write: Week 32 for each year + subject (see the programs' status columns).
+- **Year 3 English track** (`programs/year-03-english.md`, `worksheets/year-03/english/`): a
+  comprehension-support track for a Year 4 student who is behind in English. WA Year 3 content,
+  explicit comprehension strategies, a "Big Idea" about the world each week, plus grammar,
+  punctuation and spelling. Follows the style guide's *Comprehension-support track* section
+  (which overrides the length/timing rules). Weeks 1–30 are **not** assumed mastered on this track.
 
 ## Route the request → read these docs first
 
@@ -26,7 +31,7 @@ work pitched *at or above* year level, never below.
 | Diagrams for a worksheet | `templates/style-guide.md` (Diagrams section), existing `worksheets/**/diagrams/*.svg` for style | `worksheets/year-XX/<subject>/week-NN/diagrams/` |
 | Printing / PDFs / branding / document IDs | `tools/README.md` | run `node tools/build.mjs`, output in `dist/` |
 
-`XX` is the two-digit year level (`04`, `08`). `<subject>` is `maths` or `english`.
+`XX` is the two-digit year level (`03`, `04`, `08`). `<subject>` is `maths` or `english`.
 
 ## Repository map
 
@@ -79,6 +84,6 @@ materials/    Shared reading passages, fact sheets, images, data sets
 - Markdown only (renders on GitHub, converts cleanly to PDF/Word with pandoc).
 - Week folders are zero-padded: `week-01`, `week-02` …
 - Answer space is **sized to the expected answer** (see style guide → *Answer space*):
-  `<!-- lines:N -->` = N ruled lines, `<!-- work:N -->` = maths working box N lines tall,
+  `<!-- lines:N -->` = N ruled lines, `<!-- work:N -->` = maths working box, `<!-- draw:N -->` = drawing box (N lines tall),
   short inline `________` blanks only for one-word/one-number answers.
 - After writing a new week, tick it off in the program file's status column.
