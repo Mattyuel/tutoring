@@ -1,14 +1,15 @@
 # Year 3 English — Full-Year Program (40 weeks, comprehension & world-knowledge track)
 
-**Who it's for:** a Year 4 student who is behind in English — mainly **reading comprehension** and a
-**confused picture of how the world works**. Content follows the **WA Year 3 curriculum**
-(`curriculum/year-03.md`) so the pattern stays consistent with the other year-level programs.
+**What it is:** a full **WA Year 3 English** program (`curriculum/year-03.md`) pitched at a typical-to-strong
+Year 3 level, with challenge — usable with any Year 3 student. It is built around **reading comprehension**
+and **knowledge of how the world works**, so it is also being used with a Year 4 student who is behind
+in comprehension and has a confused picture of the world.
 
-**How this track differs** (see `templates/style-guide.md` → *Comprehension-support track*):
-- One **explicit comprehension strategy** taught and practised each week, with a "Reading toolkit" that builds up over the year.
-- Each text teaches **one Big Idea about the world** clearly, names and fixes a common **misconception**, and is supported by a diagram.
-- Every week includes **grammar, punctuation and spelling** (one focus each).
-- Shorter texts (250–400 words), read in chunks with a stop-and-check after each chunk.
+**Distinctive features** (see `templates/style-guide.md` → *Year 3 English track*):
+- One **explicit comprehension strategy** taught and practised each week; a "Reading toolkit" builds up over the year.
+- Each text (500–700 words, in chunks) teaches **one Big Idea about the world** with real facts, names and corrects a
+  common **misconception**, and is supported by a diagram.
+- Every week includes **grammar & punctuation** and **spelling** (one focus each, with related patterns).
 
 **Start point:** tutoring began at **Week 31 (Term 4 · Week 1)**. Unlike the Year 4/8 programs, Weeks 1–30 are
 **not** assumed mastered — use them to fill gaps the tutor notices (record gaps in the student's notes file).
@@ -65,7 +66,7 @@
 ## Term 4 — How the world works (tutoring starts here)
 | Wk | Big Idea text (learning area) | Strategy | Grammar & punctuation | Spelling | Status |
 |---|---|---|---|---|---|
-| 31 | *Why Do We Have Day and Night?* — the Earth spins (Science: Earth & Space) | **Visualising** + "right there" questions | Sentences: capital letter, full stop, question mark | *igh* (night, light, bright) | ✅ written |
+| 31 | *Why Do We Have Day and Night?* — the Earth spins (Science: Earth & Space) | **Visualising** + the question ladder (right there / think and search / author and me) | Four sentence types; capitals for proper nouns | long *i*: *igh*, *i_e*, *y*, *ie*; *right/write*, *night/knight* | ✅ written |
 | 32 | *Where Does Heat Go?* — heat moves from hot to cold (Science: Physical) | Cause and effect (*because*, *so*) | Past tense *-ed* | *-ed* endings (three sounds) | ⬜ planned |
 | 33 | *Solid or Liquid?* — melting and freezing (Science: Chemical) | Sequencing (*first, next, then*) | Nouns and plurals | *-s* / *-es* plurals | ⬜ planned |
 | 34 | *Is It Alive?* — what all living things do (Science: Biological) | Sorting with evidence | Adjectives | *-le* endings | ⬜ planned |

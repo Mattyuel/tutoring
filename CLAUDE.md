@@ -11,11 +11,12 @@ work pitched *at or above* year level, never below.
 - Week numbers run 1–40 across the school year: Term = ceil(week/10); week-in-term = (week−1) % 10 + 1.
 - `week-01` folders are exemplars of the format (kept for reference, also usable as revision).
 - Next to write: Week 32 for each year + subject (see the programs' status columns).
-- **Year 3 English track** (`programs/year-03-english.md`, `worksheets/year-03/english/`): a
-  comprehension-support track for a Year 4 student who is behind in English. WA Year 3 content,
-  explicit comprehension strategies, a "Big Idea" about the world each week, plus grammar,
-  punctuation and spelling. Follows the style guide's *Comprehension-support track* section
-  (which overrides the length/timing rules). Weeks 1–30 are **not** assumed mastered on this track.
+- **Year 3 English track** (`programs/year-03-english.md`, `worksheets/year-03/english/`): full WA Year 3
+  English worksheets pitched at a typical-to-strong Year 3 level with challenge, built around explicit
+  comprehension strategies and a "Big Idea" about the world each week, plus grammar, punctuation and
+  spelling. Currently used with a Year 4 student who is behind in comprehension; reusable for any Year 3.
+  Follows the style guide's *Year 3 English track* section (which overrides the length/timing rules).
+  Weeks 1–30 are **not** assumed mastered on this track.
 
 ## Route the request → read these docs first
 

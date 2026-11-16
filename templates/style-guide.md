@@ -118,36 +118,37 @@ Markdown conventions the build relies on:
 - Australian spelling; metric units; `$` = AUD; WA contexts welcome.
 - Markdown tables for data; keep diagrams describable in text (or put images in `materials/images/`).
 
-## Comprehension-support track (Year 3 English)
-Used for `worksheets/year-03/english/` — a student in Year 4 who is behind in reading comprehension
-and has a confused picture of how the world works. Content is WA **Year 3**; the aim is
-**secure understanding**, not speed. Rules that differ from the main style guide:
+## Year 3 English track (comprehension & world knowledge)
+Used for `worksheets/year-03/english/`. These are **full Year 3 worksheets pitched at a typical-to-strong
+Year 3 level, with challenge** — usable for any Year 3 class or student. They are currently also used
+with a Year 4 student who is behind in reading comprehension, so every week teaches comprehension
+**explicitly** and builds a solid, correct picture of how the world works. Never make them sparse:
+a capable Year 3 should be busy and stretched.
 
-**Length:** core ≈ 60 min, plus an optional **⚡ Keep going** bank (~20 min). Total ≈ 80 min.
-A struggling reader should finish the core feeling successful; the Keep going bank is extra practice.
+**Length:** core ≈ 60–70 min, plus a **⚡ Keep going** bank (~25 min, ⭐ → ⭐⭐⭐). Total ≈ 90 min.
 
 **Every week has this shape**
 | Part | ⏱ | What it does |
 |---|---|---|
-| A · Warm-up | 5 | Quick check of last week's Big Idea, spelling and one sentence to fix (Week 31: diagnostic) |
-| B · Before reading | 5–7 | **Big Idea** box (one sentence); "What do I already think?" prediction (revisited later); **4–6 key words pre-taught** with simple meanings; the week's **Reading toolkit card** with a short worked "I do" model |
-| C · Read in chunks | 12–15 | Text (250–400 words) in 3–4 short chunks; after each chunk a **🛑 Stop and check** (1–2 quick questions + the strategy, e.g. "draw what you see") |
-| D · After reading | 10–12 | Question ladder with icons: **👆 Right there** (answer in one place — give the chunk number), **🔍 Think and search** (join two places), **💭 Author and me** (inference + own knowledge). Mostly 👆 and 🔍, a few 💭 |
-| E · Big Idea check | 5 | Fix the misconception ("Sam thinks … Is Sam right?"), true / false / not in the text, label or explain the diagram, revisit the Part B prediction |
-| F · Grammar & punctuation | 8 | One focus: short rule box with examples from the text, then 2–3 short practice tasks using topic sentences |
-| G · Spelling | 6–8 | One pattern: word sort, fill the gap, look–say–cover–write–check table (8–10 words), dictation sentence read by the tutor |
-| H · Writing | 8–10 | Short, **scaffolded** task (sentence starters / a frame) that re-explains the Big Idea; 3–4 item checklist |
+| A · Warm-up | 5 | Retrieval: last week's Big Idea, spelling words, a sentence to edit (Week 31: diagnostic) |
+| B · Before reading | 7 | **Big Idea** box; "What do I already think?" prediction (revisited later); **6–8 key words** with meanings; the week's **Reading toolkit card** with a worked "I do" think-aloud |
+| C · Read in chunks | 15 | Text **500–700 words** in **4–5 headed chunks** (100–150 words each) with real facts, numbers, a little history of the idea, and Year 3–4 vocabulary. After each chunk a **🛑 Stop and check** (2–3 questions incl. the strategy) |
+| D · After reading | 15 | **12–16 questions**: 👆 Right there (give the chunk), 🔍 Think and search, 💭 Author and me, plus **vocabulary in context** and **text features** (headings, captions, glossary, diagrams). Roughly ⅓ each |
+| E · Big Idea check | 6 | Misconception ("Sam thinks… Is Sam right?"), true / false / not in the text (6–8 items), explain the diagram, revisit the prediction |
+| F · Grammar & punctuation | 10 | Rule box with examples from the text, 3–4 practice tasks incl. **editing a short paragraph** and writing own sentences |
+| G · Spelling | 8 | Pattern + related patterns (sort), suffixes/homophones linked to the pattern, look–say–cover–write–check (10–12 words), **two dictation sentences** |
+| H · Writing | 12 | An explanation or recount of **80–120 words** with a planner and a word bank (sentence starters only as an optional support box); 5–6 item checklist |
 
-**Text rules:** short sentences (mostly 8–15 words), one idea per sentence, everyday comparisons
-(a ball, a torch, a merry-go-round), key words in **bold** and in the glossary, headings for every
-chunk, a diagram that matches the words exactly. Name the misconception and correct it plainly.
-Facts must be correct but simplified (no exceptions or edge cases that confuse).
+**Text rules:** clear, mostly 8–18-word sentences with some longer ones; precise vocabulary taught
+in context (bold + glossary); headings for every chunk; everyday comparisons (a ball, a torch, a
+merry-go-round); a diagram that matches the words exactly; name and correct the misconception.
+Facts correct, simplified but not dumbed down (real numbers rounded sensibly).
 
-**Questions:** say *where* to look ("Chunk 2"); one thing per question; give sentence starters for
-longer answers; use tick-box / circle / match / draw formats as well as writing.
+**Questions:** say where to look for 👆 questions; one thing per question; mix formats (write,
+tick, circle, match, order, draw, table). Include at least two 💭 inference questions that need
+reasoning, and one question that asks *how the writer helps the reader understand*.
 
 **Answer space:** Year 3 handwriting ≈ 5–6 words per line; ruled lines are 10 mm apart.
 
-**Answer key extras:** for each part, a *How to run it* note (read aloud vs independent, prompts to
-use, what to do if she is stuck), the misconception to listen for, and *What to record* in the
-student's notes file (strategy use, accuracy, spelling errors to recycle).
+**Answer key extras:** a *How to run it* note per part (read-aloud vs independent, prompts, what to do
+if stuck), misconceptions to listen for, and *What to record* in the student's notes file.
