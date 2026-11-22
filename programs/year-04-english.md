@@ -52,7 +52,7 @@ about the world while practising English.
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
 | 31 | 🔬 *Magnets Everywhere* — compasses, fridges, maglev trains (Science: Physical) | Adverbs & adverbial phrases (how, when, where) | Explanation with adverbials | ✅ written |
-| 32 | 🔬🌏 *From Seed to Flour* — wattleseed & processing (Procedure · Chemical + History) | Procedural text: recipes; measurement vocabulary | Write a recipe/procedure | ⬜ planned |
+| 32 | 🔬🌏 *From Seed to Flour* — wattleseed & processing (Procedure · Chemical + History) | Procedural text: recipes; measurement vocabulary | Write a recipe/procedure | ✅ written |
 | 33 | 📣 *Saving the Western Swamp Tortoise* — endangered species & breeding programs (Persuasive · Biological) | Objective vs emotive language; text purpose | Report + persuasive appeal | ⬜ planned |
 | 34 | ✍️ *Lost Among the Pinnacles* — narrative workshop (Narrative · Earth science from Week 1) | Sizzling starts; dialogue; paragraphing in narrative | Complete short story | ⬜ planned |
 | 35 | 🌏 *Many Cultures, One Community* — diversity, volunteers, belonging (Information · Civics) | Reported speech; summarising interviews | Community profile | ⬜ planned |

@@ -257,7 +257,8 @@ A **procedure** tells someone **how to do or make something**. It usually has a 
 Each step starts with (or soon reaches) an **imperative verb**, a "bossy" verb that gives a command: ***Sift** the flour.* The subject (*you*) is hidden.
 
 **22.** Find **six different** imperative verbs in Text 2.
-________ ________ ________ ________ ________ ________
+
+<!-- lines:2 -->
 
 **23.** Rewrite each sentence as a command that starts with an imperative verb.
 a) *You should put the dough on the tray.*
