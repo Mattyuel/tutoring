@@ -46,7 +46,7 @@
 | Wk | Focus | Retrieval | Challenge | Status |
 |---|---|---|---|---|
 | 31 | Pythagoras' theorem (Yr 9 extension) | 1–2, 9 | Proof by rearrangement | ✅ written |
-| 32 | Pythagoras applications; distance on the Cartesian plane | 28, 31 | 3D diagonals | ⬜ planned |
+| 32 | Pythagoras applications; distance on the Cartesian plane | 28, 31 | 3D diagonals | ✅ written |
 | 33 | Scientific notation & significant figures | 2 | Calculations with very large/small numbers | ⬜ planned |
 | 34 | Surface area of prisms | 9, 11 | Surface area of cylinders | ⬜ planned |
 | 35 | Composite area & volume problems | 9, 11–12, 34 | Optimisation (least packaging) | ⬜ planned |
