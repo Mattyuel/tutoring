@@ -93,15 +93,15 @@ c) *shine the torch at the orange* → ______________
 > ### The Great Ice Block Race
 >
 > #### Chunk 1 · A scorching day
-> It was the first Saturday of the summer holidays. The sign at Cottesloe Beach said that the air was 35 °C. Ruby and her little brother Leo raced ahead of Nan, carrying the beach umbrella.
+> It was the first Saturday of the summer holidays. The sign at Cottesloe Beach said the air was 35 °C. Ruby and her little brother Leo raced ahead of Nan.
 >
-> "Ouch! Ouch! OUCH!" Leo hopped from one foot to the other. The dry sand burned his feet like a hot frying pan, so he dashed down to the wet sand by the water.
+> "Ouch! Ouch! OUCH!" Leo hopped from one foot to the other. The dry sand burned his feet like a hot frying pan, so he dashed down to the wet sand.
 >
 > "Why is the sand so hot?" he cried.
 >
-> "The Sun has been shining on it all morning," said Nan, as she dragged the esky into the shade of the umbrella. "The sand soaked up the Sun's heat, so now it is much hotter than your feet. Heat always moves from something hotter to something colder. That heat rushed straight into your feet!"
+> "The Sun has been shining on it all morning," said Nan, as she dragged the esky into the shade. "The sand soaked up the Sun's heat, so now it is much hotter than your feet. Heat always moves from something hotter to something colder. That heat rushed into your feet!"
 >
-> Ruby splashed into the sea. The sign said the water was only 20 °C. "The water isn't hot at all!" she called.
+> Ruby splashed into the sea. The sign said the water was only 20 °C. "The water isn't hot at all!"
 >
 > "Water needs much more heat to warm up than sand does," Nan explained. "That's why the sea stays cool."
 
@@ -115,15 +115,15 @@ b) ➡️ Why did Leo's feet hurt? Use **because**.
 <!-- lines:2 -->
 
 > ### Chunk 2 · The challenge
-> After their swim, they sat under the umbrella. Nan opened the esky. Between the cold drinks were two big blocks of ice. The night before, Nan made them. She filled two old yoghurt tubs with water and put them in the freezer. The water froze solid overnight.
+> After a swim, Nan opened the esky. Between the cold drinks sat two big blocks of ice. Nan made them the night before. She filled two yoghurt tubs with water and put them in the freezer, and the water froze solid.
 >
-> "Here's a challenge," said Nan, and she handed one ice block to each child. "Whoever keeps their ice block frozen the longest wins the Great Ice Block Race."
+> "Here's a challenge," said Nan, and handed one to each child. "Whoever keeps their ice block frozen the longest wins the Great Ice Block Race."
 >
-> Leo grinned and grabbed the metal barbecue tray from the beach bag. Earlier, in the shady car park, he had touched it, and it felt icy cold. "Metal is cold," he said, "so I'll put my ice on this tray. The cold will stay in!" He put the tray down on the sand, out in the sunshine.
+> Leo grinned and grabbed a metal tray from the beach bag. Earlier, in the shady car park, he had touched it, and it felt icy cold. "Metal is cold," he said, "so I'll put my ice on this tray. The cold will stay in!" He put the tray on the sand in the sunshine.
 >
 > Ruby thought hard. Then she wrapped her ice block in a thick tea towel and pushed it back into the esky.
 >
-> Leo laughed. "A tea towel is like a jumper! It will make your ice warm, and it will melt first!"
+> Leo laughed. "A tea towel is like a jumper! It will make your ice warm, so it will melt first!"
 >
 > Ruby just smiled and closed the lid.
 
@@ -135,15 +135,15 @@ b) What was Leo's plan, and **why** did he think it would work?
 <!-- lines:3 -->
 
 > ### Chunk 3 · Leo's melting mistake
-> Ten minutes later, Leo gasped. His ice block was sitting in a big puddle, and water was dripping off the edge of the tray.
+> Ten minutes later, Leo gasped. His ice block sat in a big puddle, and water was dripping off the tray.
 >
 > "The cold is leaking out of my ice!" he wailed.
 >
-> Nan shook her head. "Cold doesn't leak out of anything, Leo. Cold isn't something that moves. It's the **heat** that moves. The Sun heated your tray, and the air around it is hot too. Heat is moving from the hot tray and the hot air into your ice. As a result, your ice is melting."
+> Nan shook her head. "Cold doesn't leak out, Leo. Cold isn't something that moves. It's the **heat** that moves. The Sun heated your tray. Now heat is moving from the hot tray and the hot air into your ice. As a result, your ice is melting."
 >
 > "But the tray felt cold this morning!" said Leo.
 >
-> "It only *felt* cold," said Nan. "In the shade, the tray was the same temperature as the air around it. But metal is a **conductor**. It carries heat away from your warm hand very quickly. Your hand loses heat, so the metal feels cold. Now the tray is hot, and it is carrying heat into your ice just as quickly!"
+> "It only *felt* cold," said Nan. "In the shade, the tray was the same temperature as the air around it. But metal is a **conductor**. It carries heat away from your warm hand very quickly. Your hand loses heat, so the metal feels cold. Now the hot tray is carrying heat into your ice just as quickly!"
 
 **🛑 Stop and check 3.**
 a) ➡️ What made Leo's ice melt so fast? Finish the sentence: *Leo's ice melted quickly because …*
@@ -155,15 +155,15 @@ b) How did Leo **feel** when he saw the puddle? Which word tells you?
 <!-- lines:2 -->
 
 > ### Chunk 4 · Ruby's secret
-> Leo looked at the esky. "Ruby's ice must be melting too. That tea towel is keeping it warm."
+> "Ruby's ice must be melting too," said Leo. "That tea towel is keeping it warm."
 >
 > "A tea towel doesn't make heat," said Nan. "Neither does a jumper. When you wear a jumper in winter, *your body* makes the heat. The jumper is an **insulator**. It traps air and slows down the heat leaving your body, so you stay warm."
 >
 > "So the tea towel slows the heat down too?" asked Ruby.
 >
-> "Exactly! It slows down the heat getting **in** to your ice. And the esky has thick foam walls. Foam is full of tiny pockets of air, so it is a good insulator. The heat from this hot day can only get in very, very slowly."
+> "Exactly! It slows down the heat getting **in** to your ice. And the esky has thick foam walls. Foam is full of tiny pockets of air, so it is a good insulator. Heat from this hot day can only get in very slowly."
 >
-> Leo frowned at his puddle. "So I picked a conductor," he said slowly, "and Ruby picked two insulators."
+> Leo frowned at his puddle. "I picked a conductor," he said slowly, "and Ruby picked two insulators."
 
 **🛑 Stop and check 4.**
 a) Name the **two** insulators that kept Ruby's ice cold. ______________ and ______________
@@ -173,7 +173,7 @@ b) Nan says a jumper does **not** make heat. What does it do?
 <!-- lines:2 -->
 
 > ### Chunk 5 · The winner
-> An hour later, Leo's tray held only a warm puddle. Ruby unwrapped her tea towel. Her ice block was smaller and wet on the outside, but it was still frozen solid.
+> An hour later, Leo's tray held only a warm puddle. Ruby unwrapped her tea towel. Her ice block was smaller, but it was still frozen solid.
 >
 > "Ruby wins the Great Ice Block Race!" announced Nan.
 >
@@ -181,9 +181,9 @@ b) Nan says a jumper does **not** make heat. What does it do?
 >
 > "No," said Nan. "Heat always gets in, in the end. It keeps moving into the ice until the ice melts, and the water is the same temperature as everything around it. Insulators just make it happen more slowly."
 >
-> Leo tipped his puddle onto the hot sand, and it soaked in. Then he smiled. "Next time, I'm wrapping mine in **two** tea towels," he said, "and I'm keeping it far away from that tray!"
+> Leo tipped his puddle onto the sand and smiled. "Next time, I'm wrapping mine in **two** tea towels," he said, "and keeping it away from that tray!"
 >
-> Nan laughed and handed out ice blocks — the kind you eat. They ate them very quickly, before the heat could win again.
+> Nan laughed and handed out ice blocks — the kind you eat. They ate them quickly, before the heat could win again.
 
 **🛑 Stop and check 5.**
 a) Who won the race? ______________
