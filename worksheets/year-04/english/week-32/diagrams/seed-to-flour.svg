@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" width="700" height="220" font-family="Inter, Arial, sans-serif" font-size="13">
+  <rect width="700" height="220" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1a1a1a"/></marker>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#9a9a9a" stroke-width="1.5"/></pattern>
+    <pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#e6e6e6"/><circle cx="2.5" cy="2.5" r="0.9" fill="#333"/></pattern>
+  </defs>
+  <!-- panel frames -->
+  <g fill="#ffffff" stroke="#333" stroke-width="1.5">
+    <rect x="10" y="10" width="118" height="190" rx="8"/>
+    <rect x="148" y="10" width="118" height="190" rx="8"/>
+    <rect x="286" y="10" width="118" height="190" rx="8"/>
+    <rect x="424" y="10" width="118" height="190" rx="8"/>
+    <rect x="562" y="10" width="118" height="190" rx="8"/>
+  </g>
+  <g font-weight="800" font-size="16" fill="#1a1a1a">
+    <text x="20" y="32">A</text><text x="158" y="32">B</text><text x="296" y="32">C</text><text x="434" y="32">D</text><text x="572" y="32">E</text>
+  </g>
+  <!-- arrows -->
+  <g stroke="#1a1a1a" stroke-width="2.5" marker-end="url(#ar)">
+    <line x1="130" y1="105" x2="144" y2="105"/><line x1="268" y1="105" x2="282" y2="105"/>
+    <line x1="406" y1="105" x2="420" y2="105"/><line x1="544" y1="105" x2="558" y2="105"/>
+  </g>
+
+  <!-- A: wattle branch with flowers and hanging pods -->
+  <path d="M22,62 C55,58 85,64 118,52" fill="none" stroke="#333" stroke-width="3"/>
+  <g fill="#e6e6e6" stroke="#333" stroke-width="1.2">
+    <ellipse cx="45" cy="50" rx="14" ry="4" transform="rotate(-25 45 50)"/>
+    <ellipse cx="96" cy="46" rx="14" ry="4" transform="rotate(-35 96 46)"/>
+  </g>
+  <g fill="#ffffff" stroke="#333" stroke-width="1.2" stroke-dasharray="2 1.5">
+    <circle cx="66" cy="48" r="6"/><circle cx="110" cy="40" r="5"/>
+  </g>
+  <g fill="#262626">
+    <path d="M38,61 C34,90 40,118 50,142 C54,140 50,112 44,61 Z"/>
+    <path d="M62,62 C60,95 66,125 78,150 C83,148 76,118 69,61 Z"/>
+    <path d="M90,59 C88,88 94,112 104,132 C108,130 103,105 97,58 Z"/>
+  </g>
+  <!-- B: split pod, seeds falling into a wooden dish -->
+  <path d="M168,58 C190,48 215,52 245,44" fill="none" stroke="#333" stroke-width="2"/>
+  <path d="M168,58 C190,72 215,68 245,44" fill="none" stroke="#333" stroke-width="2"/>
+  <g fill="#262626">
+    <ellipse cx="190" cy="92" rx="4" ry="3"/><ellipse cx="208" cy="104" rx="4" ry="3"/>
+    <ellipse cx="222" cy="86" rx="4" ry="3"/><ellipse cx="199" cy="120" rx="4" ry="3"/>
+    <ellipse cx="185" cy="150" rx="4" ry="3"/><ellipse cx="195" cy="152" rx="4" ry="3"/><ellipse cx="205" cy="149" rx="4" ry="3"/>
+    <ellipse cx="215" cy="152" rx="4" ry="3"/><ellipse cx="225" cy="150" rx="4" ry="3"/><ellipse cx="200" cy="145" rx="4" ry="3"/><ellipse cx="212" cy="144" rx="4" ry="3"/>
+  </g>
+  <path d="M162,150 C175,180 240,180 252,150 Z" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- C: seeds in hot coals, heat rising -->
+  <g fill="none" stroke="#333" stroke-width="2" stroke-linecap="round">
+    <path d="M318,70 C312,62 324,56 318,48"/><path d="M345,74 C339,66 351,60 345,52"/><path d="M372,70 C366,62 378,56 372,48"/>
+  </g>
+  <g fill="#262626" stroke="#1a1a1a">
+    <path d="M300,170 C298,150 318,146 326,156 C332,140 356,140 360,154 C368,142 392,150 390,170 Z"/>
+  </g>
+  <g fill="url(#hatch)" stroke="#333" stroke-width="1.2">
+    <ellipse cx="320" cy="150" rx="5" ry="3.5"/><ellipse cx="333" cy="143" rx="5" ry="3.5"/><ellipse cx="347" cy="140" rx="5" ry="3.5"/>
+    <ellipse cx="361" cy="146" rx="5" ry="3.5"/><ellipse cx="374" cy="151" rx="5" ry="3.5"/>
+  </g>
+  <line x1="296" y1="172" x2="394" y2="172" stroke="#333" stroke-width="2"/>
+  <!-- D: grindstone -->
+  <path d="M436,160 C434,140 450,134 484,134 C516,134 532,140 530,160 Z" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+  <ellipse cx="478" cy="124" rx="22" ry="11" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+  <g fill="#262626"><ellipse cx="448" cy="133" rx="3" ry="2"/><ellipse cx="456" cy="131" rx="3" ry="2"/></g>
+  <g fill="#333"><circle cx="505" cy="131" r="1"/><circle cx="510" cy="132" r="1"/><circle cx="514" cy="131" r="1"/><circle cx="508" cy="129" r="1"/><circle cx="518" cy="132" r="1"/></g>
+  <line x1="450" y1="98" x2="506" y2="98" stroke="#1a1a1a" stroke-width="2" marker-end="url(#ar)" marker-start="url(#ar)"/>
+  <!-- E: bowl of fine powder -->
+  <path d="M586,140 C600,112 642,112 656,140 Z" fill="url(#dots)" stroke="#333" stroke-width="1.5"/>
+  <path d="M576,140 C584,176 658,176 666,140 Z" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+</svg>

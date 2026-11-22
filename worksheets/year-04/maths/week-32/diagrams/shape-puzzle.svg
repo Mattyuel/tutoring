@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 400" width="460" height="400" font-family="Inter, Arial, sans-serif" font-size="15">
+<rect width="460" height="400" fill="#ffffff"/>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#333333" stroke-width="2"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker></defs>
+<line x1="60" y1="40" x2="300" y2="40" stroke="#333333" stroke-width="1.5"/>
+<line x1="60" y1="40" x2="60" y2="280" stroke="#333333" stroke-width="1.5"/>
+<line x1="60" y1="120" x2="300" y2="120" stroke="#333333" stroke-width="1.5"/>
+<line x1="140" y1="40" x2="140" y2="280" stroke="#333333" stroke-width="1.5"/>
+<line x1="60" y1="200" x2="300" y2="200" stroke="#333333" stroke-width="1.5"/>
+<line x1="220" y1="40" x2="220" y2="280" stroke="#333333" stroke-width="1.5"/>
+<line x1="60" y1="280" x2="300" y2="280" stroke="#333333" stroke-width="1.5"/>
+<line x1="300" y1="40" x2="300" y2="280" stroke="#333333" stroke-width="1.5"/>
+<circle cx="100.0" cy="80.0" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+<circle cx="180.0" cy="80.0" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+<circle cx="260.0" cy="80.0" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+<rect x="320" y="62" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="346" y="86" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">15</text>
+<circle cx="100.0" cy="160.0" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+<polygon points="180.0,134.0 153.0,181.0 207.0,181.0" fill="#262626" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="260.0,134.0 233.0,181.0 287.0,181.0" fill="#262626" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="320" y="142" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="346" y="166" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">21</text>
+<polygon points="100.0,212.0 126.0,240.0 100.0,268.0 74.0,240.0" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2.5"/>
+<polygon points="180.0,214.0 153.0,261.0 207.0,261.0" fill="#262626" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="260.0,212.0 286.0,240.0 260.0,268.0 234.0,240.0" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2.5"/>
+<rect x="320" y="222" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="346" y="246" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">?</text>
+<rect x="74" y="300" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="100" y="324" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">?</text>
+<rect x="154" y="300" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="180" y="324" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">21</text>
+<rect x="234" y="300" width="52" height="36" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="260" y="324" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">24</text>
+<text x="346" y="28" text-anchor="middle" font-size="12" fill="#1a1a1a">row total</text>
+<text x="52" y="324" text-anchor="end" font-size="12" fill="#1a1a1a">column total</text>
+<text x="20" y="370" font-size="13" fill="#1a1a1a">Same shape = same number. Each total adds the three shapes in that row or column.</text>
+</svg>

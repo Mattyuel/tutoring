@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 300" width="690" height="300" font-family="Inter, Arial, sans-serif" font-size="14">
+<rect width="690" height="300" fill="#ffffff"/>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#333333" stroke-width="2"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker></defs>
+<text x="20" y="40" font-weight="700" fill="#1a1a1a">Number line A</text>
+<line x1="30" y1="110" x2="660" y2="110" stroke="#1a1a1a" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<line x1="90" y1="102" x2="90" y2="118" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="430" y1="102" x2="430" y2="118" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="600" y1="102" x2="600" y2="118" stroke="#1a1a1a" stroke-width="2"/>
+<path d="M 92 100 Q 260.0 30 428 100" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="230.0" y="35" width="60" height="22" fill="#ffffff"/>
+<text x="260.0" y="51" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">+ 30</text>
+<path d="M 432 100 Q 515.0 30 598 100" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="485.0" y="35" width="60" height="22" fill="#ffffff"/>
+<text x="515.0" y="51" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">+ 15</text>
+<rect x="68" y="124" width="44" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="600" y="146" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">132</text>
+<text x="20" y="180" font-weight="700" fill="#1a1a1a">Number line B</text>
+<line x1="30" y1="250" x2="660" y2="250" stroke="#1a1a1a" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<line x1="130" y1="242" x2="130" y2="258" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="250" y1="242" x2="250" y2="258" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="600" y1="242" x2="600" y2="258" stroke="#1a1a1a" stroke-width="2"/>
+<path d="M 598 240 Q 425.0 170 252 240" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="395.0" y="175" width="60" height="22" fill="#ffffff"/>
+<text x="425.0" y="191" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">− 40</text>
+<path d="M 248 240 Q 190.0 170 132 240" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="160.0" y="175" width="60" height="22" fill="#ffffff"/>
+<text x="190.0" y="191" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">− 8</text>
+<rect x="578" y="264" width="44" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="130" y="286" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">75</text>
+<text x="670" y="20" text-anchor="end" font-size="12" fill="#333333">not to scale</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" width="680" height="340" font-family="Inter, Arial, sans-serif" font-size="14">
+<rect width="680" height="340" fill="#ffffff"/>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#333333" stroke-width="2"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker></defs>
+<text x="10" y="20" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">Scale A</text>
+<rect x="20" y="86" width="290" height="9" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="165,95 141,138 189,138" fill="#262626"/>
+<rect x="110" y="138" width="110" height="7" fill="#262626"/>
+<rect x="28" y="52" width="34" height="34" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="66" y="52" width="34" height="34" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="104" y="52" width="34" height="34" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="252,52 294,52 302,86 244,86" fill="#262626"/>
+<text x="273.0" y="75" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">14 kg</text>
+<rect x="206" y="52" width="34" height="34" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/>
+<text x="355" y="20" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">Scale B</text>
+<rect x="365" y="86" width="290" height="9" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="510,95 486,138 534,138" fill="#262626"/>
+<rect x="455" y="138" width="110" height="7" fill="#262626"/>
+<circle cx="390" cy="69" r="17" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="428" cy="69" r="17" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="457,52 499,52 507,86 449,86" fill="#262626"/>
+<text x="478.0" y="75" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">5 kg</text>
+<polygon points="597,52 639,52 647,86 589,86" fill="#262626"/>
+<text x="618.0" y="75" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">13 kg</text>
+<circle cx="568" cy="69" r="17" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<text x="180" y="190" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">Scale C</text>
+<rect x="190" y="256" width="290" height="9" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="335,265 311,308 359,308" fill="#262626"/>
+<rect x="280" y="308" width="110" height="7" fill="#262626"/>
+<circle cx="215" cy="239" r="17" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="236" y="222" width="34" height="34" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="414" y="222" width="58" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="443" y="245" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1a">?</text>
+<text x="670" y="330" text-anchor="end" font-size="12" fill="#333333">All the cubes have the same mass. All the balls have the same mass.</text>
+</svg>
