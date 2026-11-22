@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 290" width="460" height="290" font-family="Inter, Arial, sans-serif" font-size="14">
+  <rect width="460" height="290" fill="#ffffff"/>
+  <text x="452" y="20" text-anchor="end" font-size="12" fill="#333333">not to scale</text>
+  <!-- A(60,240) B(300,240) C(390,180) D(150,180) E(60,160) F(300,160) G(390,100) H(150,100) -->
+  <polygon points="60,160 300,160 390,100 150,100" fill="#e6e6e6" stroke="none"/>
+  <polygon points="300,240 390,180 390,100 300,160" fill="#ffffff" stroke="none"/>
+  <!-- hidden edges -->
+  <g stroke="#333333" stroke-width="1.5" stroke-dasharray="6 5" fill="none">
+    <line x1="60" y1="240" x2="150" y2="180"/>
+    <line x1="150" y1="180" x2="390" y2="180"/>
+    <line x1="150" y1="180" x2="150" y2="100"/>
+  </g>
+  <!-- base diagonal AC -->
+  <line x1="60" y1="240" x2="390" y2="180" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="10 5"/>
+  <!-- visible edges -->
+  <g stroke="#1a1a1a" stroke-width="2.2" fill="none" stroke-linejoin="round">
+    <polygon points="60,240 300,240 300,160 60,160"/>
+    <polyline points="300,240 390,180 390,100 300,160"/>
+    <polyline points="60,160 150,100 390,100"/>
+  </g>
+  <!-- space diagonal AG -->
+  <line x1="60" y1="240" x2="390" y2="100" stroke="#262626" stroke-width="3.5"/>
+  <g font-weight="800" fill="#1a1a1a" stroke="#ffffff" stroke-width="3.5" paint-order="stroke">
+    <text x="50" y="256" text-anchor="middle">A</text>
+    <text x="306" y="258" text-anchor="middle">B</text>
+    <text x="402" y="190" text-anchor="middle">C</text>
+    <text x="140" y="196" text-anchor="middle">D</text>
+    <text x="48" y="160" text-anchor="middle">E</text>
+    <text x="308" y="178">F</text>
+    <text x="400" y="96" text-anchor="middle">G</text>
+    <text x="146" y="92" text-anchor="middle">H</text>
+  </g>
+  <g font-weight="700" fill="#1a1a1a">
+    <text x="180" y="262" text-anchor="middle">6 m</text>
+    <text x="356" y="230">3 m</text>
+    <text x="398" y="145">2 m</text>
+  </g>
+  <text x="230" y="284" text-anchor="middle" font-size="12" fill="#333333">A to C: dashed diagonal of the floor · A to G: thick diagonal through the inside</text>
+</svg>

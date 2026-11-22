@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="640" height="320" fill="#ffffff"/>
+  <defs>
+    <pattern id="grain" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-55)">
+      <rect width="10" height="10" fill="#e6e6e6"/>
+      <line x1="0" y1="5" x2="10" y2="5" stroke="#333" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <!-- steam -->
+  <g fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round">
+    <path d="M270,150 q-10,-12 0,-24 q10,-12 0,-24"/>
+    <path d="M320,150 q-10,-12 0,-24 q10,-12 0,-24"/>
+    <path d="M370,150 q-10,-12 0,-24 q10,-12 0,-24"/>
+  </g>
+  <!-- metal spoon A, leaning left: bowl in soup, handle sticks out -->
+  <line x1="290" y1="215" x2="140" y2="60" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+  <line x1="290" y1="215" x2="140" y2="60" stroke="#9a9a9a" stroke-width="8" stroke-linecap="round"/>
+  <!-- wooden spoon B, leaning right -->
+  <polygon points="345,215 490,52 504,64 359,226" fill="url(#grain)" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- bowl -->
+  <path d="M170,170 L470,170 Q460,290 320,290 Q180,290 170,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+  <ellipse cx="320" cy="170" rx="150" ry="18" fill="#262626" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- labels -->
+  <text x="120" y="45" text-anchor="middle" font-weight="800" font-size="18">A</text>
+  <text x="70" y="98" font-weight="700">metal spoon</text>
+  <line x1="128" y1="92" x2="162" y2="84" stroke="#333" stroke-width="1.5"/>
+  <text x="520" y="45" text-anchor="middle" font-weight="800" font-size="18">B</text>
+  <text x="520" y="98" font-weight="700">wooden spoon</text>
+  <line x1="518" y1="92" x2="484" y2="84" stroke="#333" stroke-width="1.5"/>
+  <text x="70" y="160" font-weight="700">handle</text>
+  <line x1="122" y1="155" x2="190" y2="110" stroke="#333" stroke-width="1.5"/>
+  <text x="560" y="250" font-weight="700" text-anchor="middle">hot soup</text>
+  <line x1="520" y1="240" x2="420" y2="176" stroke="#333" stroke-width="1.5"/>
+  <text x="320" y="312" text-anchor="middle" font-size="12" fill="#333">Both spoons have been standing in the same hot soup for two minutes. Not to scale.</text>
+</svg>

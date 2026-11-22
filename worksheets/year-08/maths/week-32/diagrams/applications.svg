@@ -25,25 +25,25 @@
   </g>
   <text x="140" y="276" text-anchor="middle" font-weight="700" fill="#1a1a1a">span 9.6 m</text>
   <!-- overhang leader -->
-  <line x1="36" y1="181" x2="22" y2="214" stroke="#333333" stroke-width="1"/>
-  <text x="8" y="228" fill="#1a1a1a">overhang 0.6 m</text>
-  <text x="8" y="243" fill="#1a1a1a">(along the slope)</text>
+  <line x1="34" y1="183" x2="70" y2="196" stroke="#333333" stroke-width="1"/>
+  <text x="72" y="200" fill="#1a1a1a">overhang 0.6 m</text>
+  <text x="72" y="215" fill="#1a1a1a">(along the slope)</text>
   <text x="62" y="128" fill="#1a1a1a" font-weight="700">rafter</text>
 
-  <!-- B: TV screen 16:9 -->
-  <rect x="272" y="62" width="192" height="108" fill="#262626" stroke="#1a1a1a" stroke-width="2"/>
-  <line x1="272" y1="170" x2="464" y2="62" stroke="#ffffff" stroke-width="2" stroke-dasharray="7 5"/>
-  <rect x="356" y="170" width="24" height="16" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="1.5"/>
-  <rect x="330" y="186" width="76" height="7" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="1.5"/>
-  <text x="368" y="52" text-anchor="middle" font-weight="700" fill="#1a1a1a">width : height = 16 : 9</text>
+  <!-- B: TV screen 16:9 (170 x 96) -->
+  <rect x="272" y="62" width="170" height="96" fill="#262626" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="272" y1="158" x2="442" y2="62" stroke="#ffffff" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="345" y="158" width="24" height="16" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="1.5"/>
+  <rect x="319" y="174" width="76" height="7" fill="#9a9a9a" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="357" y="52" text-anchor="middle" font-weight="700" fill="#1a1a1a">width : height = 16 : 9</text>
   <g stroke="#333333" stroke-width="1.2">
-    <line x1="272" y1="210" x2="464" y2="210"/><line x1="272" y1="204" x2="272" y2="216"/><line x1="464" y1="204" x2="464" y2="216"/>
-    <line x1="478" y1="62" x2="478" y2="170"/><line x1="472" y1="62" x2="484" y2="62"/><line x1="472" y1="170" x2="484" y2="170"/>
+    <line x1="272" y1="200" x2="442" y2="200"/><line x1="272" y1="194" x2="272" y2="206"/><line x1="442" y1="194" x2="442" y2="206"/>
+    <line x1="456" y1="62" x2="456" y2="158"/><line x1="450" y1="62" x2="462" y2="62"/><line x1="450" y1="158" x2="462" y2="158"/>
   </g>
-  <text x="368" y="230" text-anchor="middle" fill="#1a1a1a" font-weight="700">width</text>
-  <text x="474" y="186" text-anchor="middle" fill="#1a1a1a" font-weight="700">height</text>
-  <text x="368" y="252" text-anchor="middle" fill="#1a1a1a">screen size = length of</text>
-  <text x="368" y="267" text-anchor="middle" fill="#1a1a1a">the dashed diagonal</text>
+  <text x="357" y="220" text-anchor="middle" fill="#1a1a1a" font-weight="700">width</text>
+  <text x="456" y="176" text-anchor="middle" fill="#1a1a1a" font-weight="700">height</text>
+  <text x="357" y="246" text-anchor="middle" fill="#1a1a1a">screen size = length of</text>
+  <text x="357" y="261" text-anchor="middle" fill="#1a1a1a">the dashed diagonal</text>
 
   <!-- C: toy kite. top (604,40), spar y=84 from 537 to 671, bottom (604,240) -->
   <polygon points="604,40 671,84 604,240 537,84" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.2" stroke-linejoin="round"/>
@@ -52,8 +52,8 @@
     <line x1="537" y1="84" x2="671" y2="84"/>
   </g>
   <path d="M604,94 L614,94 L614,84" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
-  <text x="640" y="77" text-anchor="middle" fill="#1a1a1a" font-weight="700">spar</text>
-  <text x="626" y="170" fill="#1a1a1a" font-weight="700">spine</text>
+  <text x="642" y="104" text-anchor="middle" fill="#1a1a1a" font-weight="700">spar</text>
+  <line x1="606" y1="190" x2="646" y2="196" stroke="#333333" stroke-width="1"/><text x="650" y="201" fill="#1a1a1a" font-weight="700">spine</text>
   <!-- dimensions -->
   <g stroke="#333333" stroke-width="1.2">
     <line x1="537" y1="262" x2="671" y2="262"/><line x1="537" y1="256" x2="537" y2="268"/><line x1="671" y1="256" x2="671" y2="268"/>

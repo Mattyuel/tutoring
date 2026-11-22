@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" width="700" height="500" font-family="Inter, Arial, sans-serif" font-size="14">
-<rect width="700" height="500" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 500" width="730" height="500" font-family="Inter, Arial, sans-serif" font-size="14">
+<rect width="730" height="500" fill="#ffffff"/>
 <defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#333333" stroke-width="2"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker></defs>
-<text x="690" y="20" text-anchor="end" font-size="12" fill="#333333">not to scale</text>
+<text x="720" y="20" text-anchor="end" font-size="12" fill="#333333">not to scale</text>
 <rect x="40" y="55" width="200" height="110" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
 <text x="140" y="45" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">14 cm</text>
 <text x="252" y="116" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">□ cm</text>
-<text x="140" y="200" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">A</text>
-<text x="140" y="220" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 46 cm</text>
-<polygon points="320,165 520,165 380,45" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
-<text x="338" y="100" text-anchor="end" font-size="15" font-weight="700" fill="#1a1a1a">12 cm</text>
-<text x="420" y="188" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">15 cm</text>
-<text x="462" y="100" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">□</text>
-<text x="420" y="210" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">B</text>
-<text x="420" y="230" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 40 cm</text>
-<rect x="570" y="55" width="110" height="110" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
-<line x1="625.0" y1="47.0" x2="625.0" y2="63.0" stroke="#1a1a1a" stroke-width="2"/>
-<line x1="625.0" y1="157.0" x2="625.0" y2="173.0" stroke="#1a1a1a" stroke-width="2"/>
-<line x1="578.0" y1="110.0" x2="562.0" y2="110.0" stroke="#1a1a1a" stroke-width="2"/>
-<line x1="688.0" y1="110.0" x2="672.0" y2="110.0" stroke="#1a1a1a" stroke-width="2"/>
-<text x="625" y="188" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">□ cm</text>
-<text x="625" y="210" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">C</text>
-<text x="625" y="230" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 60 cm</text>
+<text x="140" y="210" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">A</text>
+<text x="140" y="230" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 46 cm</text>
+<polygon points="350,165 550,165 410,45" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
+<text x="368" y="100" text-anchor="end" font-size="15" font-weight="700" fill="#1a1a1a">12 cm</text>
+<text x="450" y="188" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">15 cm</text>
+<text x="492" y="100" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">□</text>
+<text x="450" y="210" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">B</text>
+<text x="450" y="230" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 40 cm</text>
+<rect x="600" y="55" width="110" height="110" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="655.0" y1="47.0" x2="655.0" y2="63.0" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="655.0" y1="157.0" x2="655.0" y2="173.0" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="608.0" y1="110.0" x2="592.0" y2="110.0" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="718.0" y1="110.0" x2="702.0" y2="110.0" stroke="#1a1a1a" stroke-width="2"/>
+<text x="655" y="192" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">□ cm</text>
+<text x="655" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">C</text>
+<text x="655" y="232" text-anchor="middle" font-size="14" fill="#1a1a1a">Perimeter = 60 cm</text>
 <polygon points="60,430 240,430 240,340 150,270 60,340" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
 <line x1="97.7" y1="300.5" x2="107.5" y2="313.2" stroke="#1a1a1a" stroke-width="2"/>
 <line x1="102.5" y1="296.8" x2="112.3" y2="309.5" stroke="#1a1a1a" stroke-width="2"/>
@@ -29,8 +29,8 @@
 <line x1="68.0" y1="385.0" x2="52.0" y2="385.0" stroke="#1a1a1a" stroke-width="2"/>
 <line x1="248.0" y1="385.0" x2="232.0" y2="385.0" stroke="#1a1a1a" stroke-width="2"/>
 <text x="150" y="452" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">10 cm</text>
-<text x="50" y="390" text-anchor="end" font-size="15" font-weight="700" fill="#1a1a1a">7 cm</text>
-<text x="250" y="390" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">7 cm</text>
+<text x="44" y="395" text-anchor="end" font-size="15" font-weight="700" fill="#1a1a1a">7 cm</text>
+<text x="256" y="395" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">7 cm</text>
 <text x="92" y="292" text-anchor="end" font-size="15" font-weight="700" fill="#1a1a1a">□</text>
 <text x="208" y="292" text-anchor="start" font-size="15" font-weight="700" fill="#1a1a1a">□</text>
 <text x="150" y="474" text-anchor="middle" font-size="15" font-weight="700" fill="#1a1a1a">D</text>

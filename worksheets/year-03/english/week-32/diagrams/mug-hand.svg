@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Inter, Arial, sans-serif" font-size="15">
+  <rect width="640" height="300" fill="#ffffff"/>
+  <defs>
+    <marker id="h" markerWidth="4" markerHeight="4" refX="2.2" refY="2" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L4,2 L0,4 z" fill="#262626"/></marker>
+  </defs>
+  <!-- steam -->
+  <g fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round">
+    <path d="M215,70 q-12,-14 0,-28 q12,-14 0,-28"/>
+    <path d="M255,70 q-12,-14 0,-28 q12,-14 0,-28"/>
+    <path d="M295,70 q-12,-14 0,-28 q12,-14 0,-28"/>
+  </g>
+  <!-- handle -->
+  <path d="M175,115 q-60,0 -60,55 q0,55 60,55" fill="none" stroke="#1a1a1a" stroke-width="16"/>
+  <path d="M175,115 q-60,0 -60,55 q0,55 60,55" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <!-- mug body -->
+  <path d="M170,85 L340,85 L330,262 Q330,272 320,272 L190,272 Q180,272 180,262 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <ellipse cx="255" cy="85" rx="85" ry="12" fill="#262626" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- hand: palm and fingers wrapped on the right side of the mug -->
+  <rect x="440" y="100" width="120" height="160" rx="40" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
+  <g fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5">
+    <rect x="320" y="112" width="150" height="30" rx="15"/>
+    <rect x="318" y="146" width="152" height="30" rx="15"/>
+    <rect x="320" y="180" width="150" height="30" rx="15"/>
+    <rect x="324" y="214" width="146" height="28" rx="14"/>
+  </g>
+  <path d="M470,104 q-30,-30 -80,-22 q-18,4 -10,16 q30,4 60,24" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- heat arrows -->
+  <g stroke="#262626" stroke-width="9" marker-end="url(#h)" fill="none" stroke-linecap="round">
+    <line x1="215" y1="140" x2="300" y2="140"/>
+    <line x1="215" y1="185" x2="300" y2="185"/>
+    <line x1="215" y1="230" x2="300" y2="230"/>
+  </g>
+  <text x="258" y="122" text-anchor="middle" font-weight="800">heat</text>
+  <!-- labels -->
+  <line x1="150" y1="250" x2="182" y2="240" stroke="#333" stroke-width="1.5"/>
+  <text x="145" y="262" text-anchor="end" font-weight="700">hot mug of</text>
+  <text x="145" y="280" text-anchor="end" font-weight="700">hot chocolate</text>
+  <line x1="580" y1="200" x2="555" y2="200" stroke="#333" stroke-width="1.5"/>
+  <text x="585" y="196" font-weight="700">cool</text>
+  <text x="585" y="214" font-weight="700">hand</text>
+  <text x="320" y="296" text-anchor="middle" font-size="12" fill="#333">The mug is drawn as if you can see through it. Not to scale.</text>
+</svg>

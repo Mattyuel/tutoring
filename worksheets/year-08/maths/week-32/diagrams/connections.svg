@@ -41,14 +41,14 @@
     <text x="354" y="201">5</text>
     <text x="386" y="201">6</text>
     <text x="418" y="201">7</text>
-    <text x="188" y="286" text−anchor="end">−3</text>
-    <text x="188" y="254" text−anchor="end">−2</text>
-    <text x="188" y="222" text−anchor="end">−1</text>
-    <text x="188" y="158" text−anchor="end">1</text>
-    <text x="188" y="126" text−anchor="end">2</text>
-    <text x="188" y="94" text−anchor="end">3</text>
-    <text x="188" y="62" text−anchor="end">4</text>
-    <text x="188" y="30" text−anchor="end">5</text>
+    <text x="188" y="286" text-anchor="end">−3</text>
+    <text x="188" y="254" text-anchor="end">−2</text>
+    <text x="188" y="222" text-anchor="end">−1</text>
+    <text x="188" y="158" text-anchor="end">1</text>
+    <text x="188" y="126" text-anchor="end">2</text>
+    <text x="188" y="94" text-anchor="end">3</text>
+    <text x="188" y="62" text-anchor="end">4</text>
+    <text x="188" y="30" text-anchor="end">5</text>
     <text x="188" y="201" text-anchor="end">0</text>
   </g>
   <g fill="#1a1a1a" font-weight="800" font-size="15" stroke="#ffffff" stroke-width="3.5" paint-order="stroke">
