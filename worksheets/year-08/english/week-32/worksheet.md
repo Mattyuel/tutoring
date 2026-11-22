@@ -75,7 +75,7 @@
 > - **Place:** Tuart Bay, a coastal town of about 3500 people in WA's South West. Its population roughly triples in the summer holidays.
 > - **Decision:** On Tuesday night the Shire of Tuart Bay council voted **5–4** to close the 120-bay North Beach car park, which was built on the foredune in the 1980s. It closes on **1 May** next year, after summer.
 > - **Replacement:** a **90-bay** car park on Dune Road, **350 m** inland, joined to the beach by a 350 m boardwalk (about a 5-minute walk). **4 ACROD bays**, a **drop-off zone** and the **emergency vehicle track** stay at the beach entrance. The old car park will be removed and replanted with native dune plants.
-> - **Cost:** **$1.8 million**: State Government coastal grant **$1.2 million**, Shire **$600 000**. The Shire has about **2400** rateable properties.
+> - **Cost:** **\$1.8 million**: State Government coastal grant **\$1.2 million**, Shire **\$600 000**. The Shire has about **2400** rateable properties.
 > - **Erosion:** Shire surveys show the front of the dune retreated about **12 m between 2010 and 2025**. A storm in July 2025 undermined the car park's seaward edge; **8 bays** have been fenced off since then.
 > - **Falls at the eroded edge** reported to the Shire: **1** in 2024, **3** in 2025 (one person broke a wrist).
 > - **Car park use (Shire counts):** about **30%** full on an average weekday outside the summer holidays; **full by about 9 am** on summer weekends and public holidays.

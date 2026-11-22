@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" font-family="Inter, Arial, sans-serif" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="88 0 590 470" width="590" height="470" font-family="Inter, Arial, sans-serif" font-size="13">
   <defs>
     <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="8" height="8" fill="#ffffff"/>
       <line x1="0" y1="0" x2="0" y2="8" stroke="#9a9a9a" stroke-width="2.5"/>
     </pattern>
   </defs>
-  <rect width="760" height="470" fill="#ffffff"/>
+  <rect x="88" width="590" height="470" fill="#ffffff"/>
   <text x="380" y="22" text-anchor="middle" font-weight="800" font-size="15" fill="#1a1a1a">Front page mock-up: The Coastline Courier (fictional), Wednesday</text>
   <!-- page -->
   <rect x="150" y="36" width="460" height="420" fill="#ffffff" stroke="#333" stroke-width="2"/>
