@@ -219,26 +219,47 @@ b) Will Ruby's ice stay frozen forever? Why not?
 
 **8. 🔍 Think and search.** ➡️ Fill in the **cause-and-effect chain** for Leo's ice block. Use Chunks 2, 3 and 5.
 
-| | What happened |
-|---|---|
-| 1 | Leo put his ice block on a metal tray, out in the sunshine. |
-| ⬇ *so* | |
-| 2 | |
-| ⬇ *so* | |
-| 3 | Heat moved from the hot tray and the hot air into the ice. |
-| ⬇ *as a result* | |
-| 4 | |
-| ⬇ *so* | |
-| 5 | |
+**Step 1:** Leo put his ice block on a metal tray, out in the sunshine.
+
+⬇ *so*
+
+**Step 2:**
+
+<!-- lines:2 -->
+
+⬇ *so*
+
+**Step 3:** Heat moved from the hot tray and the hot air into the ice.
+
+⬇ *as a result*
+
+**Step 4:**
+
+<!-- lines:2 -->
+
+⬇ *so*
+
+**Step 5:**
+
+<!-- lines:2 -->
 
 **9. 🔍 Story map.** Fill in the story map.
 
-| Story part | My answer |
-|---|---|
-| **Characters** (who?) | |
-| **Setting** (where and when?) | |
-| **Problem** (what goes wrong for Leo?) | |
-| **Resolution** (how does it end?) | |
+**Characters** (who?)
+
+<!-- lines:1 -->
+
+**Setting** (where and when?)
+
+<!-- lines:2 -->
+
+**Problem** (what goes wrong for Leo?)
+
+<!-- lines:2 -->
+
+**Resolution** (how does it end?)
+
+<!-- lines:2 -->
 
 **10. 💭 Author and me (Chunk 2).** *"Ruby just smiled and closed the lid."* Why do you think Ruby smiled instead of arguing with Leo?
 
@@ -404,7 +425,7 @@ b) Why does the esky have thick foam walls? Use **because** or **so**.
 > - Most verbs just add **-ed**: grab → grab**bed**, laugh → laugh**ed**, melt → melt**ed**, splash → splash**ed**
 > - Some verbs change in their own way. These are **irregular**: is → **was**, make → **made**, feel → **felt**, freeze → **froze**, say → **said**, sit → **sat**
 >
-> *From the story:* "Leo **laughed**." · "The water **froze** solid overnight." · "It **felt** icy cold." · "The night before, Nan **made** them."
+> *From the story:* "Leo **laughed**." · "The water **froze** solid." · "It **felt** icy cold." · "Nan **made** them the night before."
 
 **28. Hunt in Chunk 2.** Find **four** past tense verbs that end in **-ed**, and **three** irregular past tense verbs.
 
@@ -430,8 +451,9 @@ h) I ______________ (wipe) my sticky hands on my towel.
 
 *Last Sunday my family go to Hillarys Boat Harbour. It is a very hot day. I run across the sand and splash into the cool water. Then Dad buy us ice blocks. Mine melt very fast, so it drip down my arm. My hand feel sticky, so I rinsed it in the sea.*
 
-1. ____________ 2. ____________ 3. ____________ 4. ____________
-5. ____________ 6. ____________ 7. ____________ 8. ____________
+(1) ____________ (2) ____________ (3) ____________ (4) ____________
+
+(5) ____________ (6) ____________ (7) ____________ (8) ____________
 
 **31. Your turn.** Write **two** sentences about a time you felt very hot or very cold. Use the past tense. Use **because** in one sentence and **so** in the other.
 

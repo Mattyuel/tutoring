@@ -67,7 +67,7 @@ in comprehension and has a confused picture of the world.
 | Wk | Big Idea text (learning area) | Strategy | Grammar & punctuation | Spelling | Status |
 |---|---|---|---|---|---|
 | 31 | 🔬 *Why Do We Have Day and Night?* — the Earth spins (Science: Earth & Space) | **Visualising** + the question ladder (right there / think and search / author and me) | Four sentence types; capitals for proper nouns | long *i*: *igh*, *i_e*, *y*, *ie*; *right/write*, *night/knight* | ✅ written |
-| 32 | ✍️ *The Great Ice Block Race* — a beach-day story about heat moving from hot to cold (Narrative · Science: Physical) | Cause and effect (*because*, *so*); story elements | Past tense *-ed* | *-ed* endings (three sounds) | ⬜ planned |
+| 32 | ✍️ *The Great Ice Block Race* — a beach-day story about heat moving from hot to cold (Narrative · Science: Physical) | Cause and effect (*because*, *so*); story elements | Past tense *-ed* | *-ed* endings (three sounds) | ✅ written |
 | 33 | 🔬 *Solid or Liquid?* — melting and freezing (Science: Chemical) | Sequencing (*first, next, then*) | Nouns and plurals | *-s* / *-es* plurals | ⬜ planned |
 | 34 | 📣 *Hats On All Year?* — a persuasive letter about a school rule, and who makes rules and laws (Persuasive · Civics) | Fact or opinion? | Apostrophes for contractions | contractions (*don't, can't, it's*) | ⬜ planned |
 | 35 | 🌏 *Australia's States and Capital Cities* (Information · Geography) | Reading maps and labels | Capital letters for proper nouns | *ar* / *or* | ⬜ planned |
