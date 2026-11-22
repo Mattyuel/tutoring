@@ -51,15 +51,15 @@ information-rich; the student learns content and analyses how the text works.
 ## Term 4 — Media, rights & extended response
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
-| 31 | *Fire, Flood and Cyclone* — WA natural hazards (Geography) | News report structure; objectivity | News report | ✅ written |
-| 32 | *Same Event, Different Story* — comparing news coverage (Media literacy + Civics) | Bias, framing, omission | Comparative media analysis | ⬜ planned |
-| 33 | *The Mongol Empire* — conquest, trade and the Silk Road (History) | Reputation & historiography; evaluating claims | Argument: hero or villain? | ⬜ planned |
-| 34 | *The World of Work* — income, enterprise, future jobs (Economics) | Formal letters & emails; job applications | Application letter | ⬜ planned |
-| 35 | Novel study, part 1 (tutor's choice of Australian novel) | Narrative techniques; structure | Chapter analysis | ⬜ planned |
-| 36 | Novel study, part 2 | Theme & character; essay planning | Analytical essay | ⬜ planned |
-| 37 | *Reading the Ice* — Antarctic ice cores & climate evidence (Science: Earth + SHE) | Evaluating reliability; scientific consensus language | Evaluate two claims | ⬜ planned |
-| 38 | *Rights for Everyone* — the Universal Declaration of Human Rights, 1948 (Civics) | Discursive (balanced) essay | Discursive essay | ⬜ planned |
-| 39 | Cumulative grammar & punctuation mastery | All language content | Editing tasks | ⬜ planned |
+| 31 | 🌏 *Fire, Flood and Cyclone* — WA natural hazards (News report · Geography) | News report structure; objectivity | News report | ✅ written |
+| 32 | 📣 *Same Event, Different Story* — comparing news coverage (Media & persuasion · Civics) | Bias, framing, omission | Comparative media analysis | ⬜ planned |
+| 33 | 🌏 *The Mongol Empire* — conquest, trade and the Silk Road (Information · History) | Reputation & historiography; evaluating claims | Argument: hero or villain? | ⬜ planned |
+| 34 | ✍️ Novel study, part 1 (tutor's choice of Australian novel) (Literature) | Narrative techniques; structure | Chapter analysis | ⬜ planned |
+| 35 | 🔬 *Reading the Ice* — Antarctic ice cores & climate evidence (Information · Science: Earth + SHE) | Evaluating reliability; scientific consensus language | Evaluate two claims | ⬜ planned |
+| 36 | ✍️ Novel study, part 2 (Literature) | Theme & character; essay planning | Analytical essay | ⬜ planned |
+| 37 | 📣 *Rights for Everyone* — the Universal Declaration of Human Rights, 1948 (Discursive/persuasive · Civics) | Discursive (balanced) essay; persuasive techniques | Discursive essay | ⬜ planned |
+| 38 | 🌏 *The World of Work* — income, enterprise, future jobs (Information · Economics) | Formal letters & emails; job applications | Application letter | ⬜ planned |
+| 39 | ✍️🔬 *First Light on Mars* — science-fiction short story workshop (Narrative · Science: space, energy) + cumulative grammar & punctuation | Narrative voice, world-building with accurate science; editing for grammar | Short story (≈500 words) + editing tasks | ⬜ planned |
 | 40 | **End-of-year assessment & reflection** | All | Portfolio reflection | ⬜ planned |
 
 ## Curriculum coverage check

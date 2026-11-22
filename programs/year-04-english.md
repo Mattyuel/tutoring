@@ -51,15 +51,15 @@ about the world while practising English.
 ## Term 4 — Synthesis & independent research
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
-| 31 | *Magnets Everywhere* — compasses, fridges, maglev trains (Science: Physical) | Adverbs & adverbial phrases (how, when, where) | Explanation with adverbials | ✅ written |
-| 32 | *From Seed to Flour* — wattleseed & processing (Chemical + History) | Procedural text: recipes; measurement vocabulary | Write a recipe/procedure | ⬜ planned |
-| 33 | *Saving the Western Swamp Tortoise* — endangered species & breeding programs (Biological) | Objective vs emotive language; text purpose | Report + persuasive appeal | ⬜ planned |
-| 34 | *Lost Among the Pinnacles* — narrative workshop (Literature + Week 1 content) | Sizzling starts; dialogue; paragraphing in narrative | Complete short story | ⬜ planned |
-| 35 | *Seasons in Seventeen Syllables* — poetry forms (Literature + Week 3 content) | Syllables; haiku, cinquain, acrostic | Poetry set | ⬜ planned |
-| 36 | *Many Cultures, One Community* — diversity, volunteers, belonging (Civics) | Reported speech; summarising interviews | Community profile | ⬜ planned |
-| 37 | *Traders from the North* — Macassan trepang trade with Yolŋu (History / Economics) | Comparing two texts on one topic | Comparison paragraph | ⬜ planned |
-| 38 | **Research project, part 1** — student chooses a WA environment | Research skills: questions, sources, note-taking, bibliography | Research notes | ⬜ planned |
-| 39 | **Research project, part 2** | Drafting, editing, presenting an information report | Report + 3-min presentation | ⬜ planned |
+| 31 | 🔬 *Magnets Everywhere* — compasses, fridges, maglev trains (Science: Physical) | Adverbs & adverbial phrases (how, when, where) | Explanation with adverbials | ✅ written |
+| 32 | 🔬🌏 *From Seed to Flour* — wattleseed & processing (Procedure · Chemical + History) | Procedural text: recipes; measurement vocabulary | Write a recipe/procedure | ⬜ planned |
+| 33 | 📣 *Saving the Western Swamp Tortoise* — endangered species & breeding programs (Persuasive · Biological) | Objective vs emotive language; text purpose | Report + persuasive appeal | ⬜ planned |
+| 34 | ✍️ *Lost Among the Pinnacles* — narrative workshop (Narrative · Earth science from Week 1) | Sizzling starts; dialogue; paragraphing in narrative | Complete short story | ⬜ planned |
+| 35 | 🌏 *Many Cultures, One Community* — diversity, volunteers, belonging (Information · Civics) | Reported speech; summarising interviews | Community profile | ⬜ planned |
+| 36 | ✍️ *Seasons in Seventeen Syllables* — poetry forms (Poetry · Noongar seasons, Week 3) | Syllables; haiku, cinquain, acrostic | Poetry set | ⬜ planned |
+| 37 | 🌏 *Traders from the North* — Macassan trepang trade with Yolŋu (Information · History / Economics) | Comparing two texts on one topic | Comparison paragraph | ⬜ planned |
+| 38 | 🔬🌏 **Research project, part 1** — student chooses a WA environment (Information · Science/Geography) | Research skills: questions, sources, note-taking, bibliography | Research notes | ⬜ planned |
+| 39 | 📣 **Research project, part 2** — *Why We Must Protect It* (Persuasive speech) | Turning research into a persuasive speech; drafting, editing, presenting | Persuasive speech + 3-min presentation | ⬜ planned |
 | 40 | **End-of-year assessment & reflection** | All | Portfolio reflection | ⬜ planned |
 
 ## Curriculum coverage check

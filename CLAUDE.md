@@ -63,6 +63,11 @@ materials/    Shared reading passages, fact sheets, images, data sets
    information-rich text about science, civics & citizenship, history, geography or
    economics (drawn from the same year's WA Science/HASS curriculum). Students learn
    literacy skills *and* real-world content in the same lesson. See the style guide.
+   **Variety:** every week has a **text set** — a main text plus at least two shorter companion
+   texts of **different types** on the same topic (so ≥ 3 of: 🔬 science information,
+   🌏 HASS information, ✍️ creative (story/poem/diary/script), 📣 persuasive (letter, ad, opinion,
+   speech), procedure), with a "Compare the texts" task. The **main** text type rotates week to
+   week (never the same type twice in a row) — see the tags in the English programs.
 6. **Australian English & WA context.** Australian spelling (colour, organise,
    metre), metric units, AUD, and WA places/examples where natural.
 7. **Accuracy matters.** Facts in reading passages must be correct. If unsure of a

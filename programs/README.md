@@ -8,8 +8,9 @@ year level + subject. Worksheets are generated from these, in order. Each week n
 - **Challenge** — the stretch beyond year level.
 - **Status** — `✅ written` / `⬜ planned`.
 
-English weeks name the **content text** (science / civics / history / geography /
-economics) that carries the literacy skill.
+English weeks name the **main text** and tag its type: 🔬 science information · 🌏 HASS
+information · ✍️ creative · 📣 persuasive. Main types rotate (never the same twice in a row), and
+every week also has short companion texts of other types (see the style guide → *Text variety*).
 
 Every program ends with a **Curriculum coverage check** mapping each part of the WA
 syllabus (see `curriculum/year-XX.md`) to the weeks that teach it. When you change a

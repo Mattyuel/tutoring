@@ -41,6 +41,20 @@ Most questions should be ⭐⭐ or ⭐⭐⭐ for these students.
 - Name prior concepts explicitly ("Remember from Week 2…").
 - Homework mixes ~70 % this week and ~30 % earlier weeks.
 
+## Text variety (all English worksheets, including the Year 3 track)
+- **Text set every week:** one **main text** plus **at least two shorter companion texts** of
+  *different types* on the same topic, so each week covers ≥ 3 types from:
+  🔬 science information · 🌏 HASS information (history, geography, civics, economics) ·
+  ✍️ creative (narrative, poem, diary, monologue, script) · 📣 persuasive (letter, advertisement,
+  opinion column, speech, poster) · procedure.
+- Companion texts are short (Year 3: 80–150 words; Year 4: 100–200; Year 8: 150–300) and each has
+  2–4 questions. Include a **"Text types this week"** introduction and a **"Compare the texts"** task
+  (purpose, audience, structure, language features).
+- **Main text rotates:** the programs tag each week 🔬 / 🌏 / ✍️ / 📣. Never the same main type two
+  weeks running; across any four weeks aim for all four.
+- Creative and persuasive texts still carry accurate real-world content (the science or HASS of
+  the week) — the "wholistic" approach applies to every text.
+
 ## The "wholistic" English approach
 - Every English worksheet is built around an **original, factually accurate content text**
   (Year 4: 350–550 words; Year 8: 700–1000 words) taken from the same year's
