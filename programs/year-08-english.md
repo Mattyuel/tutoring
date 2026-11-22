@@ -52,7 +52,7 @@ information-rich; the student learns content and analyses how the text works.
 | Wk | Content text (learning area) | Literacy focus | Writing / speaking task | Status |
 |---|---|---|---|---|
 | 31 | 🌏 *Fire, Flood and Cyclone* — WA natural hazards (News report · Geography) | News report structure; objectivity | News report | ✅ written |
-| 32 | 📣 *Same Event, Different Story* — comparing news coverage (Media & persuasion · Civics) | Bias, framing, omission | Comparative media analysis | ⬜ planned |
+| 32 | 📣 *Same Event, Different Story* — comparing news coverage (Media & persuasion · Civics) | Bias, framing, omission | Comparative media analysis | ✅ written |
 | 33 | 🌏 *The Mongol Empire* — conquest, trade and the Silk Road (Information · History) | Reputation & historiography; evaluating claims | Argument: hero or villain? | ⬜ planned |
 | 34 | ✍️ Novel study, part 1 (tutor's choice of Australian novel) (Literature) | Narrative techniques; structure | Chapter analysis | ⬜ planned |
 | 35 | 🔬 *Reading the Ice* — Antarctic ice cores & climate evidence (Information · Science: Earth + SHE) | Evaluating reliability; scientific consensus language | Evaluate two claims | ⬜ planned |
